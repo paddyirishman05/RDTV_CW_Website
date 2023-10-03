@@ -1,0 +1,132 @@
+# Translation of Plugins - Loggedin &#8211; Limit Active Logins - Stable (latest release) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - Loggedin &#8211; Limit Active Logins - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-10-27 07:23:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - Loggedin &#8211; Limit Active Logins - Stable (latest release)\n"
+
+#: includes/class-loggedin-admin.php:180
+msgid "Allow:"
+msgstr "開放:"
+
+#: includes/class-loggedin-admin.php:180
+msgid "Allow new login by terminating all other old sessions when the limit is reached."
+msgstr "當帳號同一時間的登入工作階段達到上限時，以終止全部現有工作階段的方式開放新的登入工作階段。"
+
+#: includes/class-loggedin-admin.php:181
+msgid "Block:"
+msgstr "封鎖:"
+
+#: includes/class-loggedin-admin.php:181
+msgid " Do not allow new login if the limit is reached. Users need to wait for the old login sessions to expire."
+msgstr "當帳號同一時間的登入工作階段達到上限時，封鎖新的登入要求。使用者必須等待至現有的登入工作階段到期，才能進行新的登入要求。"
+
+#: includes/class-loggedin-admin.php:130
+msgid "Login Logic"
+msgstr "登入邏輯"
+
+#: includes/class-loggedin-admin.php:178
+msgid "Allow"
+msgstr "允許"
+
+#: includes/class-loggedin-admin.php:179
+msgid "Block"
+msgstr "封鎖"
+
+#. translators: %s User name of the logging out user.
+#: includes/class-loggedin-admin.php:74
+msgid "User %s forcefully logged out from all devices."
+msgstr "使用者「%s」已強制從全部裝置中登出。"
+
+#. translators: %d User ID of the login user.
+#: includes/class-loggedin-admin.php:86
+msgid "Invalid user ID: %d"
+msgstr "無效的使用者 ID: %d"
+
+#: includes/class-loggedin-admin.php:121
+msgid "Maximum Active Logins"
+msgstr "單一帳號同時登入工作階段上限"
+
+#: includes/class-loggedin-admin.php:139 includes/class-loggedin-admin.php:195
+msgid "Force Logout"
+msgstr "強制登出"
+
+#: includes/class-loggedin-admin.php:159
+msgid "Enter the limit in number"
+msgstr "輸入整數上限值"
+
+#: includes/class-loggedin-admin.php:160
+msgid "Set the maximum no. of active logins a user account can have."
+msgstr "設定單一使用者帳號能同時登入的工作階段上限。"
+
+#: includes/class-loggedin-admin.php:161
+msgid "If this limit reached, next login request will be failed and user will have to logout from one device to continue."
+msgstr "如果使用者帳號達到登入工作階段的上限，新的登入操作會失敗，使用者必須在其中一台裝置登出才能進行新的登入操作。"
+
+#: includes/class-loggedin-admin.php:162
+msgid "Note: "
+msgstr "注意事項: "
+
+#: includes/class-loggedin-admin.php:162
+msgid "Even if the browser is closed, login session may exist."
+msgstr "即使瀏覽器已關閉，登入工作階段仍會存在。"
+
+#: includes/class-loggedin-admin.php:194
+msgid "Enter user ID"
+msgstr "輸入使用者 ID"
+
+#: includes/class-loggedin-admin.php:196
+msgid "If you would like to force logout a user from all the devices, enter the user ID."
+msgstr "如需將某位使用者在全部裝置上登出，請輸入對應的使用者 ID。"
+
+#. translators: %1$s Current user's name. %2$s <strong> %3$s </strong>.
+#: includes/class-loggedin-admin.php:242
+msgid "Hey %1$s, I noticed you've been using %2$sLoggedin%3$s plugin for more than 1 week – that’s awesome! Could you please do me a BIG favor and give it a 5-star rating on WordPress? Just to help us spread the word and boost our motivation."
+msgstr "%1$s，你好。這個網站使用 %2$sLoggedin%3$s 已超過 1 週，非常感謝。是否能請你幫個忙，在 WordPress.org 給這個外掛 5 星評分？這能協助我們進行宣傳，並讓我們維持繼續開發的熱情。"
+
+#. translators: %1$s Current user's name. %2$s <strong> %3$s </strong>.
+#: includes/class-loggedin-admin.php:243
+msgid "there"
+msgstr "你好"
+
+#: includes/class-loggedin-admin.php:251
+msgid "Ok, you deserve it"
+msgstr "好，這個外掛值得這個評價"
+
+#: includes/class-loggedin-admin.php:256
+msgid "Nope, maybe later"
+msgstr "不，稍後再說"
+
+#: includes/class-loggedin-admin.php:261
+msgid "I already did"
+msgstr "已撰寫過外掛評分"
+
+#: includes/class-loggedin.php:186
+msgid "Maximum no. of active logins found for this account. Please logout from another device to continue."
+msgstr "這個帳號的登入工作階段已達上限。請從其他裝置登出以繼續。"
+
+#. Plugin URI of the plugin
+msgid "https://duckdev.com/products/loggedin-limit-active-logins/"
+msgstr "https://duckdev.com/products/loggedin-limit-active-logins/"
+
+#. Description of the plugin
+msgid "Light weight plugin to limit number of active logins from an account. Set maximum number of concurrent logins a user can have from multiple places."
+msgstr "這個輕量化的外掛可以限制同一帳號在同一時間登入的工作階段數量，這代表可以設定同一位使用者於多個地點同時登入的工作階段數量上限。"
+
+#. Author of the plugin
+msgid "Joel James"
+msgstr "Joel James"
+
+#. Author URI of the plugin
+msgid "https://duckdev.com/"
+msgstr "https://duckdev.com/"
+
+#. Plugin Name of the plugin
+msgid "Loggedin - Limit Active Logins"
+msgstr "Loggedin - 限制帳號同時登入工作階段數量"

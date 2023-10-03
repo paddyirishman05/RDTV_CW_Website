@@ -1,0 +1,167 @@
+# Translation of Plugins - Wise Chat - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Wise Chat - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-07-03 04:43:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.7\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Wise Chat - Stable (latest release)\n"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:46
+msgid "Insert an emoticon"
+msgstr "Insertar un emoticono"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:44
+msgid "Upload a picture"
+msgstr "Subir una foto"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:43
+msgid "Text color"
+msgstr "Color del texto"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:42
+msgid "Mute sounds"
+msgstr "Silenciar los sonidos"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:41
+msgid "Reset"
+msgstr "Restablecer"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:40
+msgid "Save"
+msgstr "Guardar"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:39
+msgid "Name"
+msgstr "Nombre"
+
+#: src/WiseChat.php:228
+msgid "Customize"
+msgstr "Personalizar"
+
+#: src/WiseChat.php:226
+msgid "Send"
+msgstr "Enviar"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:47
+msgid "Use Shift+ENTER in order to move to the next line."
+msgstr "Usa Shift+ENTER para moverte a la siguiente línea."
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:28
+msgid "Unsupported type of file."
+msgstr "Tipo de archivo no compatible."
+
+#: src/WiseChat.php:231
+msgid "yesterday"
+msgstr "ayer"
+
+#: src/WiseChat.php:230
+msgid "min. ago"
+msgstr "hace un minuto"
+
+#: src/WiseChat.php:229
+msgid "sec. ago"
+msgstr "hace un segundo"
+
+#: src/WiseChat.php:225
+msgid "Sending ..."
+msgstr "Enviando..."
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:63
+msgid "The chat is full now. Try again later."
+msgstr "El chat está lleno ahora. Inténtalo de nuevo más tarde."
+
+#: src/endpoints/maintenance/WiseChatMaintenanceAuth.php:129
+msgid "You are not allowed to enter the chat."
+msgstr "No tienes permitido entrar en el chat."
+
+#: src/endpoints/maintenance/WiseChatMaintenanceAuth.php:125
+msgid "Only logged in users are allowed to enter the chat"
+msgstr "Solo los usuarios conectados pueden entrar en el chat"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceAuth.php:133
+#: src/endpoints/WiseChatEndpoint.php:277
+msgid "You are blocked from using the chat"
+msgstr "Se te ha bloqueado el uso del chat"
+
+#: src/admin/WiseChatEmoticonsTab.php:85
+msgid "Full Size"
+msgstr "Tamaño completo"
+
+#: src/admin/WiseChatEmoticonsTab.php:84
+msgid "Large"
+msgstr "Grande"
+
+#: src/admin/WiseChatEmoticonsTab.php:83
+msgid "Medium Large"
+msgstr "Medio grande"
+
+#: src/admin/WiseChatEmoticonsTab.php:82
+msgid "Medium"
+msgstr "Medio"
+
+#: src/admin/WiseChatEmoticonsTab.php:81
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceAuth.php:137
+msgid "The chat is closed now"
+msgstr "El chat está cerrado ahora"
+
+#: src/WiseChat.php:232
+msgid "Insert into message"
+msgstr "Insertar en el mensaje"
+
+#: src/WiseChat.php:240
+msgid "Log in"
+msgstr "Acceder"
+
+#: src/services/user/WiseChatAuthentication.php:238
+msgid "This name is already occupied"
+msgstr "Este nombre ya está ocupado"
+
+#: src/services/user/WiseChatAuthentication.php:228
+msgid "Only letters, number, spaces, hyphens and underscores are allowed"
+msgstr "Solo se permiten letras, números, espacios, guiones y guiones bajos"
+
+#: src/services/WiseChatImagesService.php:242
+#: src/services/WiseChatImagesService.php:266
+msgid "Unsupported type of file"
+msgstr "Tipo de archivo no compatible"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:29
+msgid "The size of the file exceeds allowed limit."
+msgstr "El tamaño del archivo supera el límite permitido."
+
+#. Author of the plugin
+msgid "Kainex"
+msgstr "Kainex"
+
+#. Plugin Name of the plugin
+msgid "Wise Chat"
+msgstr "Wise Chat"
+
+#. Description of the plugin
+msgid "Fully-featured chat plugin for WordPress. It requires no server, supports multiple channels, bad words filtering, themes, appearance settings, filters, bans and more."
+msgstr "Completo plugin de chat para WordPress. No necesita de un servidor, es compatible con canales múltiples, filtrado de palabras malsonantes, temas, ajustes de apariencia, filtros, prohibiciones y más."
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:37
+#: src/WiseChat.php:125 src/WiseChat.php:239
+msgid "Enter your username"
+msgstr "Introduce tu nombre de usuario"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:57
+msgid "Are you sure you want to report the message as spam?"
+msgstr "¿Seguro que quieres informar de este mensaje como spam?"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:45
+msgid "Attach a file"
+msgstr "Adjuntar un archivo"
+
+#. Author URI of the plugin
+msgid "https://kainex.pl"
+msgstr "https://kainex.pl"

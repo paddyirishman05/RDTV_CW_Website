@@ -1,0 +1,932 @@
+# Translation of Themes - ColorMag in Greek
+# This file is distributed under the same license as the Themes - ColorMag package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-04-26 08:35:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: el_GR\n"
+"Project-Id-Version: Themes - ColorMag\n"
+
+#. Theme Name of the theme
+#: inc/hooks/footer.php:245
+#, gp-priority: high
+msgid "ColorMag"
+msgstr "ColorMag"
+
+#: inc/hooks/header.php:53
+msgid "Skip to content"
+msgstr "Μετάβαση σε περιεχόμενο"
+
+#: inc/admin/class-colormag-admin.php:38
+msgid "Processing..."
+msgstr "Επεξεργασία..."
+
+#: inc/customizer/options/content/class-colormag-customize-page-options.php:53
+msgid "Check to display the featured image in single page."
+msgstr "Επιλέξτε για εμφάνιση χαρακτηριστικής εικόνας σε μοναδική σελίδα."
+
+#: inc/customizer/options/content/class-colormag-customize-single-post-options.php:56
+msgid "Check to hide the featured image in single post page."
+msgstr "Επιλέξτε για απόκρυψη χαρακτηριστικής εικόνας σε μοναδική σελίδα."
+
+#: inc/customizer/options/content/class-colormag-customize-page-options.php:41
+#: inc/customizer/options/content/class-colormag-customize-single-post-options.php:44
+msgid "Featured Image"
+msgstr "Χαρακτηριστική εικόνα"
+
+#: inc/customizer/options/global/class-colormag-customize-colors-options.php:92
+msgid "Dark Skin"
+msgstr "Σκοτεινή εμφάνιση"
+
+#: inc/customizer/options/global/class-colormag-customize-colors-options.php:91
+msgid "White Skin"
+msgstr "Λευκή εμφάνιση"
+
+#: inc/customizer/class-colormag-customizer-register-sections-panels.php:120
+#: inc/customizer/options/global/class-colormag-customize-colors-options.php:78
+msgid "Skin Color"
+msgstr "Χρώμα εμφάνισης"
+
+#: inc/elementor/widgets/colormag-elementor-widgets-grid-5.php:50
+msgid "Grid Style 5"
+msgstr "Στυλ Πλέγματος 5"
+
+#: inc/elementor/widgets/colormag-elementor-widgets-grid-4.php:50
+msgid "Grid Style 4"
+msgstr "Στυλ Πλέγματος 4"
+
+#: inc/elementor/widgets/colormag-elementor-widgets-grid-3.php:50
+msgid "Grid Style 3"
+msgstr "Στυλ Πλέγματος 3"
+
+#: inc/elementor/widgets/colormag-elementor-widgets-grid-2.php:50
+msgid "Grid Style 2"
+msgstr "Στυλ Πλέγματος 2"
+
+#: inc/elementor/widgets/colormag-elementor-widgets-block-9.php:48
+msgid "Block Style 9"
+msgstr "Στυλ Βάθρου 9"
+
+#: inc/elementor/widgets/colormag-elementor-widgets-block-6.php:50
+msgid "Block Style 6"
+msgstr "Block Style 6"
+
+#: inc/elementor/widgets/colormag-elementor-widgets-block-4.php:43
+msgid "Block Style 4"
+msgstr "Block Style 4"
+
+#: inc/elementor/widgets/colormag-elementor-widgets-block-2.php:50
+msgid "Block Style 2"
+msgstr "Block Style 2"
+
+#: inc/elementor/widgets/class-colormag-elementor-widget-base.php:226
+msgid "Select categories:"
+msgstr "Επιλέξτε κατηγορίες:"
+
+#: inc/elementor/widgets/class-colormag-elementor-widget-base.php:218
+msgid "Categories"
+msgstr "Κατηγορίες"
+
+#: inc/elementor/widgets/class-colormag-elementor-widget-base.php:217
+msgid "Latest Posts"
+msgstr "Πρόσφατα άρθρα"
+
+#: inc/elementor/widgets/class-colormag-elementor-widget-base.php:213
+msgid "Display the posts from:"
+msgstr "Προβολή άρθρων από:"
+
+#: inc/elementor/widgets/class-colormag-elementor-widget-base.php:206
+msgid "Filter"
+msgstr "Φιλτράρισμα"
+
+#: inc/elementor/widgets/class-colormag-elementor-widget-base.php:179
+msgid "Offset Posts:"
+msgstr "Offset Άρθρα:"
+
+#: inc/elementor/widgets/class-colormag-elementor-widget-base.php:163
+msgid "Posts"
+msgstr "Άρθρα"
+
+#: inc/elementor/widgets/colormag-elementor-widgets-block-1.php:43
+msgid "Block Style 1"
+msgstr "Block Style 1"
+
+#: inc/elementor/widgets/class-colormag-elementor-widget-base.php:128
+msgid "Text Color:"
+msgstr "Χρώμα Κειμένου:"
+
+#: inc/elementor/widgets/class-colormag-elementor-widget-base.php:111
+msgid "Color:"
+msgstr "Χρώμα:"
+
+#: inc/elementor/widgets/class-colormag-elementor-widget-base.php:103
+msgid "Widget Title"
+msgstr "Τίτλος Μικροεφαρμογής"
+
+#: inc/elementor/widgets/class-colormag-elementor-widget-base.php:76
+msgid "Add your custom block title"
+msgstr "Προσθέστε τον προσαρμοσμένο τίτλο μπλοκ"
+
+#: inc/elementor/widgets/class-colormag-elementor-widget-base.php:66
+msgid "Block Title"
+msgstr "Τίτλος μπλοκ"
+
+#: inc/elementor/widgets/colormag-elementor-global-widgets-title.php:43
+msgid "Title Widget"
+msgstr "Τίτλος Μικροεφαρμογής"
+
+#: inc/elementor/elementor.php:176
+msgid "ColorMag Global Widgets"
+msgstr "ColorMag Γενικές μικροεφαρμογές"
+
+#: inc/elementor/elementor.php:167
+msgid "ColorMag Widget Grid"
+msgstr "ColorMag πλέγμα μικροεφαρμογών"
+
+#: inc/elementor/elementor.php:158
+msgid "ColorMag Widget Blocks"
+msgstr "ColorMag μπλοκ μικροεφαρμογών"
+
+#: inc/customizer/options/footer/class-colormag-customize-footer-general-options.php:56
+msgid "Type 2"
+msgstr "Τύπος 2"
+
+#: inc/customizer/options/footer/class-colormag-customize-footer-general-options.php:55
+msgid "Type 1 (Default)"
+msgstr "Τύπος 1 (προεπιλογή)"
+
+#: inc/customizer/options/footer/class-colormag-customize-footer-general-options.php:52
+msgid "Choose the main total footer area display type that you want"
+msgstr "Επιλέξτε το συνολικό τύπο κυρίου υποσέλιδου που θέλετε"
+
+#: inc/customizer/options/header/class-colormag-customize-primary-header-options.php:52
+msgid "Choose the main total header area display type that you want"
+msgstr "Επιλέξτε την περιοχή εμφάνισης της κυρίως κεφαλίδας που θέλετε"
+
+#: inc/customizer/options/header/class-colormag-customize-header-top-bar-options.php:83
+msgid "From WordPress Date Setting"
+msgstr "Από τη ρύθμιση της ημερομηνίας στο WordPress"
+
+#: inc/customizer/options/header/class-colormag-customize-header-top-bar-options.php:82
+msgid "Theme Default Setting"
+msgstr "Προεπιλεγμένη Ρύθμιση Θέματος"
+
+#: inc/customizer/options/header/class-colormag-customize-header-top-bar-options.php:78
+msgid "Date in header display type:"
+msgstr "Τύπος προβολής ημερομηνίας στην κεφαλίδα"
+
+#: inc/customizer/options/header/class-colormag-customize-primary-menu-options.php:134
+msgid "Responsive Menu Style"
+msgstr "Στυλ μενού για κινητές συσκευές"
+
+#: inc/widgets/abstract-colormag-widget.php:363
+msgid "Select an Image"
+msgstr "Επιλέξτε μια εικόνα"
+
+#: inc/widgets/abstract-colormag-widget.php:360
+msgid "Use image"
+msgstr "Χρήση εικόνας"
+
+#: inc/widgets/abstract-colormag-widget.php:359
+msgid "Choose an image"
+msgstr "Επιλογή εικόνας"
+
+#: inc/widgets/widgets.php:171
+msgid "Shows widgets just above the footer, suitable for TG: 728x90 Advertisement widget."
+msgstr "Προβάλλει μικροεφαρμογές ακριβώς πάνω από το υποσέλιδο, κατάλληλο για TG: 728X90 Μικροεφαρμογή Διαφήμισης."
+
+#: inc/widgets/widgets.php:132
+msgid "Content Bottom Section"
+msgstr "Κάτω ενότητα περιεχομένου"
+
+#: inc/customizer/class-colormag-customizer-register-sections-panels.php:250
+#: inc/customizer/options/additional/class-colormag-customize-social-options.php:44
+msgid "Social Icons"
+msgstr "Εικονίδια Κοινωνικών Δικτύων"
+
+#: inc/admin/class-colormag-dashboard.php:114
+msgid "Got theme support question?"
+msgstr "Έχετε κάποια ερώτηση υποστήριξης για το θέμα;"
+
+#: inc/admin/class-colormag-welcome-notice.php:26
+msgid "Get started with ColorMag"
+msgstr "Ξεκινήστε με το ColorMag"
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: inc/admin/class-colormag-welcome-notice.php:54
+msgid "Welcome! Thank you for choosing ColorMag! To fully take advantage of the best our theme can offer please make sure you visit our %1$swelcome page%2$s."
+msgstr "Καλωσορίσατε! Ευχαριστούμε που επιλέξατε το ColorMag! Για να εκμεταλλευτείτε πλήρως τις δυνατότητες που μπορεί να προσφέρει το θέμα, επισκεφθείτε την %1$sσελίδα καλωσορίσματος%2$s."
+
+#: inc/admin/class-colormag-notice.php:63
+#: inc/admin/class-colormag-notice.php:82
+#: inc/admin/class-colormag-welcome-notice.php:81
+msgid "Cheatin&#8217; huh?"
+msgstr "Κλέβετε ε;"
+
+#: inc/admin/class-colormag-notice.php:59
+#: inc/admin/class-colormag-notice.php:78
+#: inc/admin/class-colormag-theme-review-notice.php:154
+#: inc/admin/class-colormag-theme-review-notice.php:172
+#: inc/admin/class-colormag-welcome-notice.php:77
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Η ενέργεια απέτυχε. Ανανεώστε τη σελίδα και δοκιμάστε ξανά."
+
+#. Translators: %s: Search query.
+#: search.php:34
+msgid "Search Results for: %s"
+msgstr "Αποτελέσματα αναζήτησης για %s"
+
+#. Template Name of the theme
+msgid "Contact Page Template"
+msgstr "Πρότυπο Σελίδας Επικοινωνίας"
+
+#: sidebar.php:32
+msgid "Right"
+msgstr "Δεξιά"
+
+#. Translators: 1. Label for Contact Page or Left sidebar area, 2. Opening of
+#. the link for widgets.php WordPress section, 3. Closing of the link for
+#. widgets.php WordPress section
+#. Translators: 1. Label for Contact Page or Right sidebar area, 2. Opening of
+#. the link for widgets.php WordPress section, 3. Closing of the link for
+#. widgets.php WordPress section
+#: sidebar-left.php:41 sidebar.php:41
+msgid "This is an example widget to show how the %s Sidebar looks by default. You can add custom widgets from the %swidgets screen%s in the admin. If custom widgets are added then this will be replaced by those widgets."
+msgstr "Αυτό είναι μια Μικροεφαρμογή-παράδειγμα για να δείτε πως φαίνεται η %s Πλευρική Στήλη. Μπορείτε να προσθέτετε εξατομικευμένες μικροεφαρμογές από τη  %swidgets screen%s στον πίνακα ελέγχου. Αν προστεθούν εξατομικευμένες μικροεφαρμογές τότε αυτό θα αντικατασταθεί από αυτές."
+
+#: sidebar-left.php:38 sidebar.php:38
+msgid "Example Widget"
+msgstr "Μικροεφαρμογή-παράδειγμα"
+
+#: sidebar-left.php:32
+msgid "Left"
+msgstr "Αριστερά"
+
+#: sidebar-left.php:30 sidebar.php:30
+msgid "Contact Page"
+msgstr "Σελίδα Επικοινωνίας"
+
+#: searchform.php:23
+msgid "Search"
+msgstr "Αναζήτηση"
+
+#: no-results.php:49
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Φαίνεται ότι δε βρήκαμε αυτό που ζητούσατε. Αν θέλετε, δοκιμάστε την αναζήτηση."
+
+#: no-results.php:42
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Λυπούμαστε, αλλά τίποτα δε βρέθηκε που ταιριάζει στους όρους αναζήτησης. Παρακαλώ προσπαθήστε ξανά με άλλες λέξεις κλειδιά."
+
+#. Translators: %1$s: Link to WP admin new post page.
+#: no-results.php:28
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Έτοιμοι για την πρώτη σας δημοσίευση; <a href=\"%1$s\">Πάμε</a>!"
+
+#: navigation.php:33 navigation.php:51
+msgid "Next &rarr;"
+msgstr "Επόμενη →"
+
+#: navigation.php:32 navigation.php:50
+msgid "&larr; Previous"
+msgstr "← Προηγούμενη"
+
+#: inc/widgets/colormag-125x125-advertisement-widget.php:39
+msgid "Add your Advertisement 125x125 Images Here"
+msgstr "Προσθέστε τη Διαφήμιση 125x125 Εδώ"
+
+#: inc/widgets/colormag-125x125-advertisement-widget.php:29
+msgid "TG: 125x125 Advertisement"
+msgstr "TG: 125X125 Διαφήμιση"
+
+#: inc/widgets/colormag-125x125-advertisement-widget.php:28
+msgid "Add your 125x125 Advertisement here"
+msgstr "Προσθέστε την 125x125 Διαφήμισή σας εδώ"
+
+#: inc/widgets/colormag-728x90-advertisement-widget.php:39
+msgid "Add your Advertisement 728x90 Images Here"
+msgstr "Προσθέστε τις 728x90 Εικόνες Διαφήμισης εδώ"
+
+#: inc/widgets/colormag-728x90-advertisement-widget.php:29
+msgid "TG: 728x90 Advertisement"
+msgstr "TG: 728X90 Διαφήμιση"
+
+#: inc/widgets/colormag-728x90-advertisement-widget.php:28
+msgid "Add your 728x90 Advertisement here"
+msgstr "Προσθέστε την 728x90 Διαφήμιση εδώ"
+
+#: inc/widgets/colormag-125x125-advertisement-widget.php:49
+#: inc/widgets/colormag-125x125-advertisement-widget.php:59
+#: inc/widgets/colormag-125x125-advertisement-widget.php:69
+#: inc/widgets/colormag-125x125-advertisement-widget.php:79
+#: inc/widgets/colormag-125x125-advertisement-widget.php:89
+#: inc/widgets/colormag-125x125-advertisement-widget.php:99
+#: inc/widgets/colormag-300x250-advertisement-widget.php:49
+#: inc/widgets/colormag-728x90-advertisement-widget.php:49
+msgid "Advertisement Image "
+msgstr "Εικόνα Διαφήμισης"
+
+#: inc/widgets/colormag-125x125-advertisement-widget.php:44
+#: inc/widgets/colormag-125x125-advertisement-widget.php:54
+#: inc/widgets/colormag-125x125-advertisement-widget.php:64
+#: inc/widgets/colormag-125x125-advertisement-widget.php:74
+#: inc/widgets/colormag-125x125-advertisement-widget.php:84
+#: inc/widgets/colormag-125x125-advertisement-widget.php:94
+#: inc/widgets/colormag-300x250-advertisement-widget.php:44
+#: inc/widgets/colormag-728x90-advertisement-widget.php:44
+msgid "Advertisement Image Link "
+msgstr "Σύνδεσμος εικόνας διαφήμισης"
+
+#: inc/widgets/colormag-300x250-advertisement-widget.php:39
+msgid "Add your Advertisement 300x250 Images Here"
+msgstr "Προσθέστε τις 300x250 Εικόνες Διαφήμισης εδώ"
+
+#: inc/widgets/colormag-300x250-advertisement-widget.php:29
+msgid "TG: 300x250 Advertisement"
+msgstr "TG: 300x250 Διαφήμιση"
+
+#: inc/widgets/colormag-300x250-advertisement-widget.php:28
+msgid "Add your 300x250 Advertisement here"
+msgstr "Προσθέστε την 300x250 Διαφήμισή σας εδώ"
+
+#: inc/widgets/colormag-featured-posts-vertical-widget.php:29
+msgid "TG: Featured Posts (Style 2)"
+msgstr "TG: Επιλεγμένα άρθρα (Στυλ 2)"
+
+#: inc/widgets/colormag-featured-posts-vertical-widget.php:45
+#: inc/widgets/colormag-featured-posts-widget.php:45
+msgid "Description"
+msgstr "Περιγραφή"
+
+#: inc/elementor/widgets/class-colormag-elementor-widget-base.php:74
+#: inc/widgets/colormag-125x125-advertisement-widget.php:34
+#: inc/widgets/colormag-300x250-advertisement-widget.php:34
+#: inc/widgets/colormag-728x90-advertisement-widget.php:34
+#: inc/widgets/colormag-featured-posts-vertical-widget.php:40
+#: inc/widgets/colormag-featured-posts-widget.php:40
+msgid "Title:"
+msgstr "Τίτλος:"
+
+#: inc/widgets/colormag-featured-posts-vertical-widget.php:34
+#: inc/widgets/colormag-featured-posts-widget.php:34
+msgid "Layout will be as below:"
+msgstr "Η διάταξη θα είναι όπως παρακάτω:"
+
+#: inc/widgets/colormag-featured-posts-widget.php:29
+msgid "TG: Featured Posts (Style 1)"
+msgstr "TG: Επιλεγμένα άρθρα (Στυλ 1)"
+
+#: inc/widgets/colormag-featured-posts-vertical-widget.php:28
+#: inc/widgets/colormag-featured-posts-widget.php:28
+msgid "Display latest posts or posts of specific category."
+msgstr "Προβολή τελευταίων άρθρων ή άρθρων από συγκεκριμένη κατηγορία."
+
+#: inc/widgets/colormag-highlighted-posts-widget.php:29
+msgid "TG: Highlighted Posts"
+msgstr "TG: Highlighted Posts"
+
+#: inc/widgets/colormag-highlighted-posts-widget.php:28
+msgid "Display latest posts or posts of specific category. Suitable for the Area Beside Slider Sidebar."
+msgstr "Προβολή τελευταίων άρθρων ή άρθρων από συγκεκριμένη κατηγορία. Κατάλληλο για την Περιοχή δίπλα από την πλευρική μπάρα κύλισης."
+
+#: inc/widgets/colormag-featured-posts-slider-widget.php:49
+#: inc/widgets/colormag-featured-posts-vertical-widget.php:64
+#: inc/widgets/colormag-featured-posts-widget.php:64
+#: inc/widgets/colormag-highlighted-posts-widget.php:48
+msgid "Select category"
+msgstr "Επιλογή κατηγορίας"
+
+#: inc/widgets/colormag-featured-posts-slider-widget.php:43
+#: inc/widgets/colormag-featured-posts-vertical-widget.php:58
+#: inc/widgets/colormag-featured-posts-widget.php:58
+#: inc/widgets/colormag-highlighted-posts-widget.php:42
+msgid "Show posts from a category"
+msgstr "Προβολή άρθρων από μια κατηγορία"
+
+#: inc/widgets/colormag-featured-posts-slider-widget.php:42
+#: inc/widgets/colormag-featured-posts-vertical-widget.php:57
+#: inc/widgets/colormag-featured-posts-widget.php:57
+#: inc/widgets/colormag-highlighted-posts-widget.php:41
+msgid "Show latest Posts"
+msgstr "Εμφάνιση τελευταίων άρθρων"
+
+#: inc/elementor/widgets/class-colormag-elementor-widget-base.php:170
+#: inc/widgets/colormag-featured-posts-slider-widget.php:35
+#: inc/widgets/colormag-featured-posts-vertical-widget.php:50
+#: inc/widgets/colormag-featured-posts-widget.php:50
+#: inc/widgets/colormag-highlighted-posts-widget.php:34
+msgid "Number of posts to display:"
+msgstr "Αριθμός άρθρων για προβολή:"
+
+#: inc/widgets/colormag-featured-posts-slider-widget.php:29
+msgid "TG: Featured Category Slider"
+msgstr "TG: Featured Category Slider"
+
+#: inc/widgets/colormag-featured-posts-slider-widget.php:28
+msgid "Display latest posts or posts of specific category, which will be used as the slider."
+msgstr "Προβολή τελευταίων άρθρων ή συγκεκριμένης κατηγορίας, η οποία θα χρησιμοποιηθεί ως slider."
+
+#: inc/widgets/widgets.php:223
+msgid "Shows widgets at footer sidebar four."
+msgstr "Εμφάνιση Widgets στη στήλη υποσέλιδου 4."
+
+#: inc/widgets/widgets.php:221
+msgid "Footer Sidebar Four"
+msgstr "Στήλη Υποσέλιδου 4η"
+
+#: inc/widgets/widgets.php:210
+msgid "Shows widgets at footer sidebar three."
+msgstr "Εμφάνιση Widgets στη στήλη υποσέλιδου 3."
+
+#: inc/widgets/widgets.php:208
+msgid "Footer Sidebar Three"
+msgstr "Στήλη Υποσέλιδου 3η"
+
+#: inc/widgets/widgets.php:197
+msgid "Shows widgets at footer sidebar two."
+msgstr "Εμφάνιση Widgets στη στήλη υποσέλιδου 2."
+
+#: inc/widgets/widgets.php:195
+msgid "Footer Sidebar Two"
+msgstr "Στήλη Υποσέλιδου 2η"
+
+#: inc/widgets/widgets.php:184
+msgid "Shows widgets at footer sidebar one."
+msgstr "Εμφάνιση Widgets στη στήλη υποσέλιδου 1."
+
+#: inc/widgets/widgets.php:182
+msgid "Footer Sidebar One"
+msgstr "Στήλη Υποσέλιδου 1η"
+
+#: inc/widgets/widgets.php:169
+msgid "Advertisement Above The Footer"
+msgstr "Διαφήμιση πάνω από το υποσέλιδο"
+
+#: inc/widgets/widgets.php:158
+msgid "Shows widgets on Error 404 page."
+msgstr "Εμφάνιση Widgets στη στήλη σελίδας σφάλματος 404."
+
+#: inc/widgets/widgets.php:156
+msgid "Error 404 Page Sidebar"
+msgstr "Πλευρική Στήλη Σελίδας Λάθους 404"
+
+#: inc/widgets/widgets.php:145
+msgid "Shows widgets on Contact Page Template."
+msgstr "Εμφάνιση Widgets στη στήλη σελίδας επικοινωνίας."
+
+#: inc/widgets/widgets.php:143
+msgid "Contact Page Sidebar"
+msgstr "Πλευρική Στήλη Σελίδας Επικοινωνίας"
+
+#: inc/widgets/widgets.php:130
+msgid "Front Page: Content Bottom Section"
+msgstr "Αρχική Σελίδα: Κάτω Μέρος Περιεχομένου"
+
+#: inc/widgets/widgets.php:119
+msgid "Content Middle Right Section"
+msgstr "Μέση Δεξιά Ενότητα περιεχομένου"
+
+#: inc/widgets/widgets.php:117
+msgid "Front Page: Content Middle Right Section"
+msgstr "Αρχική Σελίδα: Μέση Δεξιά Ενότητα περιεχομένου"
+
+#: inc/widgets/widgets.php:106
+msgid "Content Middle Left Section"
+msgstr "Μεσαίο Αριστερά Τμήμα Περιεχομένου"
+
+#: inc/widgets/widgets.php:104
+msgid "Front Page: Content Middle Left Section"
+msgstr "Αρχική Σελίδα: Μεσαίο Αριστερά Τμήμα Περιεχομένου"
+
+#: inc/widgets/widgets.php:93
+msgid "Content Top Section"
+msgstr "Πάνω Τμήμα Περιεχομένου"
+
+#: inc/widgets/widgets.php:91
+msgid "Front Page: Content Top Section"
+msgstr "Αρχική Σελίδα: Πάνω Τμήμα Περιεχομένου"
+
+#: inc/widgets/widgets.php:80
+msgid "Show widget beside the slider. Suitable for TG: Highlighted Posts."
+msgstr "Προβολή μικροεφαρμογής δίπλα στο slider. Ταιρίαζει για το  TG: Highlighted Posts."
+
+#: inc/widgets/widgets.php:78
+msgid "Front Page: Area beside slider"
+msgstr "Πρώτη σελίδα: Περιοχή δίπλα στο slider"
+
+#: inc/widgets/widgets.php:67
+msgid "Show widget just below menu. Suitable for TG: Featured Category Slider."
+msgstr "Εμφάνισε της μικροεφαρμογή ακριβώς κάτω από το μενού. Ταιριάζει για  TG: Featured Category Slider."
+
+#: inc/widgets/widgets.php:65
+msgid "Front Page: Slider Area"
+msgstr "Εμπρός σελίδα: Χώρος Slider"
+
+#: inc/widgets/widgets.php:54
+msgid "Shows widgets in header section just above the main navigation menu."
+msgstr "Εμφάνιση Widgets στη κεφαλίδα ακριβώς πάνω από το κυρίως μενού."
+
+#: inc/widgets/widgets.php:52
+msgid "Header Sidebar"
+msgstr "Στήλη κεφαλίδας"
+
+#: inc/widgets/widgets.php:41
+msgid "Shows widgets at Left side."
+msgstr "Δείχνει τα γραφικά στοιχεία στην αριστερή πλευρά."
+
+#: inc/widgets/widgets.php:28
+msgid "Shows widgets at Right side."
+msgstr "Δείχνει τα γραφικά στοιχεία στην δεξιά πλευρά."
+
+#: inc/related-posts.php:23
+msgid "You May Also Like"
+msgstr "Ίσως Σας Ενδιαφέρει"
+
+#: inc/colormag-wp-query.php:93
+#: inc/customizer/class-colormag-customizer-partials.php:100
+msgid "View a random post"
+msgstr "Προβολή τυχαίου άρθρου"
+
+#: inc/colormag-wp-query.php:40
+msgid "Latest:"
+msgstr "Πρόσφατα:"
+
+#. Translators: %s: WordPress link
+#: inc/hooks/footer.php:247
+msgid "Powered by %s."
+msgstr "Κατασκευασμένο με %s."
+
+#. Translators: %1$s: Theme name, %2$s: ThemeGrill site link
+#: inc/hooks/footer.php:247
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+"Θέμα: \n"
+"%1$s από %2$s."
+
+#. Translators: %1$s: Current year, %2$s: Site link
+#: inc/hooks/footer.php:247
+msgid "Copyright &copy; %1$s %2$s. All rights reserved."
+msgstr "Πνευματικά Δικαιώματα &copy; %1$s %2$s. Τα πνευματικά δικαιώματα προστατεύονται."
+
+#: inc/hooks/footer.php:243
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/template-tags.php:611
+msgid "Reply"
+msgstr "Σχολιάστε"
+
+#: inc/template-tags.php:600
+msgid "Your comment is awaiting moderation."
+msgstr "Το σχόλιό σας περιμένει έγκριση"
+
+#. Translators: 1. Comment date, 2. Comment time
+#: inc/template-tags.php:584
+msgid "%1$s at %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/template-tags.php:577
+msgid "Post author"
+msgstr "Συντάκτης άρθρου"
+
+#: inc/template-tags.php:558
+msgid "(Edit)"
+msgstr "(Επεξεργασία)"
+
+#: inc/template-tags.php:556
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: navigation.php:59
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: navigation.php:58
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: content-page.php:66 inc/template-tags.php:95
+msgid "Edit"
+msgstr "Διόρθωση"
+
+#: inc/template-tags.php:87
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:74
+msgid "<i class=\"fa fa-comments\"></i> % Comments"
+msgstr "<i class=\"fa fa-comments\"></i> % Σχόλια"
+
+#: inc/template-tags.php:73
+msgid "<i class=\"fa fa-comment\"></i> 1 Comment"
+msgstr "<i class=\"fa fa-comment\"></i> 1 Σχόλιο"
+
+#: inc/template-tags.php:72
+msgid "<i class=\"fa fa-comment\"></i> 0 Comments"
+msgstr "<i class=\"fa fa-comment\"></i> 0 Σχόλια"
+
+#. Translators: 1. Post link, 2. Post time, 3. Post date
+#: inc/template-tags.php:48 inc/widgets/abstract-colormag-widget.php:871
+msgid "<span class=\"posted-on\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><i class=\"fa fa-calendar-o\"></i> %3$s</a></span>"
+msgstr "<span class=\"posted-on\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><i class=\"fa fa-calendar-o\"></i> %3$s</a></span>"
+
+#: inc/customizer/class-colormag-customizer-upsell-button.php:40
+msgid "View Pro Version"
+msgstr "Προβολή έκδοσης PRO"
+
+#: inc/customizer/options/content/class-colormag-customize-single-post-options.php:67
+msgid "Check to enable the lightbox for the featured images in single post"
+msgstr "Επιλέξτε για να ενεργοποιήσετε το lightbox για τις χαρακτηριστικές εικόνες σε μονό άρθρο"
+
+#: inc/customizer/options/content/class-colormag-customize-single-post-options.php:116
+msgid "Related Posts By Tags"
+msgstr "Σχετικά άρθρα από ετικέτες"
+
+#: inc/customizer/options/content/class-colormag-customize-single-post-options.php:115
+msgid "Related Posts By Categories"
+msgstr "Σχετικά άρθρα βάσει κατηγοριών"
+
+#: inc/customizer/options/content/class-colormag-customize-single-post-options.php:112
+msgid "Related Posts Must Be Shown As:"
+msgstr "Τα σχετικά άρθρα πρέπει να εμφανίζονται ως:"
+
+#: inc/customizer/options/content/class-colormag-customize-single-post-options.php:97
+msgid "Check to activate the related posts"
+msgstr "Επιλέξτε για να ενεργοποιήσετε τα σχετικά άρθρα"
+
+#: inc/customizer/options/content/class-colormag-customize-single-post-options.php:85
+msgid "Related Posts"
+msgstr "Σχετικές δημοσιεύσεις"
+
+#: inc/customizer/options/additional/class-colormag-customize-social-options.php:207
+msgid "Check to open in new tab"
+msgstr "Επιλέξτε για άνοιγμα σε νέα καρτέλα"
+
+#: inc/customizer/options/additional/class-colormag-customize-social-options.php:177
+msgid "YouTube"
+msgstr "Youtube"
+
+#: inc/customizer/options/additional/class-colormag-customize-social-options.php:172
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/customizer/options/additional/class-colormag-customize-social-options.php:167
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/customizer/options/additional/class-colormag-customize-social-options.php:162
+msgid "Google-Plus"
+msgstr "Google-Plus"
+
+#: inc/customizer/options/additional/class-colormag-customize-social-options.php:157
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customizer/options/additional/class-colormag-customize-social-options.php:152
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer/options/additional/class-colormag-customize-social-options.php:56
+msgid "Check to activate social links area"
+msgstr "Επιλέξτε για να ενεργοποιήσετε την περιοχή Κοινωνικών Δικτύων"
+
+#: inc/customizer/options/global/class-colormag-customize-layout-options.php:144
+msgid "Default layout for single posts only"
+msgstr "Προεπιλεγμένη διάταξη για άρθρα μόνο"
+
+#: inc/customizer/options/global/class-colormag-customize-layout-options.php:105
+msgid "Default layout for pages only"
+msgstr "Προεπιλεγμένη διάταξη για σελίδες μόνο"
+
+#: inc/customizer/options/global/class-colormag-customize-layout-options.php:66
+msgid "Default layout"
+msgstr "Προεπιλεγμένη διάταξη"
+
+#: inc/customizer/options/global/class-colormag-customize-layout-options.php:56
+msgid "Wide Layout"
+msgstr "Ευρεία Διάταξη"
+
+#: inc/customizer/options/global/class-colormag-customize-layout-options.php:55
+msgid "Boxed Layout"
+msgstr "Στενή Διάταξη"
+
+#: inc/customizer/class-colormag-customizer-register-sections-panels.php:156
+#: inc/customizer/options/global/class-colormag-customize-layout-options.php:41
+msgid "Site Layout"
+msgstr "Διάταξη του site"
+
+#: inc/customizer/options/front-page/class-colormag-customize-front-page-options.php:51
+msgid "Check to hide blog posts/static page on front page"
+msgstr "Επιλέξτε για να κρύψετε άρθρα/σελίδες από τη αρχική σελίδα"
+
+#: inc/customizer/options/header/class-colormag-customize-header-media-options.php:81
+msgid "Check to make header image link back to home page"
+msgstr "Επιλέξτε για να συνδέσετε την εικόνα κεφαλίδας με την αρχική σελίδα"
+
+#: inc/customizer/options/header/class-colormag-customize-header-media-options.php:50
+msgid "Display the Header image below main/primary menu."
+msgstr "Προβολή της εικόνας Κεφαλίδας κάτω από το κύριο/πρωτεύον μενού."
+
+#: inc/customizer/options/header/class-colormag-customize-header-media-options.php:49
+msgid "Default: Display the Header image between site title/text and the main/primary menu."
+msgstr "Προεπιλογή: Προβολή της εικόνας Κεφαλίδας ανάμεσα στον τίτλο/κείμενο του ιστοτόπου και το κύριο/βασικό μενού."
+
+#: inc/customizer/options/header/class-colormag-customize-header-media-options.php:48
+msgid "Display the Header image just above the site title/text."
+msgstr "Προβολή της εικόνας Κεφαλίδας ακριβώς πάνω από τον τίτλο/κείμενο του ιστοτόπου."
+
+#: inc/customizer/options/header/class-colormag-customize-header-media-options.php:45
+msgid "Header image display position"
+msgstr "Θέση εικόνας Κεφαλίδας"
+
+#: inc/customizer/options/content/class-colormag-customize-single-post-options.php:55
+#: inc/customizer/options/header/class-colormag-customize-site-identity-options.php:98
+msgid "Disable"
+msgstr "Απενεργοποίηση"
+
+#: inc/customizer/options/header/class-colormag-customize-site-identity-options.php:97
+msgid "Show Both"
+msgstr "Εμφάνιση και των δύο"
+
+#: inc/customizer/options/header/class-colormag-customize-site-identity-options.php:96
+msgid "Header Text Only"
+msgstr "Μόνο Κείμενο Κεφαλίδας "
+
+#: inc/customizer/options/header/class-colormag-customize-site-identity-options.php:95
+msgid "Header Logo Only"
+msgstr "Μόνο Λογότυπο Κεφαλίδας "
+
+#: inc/customizer/options/header/class-colormag-customize-site-identity-options.php:92
+msgid "Choose the option that you want"
+msgstr "Διαλέξτε την επιλογή που θέλετε"
+
+#: inc/customizer/options/header/class-colormag-customize-primary-menu-options.php:113
+msgid "Check to display the Random Post Icon in the primary menu"
+msgstr "Επιλέξτε για να εμφανίζεται το εικονίδιο τυχαίου άρθρου στο βασικό μενού"
+
+#: inc/customizer/options/header/class-colormag-customize-primary-menu-options.php:101
+msgid "Random Post"
+msgstr "Τυχαίο άρθρο"
+
+#: inc/customizer/options/header/class-colormag-customize-primary-menu-options.php:88
+msgid "Check to display the Search Icon in the primary menu"
+msgstr "Επιλέξτε για να εμφανίζεται το Εικονίδιο Αναζήτησης στο βασικό μενού"
+
+#: inc/customizer/options/header/class-colormag-customize-primary-menu-options.php:76
+msgid "Search Icon"
+msgstr "Εικονίδιο Αναζήτησης"
+
+#: inc/customizer/options/header/class-colormag-customize-sticky-header-options.php:44
+msgid "Sticky Menu"
+msgstr "Προσκολλουμένο Μενού"
+
+#: inc/customizer/options/header/class-colormag-customize-primary-menu-options.php:59
+msgid "Check to show the Home Icon in the primary menu"
+msgstr "Επιλέξτε για να εμφανίζεται το εικονίδιο Aρχικής σελίδας στο βασικό μενού."
+
+#: inc/customizer/options/header/class-colormag-customize-primary-menu-options.php:47
+msgid "Show Home Icon"
+msgstr "Εμφάνιση του Εικονιδίου Αρχικής Σελίδας"
+
+#: inc/customizer/options/header/class-colormag-customize-header-top-bar-options.php:59
+msgid "Check to show the date in header"
+msgstr "Επιλέξτε για να εμφανίσετε την ημερομηνία στην κεφαλίδα"
+
+#: inc/customizer/options/header/class-colormag-customize-header-top-bar-options.php:47
+msgid "Show Date"
+msgstr "Εμφάνιση Ημερομηνίας"
+
+#: inc/customizer/options/header/class-colormag-customize-header-top-bar-options.php:120
+msgid "Check to enable the breaking news section"
+msgstr "Επιλέξτε για να ενεργοποιήσετε το τμήμα εκτάκτων ειδήσεων"
+
+#: inc/customizer/options/header/class-colormag-customize-header-top-bar-options.php:108
+msgid "Breaking News"
+msgstr "Έκτακτες Ειδήσεις"
+
+#: inc/admin/class-colormag-dashboard.php:105
+msgid "Documentation"
+msgstr "Τεκμηρίωση"
+
+#: inc/widgets/widgets.php:39
+msgid "Left Sidebar"
+msgstr "Αριστερή πλευρική στήλη"
+
+#: inc/widgets/widgets.php:26
+msgid "Right Sidebar"
+msgstr "Δεξιά πλευρική στήλη"
+
+#: inc/meta-boxes/class-colormag-meta-box-page-settings.php:77
+msgid "Select Layout"
+msgstr "Επέλεξε εμφάνιση"
+
+#: inc/colormag-setup.php:39
+#: inc/customizer/class-colormag-customizer-register-sections-panels.php:201
+msgid "Primary Menu"
+msgstr "Κύριο Μενού"
+
+#: content.php:64
+msgid "Read more"
+msgstr "Περισσότερα"
+
+#: content-page.php:56 content-single.php:74
+msgid "Pages:"
+msgstr "Σελίδες:"
+
+#: comments.php:88
+msgid "Comments are closed."
+msgstr "Τα σχόλια είναι απενεργοποιημένα."
+
+#: comments.php:58 comments.php:78
+msgid "Newer Comments &rarr;"
+msgstr "Νεότερα σχόλια &rarr;"
+
+#: comments.php:57 comments.php:77
+msgid "&larr; Older Comments"
+msgstr "&larr; παλαιότερα σχόλια"
+
+#: comments.php:55 comments.php:75
+msgid "Comment navigation"
+msgstr "Πλοήγηση σχολίων"
+
+#. Translators: %1$s: Comment count, %2$s: Post title
+#: comments.php:45
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s σκέψη σχετικά μέ το &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s σκέψεις σχετικά με το &ldquo;%2$s&rdquo;"
+
+#: inc/hooks/content.php:98
+msgid "Archives"
+msgstr "Αρχείο"
+
+#: inc/hooks/content.php:92
+msgid "Links"
+msgstr "Σύνδεσμοι"
+
+#: inc/hooks/content.php:89
+msgid "Quotes"
+msgstr "Παράθεση"
+
+#: inc/hooks/content.php:86
+msgid "Videos"
+msgstr "Βίντεο"
+
+#: inc/hooks/content.php:83
+msgid "Images"
+msgstr "Εικόνες"
+
+#: inc/hooks/content.php:80
+msgid "Asides"
+msgstr "Άτιτλο"
+
+#. Translators: %s: Year archive
+#: inc/hooks/content.php:75
+msgid "Year: %s"
+msgstr "Έτος: %s"
+
+#. Translators: %s: Month archive
+#: inc/hooks/content.php:68
+msgid "Month: %s"
+msgstr "Μήνας: %s"
+
+#. Translators: %s: Day archive
+#: inc/hooks/content.php:61
+msgid "Day: %s"
+msgstr "Ημέρα: %s"
+
+#. Translators: %s: Author name
+#: inc/hooks/content.php:47
+msgid "Author: %s"
+msgstr "Συντάκτης: %s"
+
+#: 404.php:33
+msgid "It looks like nothing was found at this location. Try the search below."
+msgstr "Όπως φαίνεται δεν βρέθηκε κάτι εδώ. Δοκιμάστε την αναζήτηση παρακάτω."
+
+#: 404.php:30
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ωπα! Αυτή η σελίδα δε βρέθηκε."
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://themegrill.com"
+msgstr "https://themegrill.com"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://themegrill.com/themes/colormag/"
+msgstr "https://themegrill.com/themes/colormag/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "ThemeGrill"
+msgstr "ThemeGrill"

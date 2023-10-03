@@ -1,0 +1,447 @@
+# Translation of Plugins - Wise Chat - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - Wise Chat - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-03-07 18:47:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.7\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Wise Chat - Stable (latest release)\n"
+
+#: src/WiseChat.php:224
+msgid "Loading ..."
+msgstr "Laddar in …"
+
+#: src/integrations/elementor/addons/WiseChatAddon.php:247
+#: blocks/wise-chat/build/index.js:76 blocks/wise-chat/src/edit.js:49
+#: blocks/wise-chat/build/index.js:49
+msgid "Advanced Settings"
+msgstr "Avancerade inställningar"
+
+#: src/integrations/elementor/addons/WiseChatAddon.php:72
+#: src/integrations/elementor/addons/WiseChatAddon.php:104
+msgid "Show Avatars"
+msgstr "Visa profilbilder"
+
+#: src/integrations/elementor/addons/WiseChatAddon.php:101
+msgid "Left"
+msgstr "Vänster"
+
+#: src/integrations/elementor/addons/WiseChatAddon.php:100
+msgid "Right"
+msgstr "Höger"
+
+#: src/integrations/elementor/addons/WiseChatAddon.php:99
+msgid "Location"
+msgstr "Plats"
+
+#: src/integrations/elementor/addons/WiseChatAddon.php:98
+msgid "Enabled"
+msgstr "Aktiverad"
+
+#: src/integrations/elementor/addons/WiseChatAddon.php:97
+#: blocks/wise-chat/build/index.js:282 blocks/wise-chat/src/edit.js:201
+#: blocks/wise-chat/build/index.js:201
+msgid "Browser"
+msgstr "Webbläsare"
+
+#: src/integrations/elementor/addons/WiseChatAddon.php:89
+msgid "Top"
+msgstr "Toppen"
+
+#: src/integrations/elementor/addons/WiseChatAddon.php:88
+msgid "Bottom"
+msgstr "Botten"
+
+#: src/integrations/elementor/addons/WiseChatAddon.php:86
+msgid "Show User Name"
+msgstr "Visa användarnamn"
+
+#: src/integrations/elementor/addons/WiseChatAddon.php:74
+#: src/integrations/elementor/addons/WiseChatAddon.php:92
+#: src/integrations/elementor/addons/WiseChatAddon.php:110
+msgid "Font Color"
+msgstr "Textfärg"
+
+#: src/integrations/elementor/addons/WiseChatAddon.php:73
+#: src/integrations/elementor/addons/WiseChatAddon.php:91
+#: src/integrations/elementor/addons/WiseChatAddon.php:109
+msgid "Background Color"
+msgstr "Bakgrundsfärg"
+
+#: src/integrations/elementor/addons/WiseChatAddon.php:69
+msgid "Full"
+msgstr "Full"
+
+#: src/integrations/elementor/addons/WiseChatAddon.php:68
+msgid "Hidden"
+msgstr "Dold"
+
+#: src/integrations/elementor/addons/WiseChatAddon.php:66
+#: blocks/wise-chat/build/index.js:168 blocks/wise-chat/src/edit.js:107
+#: blocks/wise-chat/build/index.js:107
+msgid "Messages"
+msgstr "Meddelanden"
+
+#: src/integrations/elementor/addons/WiseChatAddon.php:56
+msgid "Height"
+msgstr "Höjd"
+
+#: src/integrations/elementor/addons/WiseChatAddon.php:55
+msgid "Width"
+msgstr "Bredd"
+
+#: src/integrations/elementor/addons/WiseChatAddon.php:51
+msgid "Light Gray"
+msgstr "Ljusgrå"
+
+#: src/integrations/elementor/addons/WiseChatAddon.php:50
+msgid "Default"
+msgstr "Standard"
+
+#: src/integrations/elementor/addons/WiseChatAddon.php:49
+msgid "Theme"
+msgstr "Tema"
+
+#: src/integrations/elementor/addons/WiseChatAddon.php:48
+msgid "Window Title"
+msgstr "Fönsterrubrik"
+
+#: src/integrations/elementor/addons/WiseChatAddon.php:47
+msgid "Chat"
+msgstr "Chatt"
+
+#: src/integrations/elementor/addons/WiseChatAddon.php:42
+msgid "Disable Anonymous Users"
+msgstr "Inaktivera anonyma användare"
+
+#: src/integrations/elementor/addons/WiseChatAddon.php:37
+msgid "Settings"
+msgstr "Inställningar"
+
+#: src/integrations/elementor/addons/WiseChatAddon.php:106
+msgid "Show City And Country"
+msgstr "Visa ort och land"
+
+#: src/integrations/elementor/addons/WiseChatAddon.php:108
+msgid "Show Online Users Counter"
+msgstr "Visa antal användare online"
+
+#: src/integrations/elementor/addons/WiseChatAddon.php:82
+msgid "Show Image Button"
+msgstr "Visa bildknapp"
+
+#: src/integrations/elementor/addons/WiseChatAddon.php:59
+msgid "Newest on the top"
+msgstr "Nyaste högst upp"
+
+#: src/integrations/elementor/addons/WiseChatAddon.php:58
+msgid "Newest on the bottom"
+msgstr "Nyaste längst ner"
+
+#: src/integrations/elementor/addons/WiseChatAddon.php:105
+msgid "Show National Flags"
+msgstr "Visa nationalflaggor"
+
+#: src/integrations/elementor/addons/WiseChatAddon.php:84
+msgid "Show Submit Button"
+msgstr "Visa knappen ”Skicka”"
+
+#: src/integrations/elementor/addons/WiseChatAddon.php:43
+msgid "Force Username Selection"
+msgstr "Tvinga val av användarnamn"
+
+#: src/integrations/elementor/addons/WiseChatAddon.php:79
+#: blocks/wise-chat/build/index.js:218 blocks/wise-chat/src/edit.js:147
+#: blocks/wise-chat/build/index.js:147
+msgid "Input"
+msgstr "Input"
+
+#: src/integrations/elementor/addons/WiseChatAddon.php:57
+msgid "Messages Order"
+msgstr "Sortering av meddelanden"
+
+#: src/integrations/elementor/addons/WiseChatAddon.php:87
+msgid "Input Location"
+msgstr "Inmatningsplats"
+
+#: src/integrations/elementor/addons/WiseChatAddon.php:81
+msgid "Show Emoticon Button"
+msgstr "Visa knappen ”Emotikon”"
+
+#: src/integrations/elementor/addons/WiseChatAddon.php:85
+msgid "Multiline Messages"
+msgstr "Meddelande i flera rader"
+
+#: src/WiseChat.php:238
+msgid "No channels open."
+msgstr "Ingen kanal öppen."
+
+#: src/WiseChat.php:237
+msgid "Chats"
+msgstr "Chattar"
+
+#: src/WiseChat.php:236
+msgid "Recent"
+msgstr "Senaste"
+
+#: src/integrations/elementor/addons/WiseChatAddon.php:41 src/WiseChat.php:235
+msgid "Channel"
+msgstr "Kanal"
+
+#: src/WiseChat.php:234
+msgid "Channels"
+msgstr "Kanaler"
+
+#: src/WiseChat.php:233
+msgid "Users"
+msgstr "Användare"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:64
+#: src/WiseChat.php:241
+msgid "Online users"
+msgstr "Användare online"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:62
+msgid "Minimize"
+msgstr "Minimera"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:61
+msgid "Maximize"
+msgstr "Maximera"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:60
+msgid "Settings have been saved."
+msgstr "Inställningarna har sparats."
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:59
+msgid "Search ..."
+msgstr "Sök …"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:48
+msgid "Delete the message"
+msgstr "Ta bort meddelandet"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:38
+msgid "Enter password"
+msgstr "Ange lösenord"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:36
+msgid "Confirmation"
+msgstr "Bekräftelse"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:35
+msgid "Information"
+msgstr "Information"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:34
+msgid "Error"
+msgstr "Fel"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:33
+#: src/integrations/elementor/addons/WiseChatAddon.php:143
+msgid "No"
+msgstr "Nej"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:32
+#: src/integrations/elementor/addons/WiseChatAddon.php:142
+msgid "Yes"
+msgstr "Ja"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:31
+msgid "OK"
+msgstr "OK"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:30
+msgid "Close"
+msgstr "Stäng"
+
+#. Plugin URI of the plugin
+msgid "https://kainex.pl/projects/wp-plugins/wise-chat"
+msgstr "https://kainex.pl/projects/wp-plugins/wise-chat"
+
+#: src/WiseChat.php:223 src/WiseChat.php:252
+msgid "Loading the chat ..."
+msgstr "Laddar in chatten …"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:58
+msgid "Thank you for reporting this."
+msgstr "Tack för att du rapporterar detta."
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:52
+msgid "Are you sure you want to delete this message?"
+msgstr "Är du säker på att du vill ta bort detta meddelande?"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:56
+msgid "The user has been muted."
+msgstr "Användaren har tystats."
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:55
+msgid "Are you sure you want to mute this user?"
+msgstr "Är du säker på att du vill tysta denna användare?"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:49
+msgid "Ban this user"
+msgstr "Spärra denna användare"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:54
+msgid "The user has been banned."
+msgstr "Användaren har spärrats."
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:53
+msgid "Are you sure you want to ban this user?"
+msgstr "Är du säker på att du vill spärra denna användare?"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:50
+msgid "Mute this user"
+msgstr "Tysta denna användare"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:51
+msgid "Report spam"
+msgstr "Rapportera skräppost"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:45
+msgid "Attach a file"
+msgstr "Bifoga en fil"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:44
+msgid "Upload a picture"
+msgstr "Ladda upp en bild"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:43
+msgid "Text color"
+msgstr "Textfärg"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:41
+msgid "Reset"
+msgstr "Återställ"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:40
+msgid "Save"
+msgstr "Spara"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:39
+msgid "Name"
+msgstr "Namn"
+
+#: src/WiseChat.php:228
+msgid "Customize"
+msgstr "Anpassa"
+
+#: src/WiseChat.php:226
+msgid "Send"
+msgstr "Skicka"
+
+#: src/WiseChat.php:231
+msgid "yesterday"
+msgstr "igår"
+
+#: src/WiseChat.php:230
+msgid "min. ago"
+msgstr "min. sedan"
+
+#: src/WiseChat.php:229
+msgid "sec. ago"
+msgstr "sek. sedan"
+
+#: src/WiseChat.php:225
+msgid "Sending ..."
+msgstr "Skickar ..."
+
+#: src/admin/WiseChatEmoticonsTab.php:85
+msgid "Full Size"
+msgstr "Full storlek"
+
+#: src/admin/WiseChatEmoticonsTab.php:84
+msgid "Large"
+msgstr "Stor"
+
+#: src/admin/WiseChatEmoticonsTab.php:83
+msgid "Medium Large"
+msgstr "Mellanstor"
+
+#: src/admin/WiseChatEmoticonsTab.php:82
+msgid "Medium"
+msgstr "Medium"
+
+#: src/admin/WiseChatEmoticonsTab.php:81
+msgid "Thumbnail"
+msgstr "Miniatyr"
+
+#: src/WiseChat.php:232
+msgid "Insert into message"
+msgstr "Infoga i meddelandet"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:37
+#: src/WiseChat.php:125 src/WiseChat.php:239
+msgid "Enter your username"
+msgstr "Ange ditt användarnamn"
+
+#: src/WiseChat.php:240
+msgid "Log in"
+msgstr "Logga in"
+
+#. Author of the plugin
+msgid "Kainex"
+msgstr "Kainex"
+
+#. Plugin Name of the plugin
+msgid "Wise Chat"
+msgstr "Wise Chat"
+
+#: src/services/user/WiseChatAuthentication.php:238
+msgid "This name is already occupied"
+msgstr "Detta namn är redan upptaget"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceAuth.php:137
+msgid "The chat is closed now"
+msgstr "Chatten är stängd nu"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceAuth.php:129
+msgid "You are not allowed to enter the chat."
+msgstr "Du har inte tillåtelse att gå in i chatten."
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:63
+msgid "The chat is full now. Try again later."
+msgstr "Chatten är full nu. Prova igen senare."
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:46
+msgid "Insert an emoticon"
+msgstr "Infoga en emoticon"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:57
+msgid "Are you sure you want to report the message as spam?"
+msgstr "Är du säker på att du vill rapportera meddelandet som skräppost?"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:42
+msgid "Mute sounds"
+msgstr "Tysta ljudet"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:28
+msgid "Unsupported type of file."
+msgstr "Filtypen stöds inte."
+
+#: src/endpoints/maintenance/WiseChatMaintenanceAuth.php:133
+#: src/endpoints/WiseChatEndpoint.php:277
+msgid "You are blocked from using the chat"
+msgstr "Du är blockerad från att använda chatten"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:29
+msgid "The size of the file exceeds allowed limit."
+msgstr "Storleken på filen överstiger tillåten begränsning."
+
+#: src/endpoints/maintenance/WiseChatMaintenanceAuth.php:125
+msgid "Only logged in users are allowed to enter the chat"
+msgstr "Endast Inloggad användare är tillåtna att gå in i chatten"
+
+#: src/services/WiseChatImagesService.php:242
+#: src/services/WiseChatImagesService.php:266
+msgid "Unsupported type of file"
+msgstr "Filtypen stöds inte"
+
+#. Author URI of the plugin
+msgid "https://kainex.pl"
+msgstr "https://kainex.pl"

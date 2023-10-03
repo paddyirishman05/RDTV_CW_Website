@@ -1,0 +1,7 @@
+2023-8-19 15:53:06 - wp_rcp_discounts table upgrade to 202003311 successful.
+2023-8-19 15:53:06 - wp_rcp_discounts table upgrade to 202003312 successful.
+2023-8-19 15:53:06 - wp_rcp_discounts table upgrade to 202003313 successful.
+2023-8-19 15:53:47 - Starting rcp_check_for_expired_users() cron job.
+2023-8-19 15:53:47 - Starting rcp_check_for_soon_to_expire_users() cron job.
+2023-8-19 15:53:47 - Starting rcp_check_member_counts() cron job.
+2023-8-19 15:53:47 - Starting rcp_mark_abandoned_payments() cron job.

@@ -1,0 +1,66 @@
+
+---Downloaded files---
+The import files for: Classic were successfully downloaded!
+Initial max execution time = 60
+Files info:
+Site URL = https://reddishtv.com
+Data file = /var/www/vhosts/73/647643/webspace/siteapps/WordPress-206186/htdocs/wp-content/uploads/2023/02/demo-content-import-file_2023-02-21__13-11-22.xml
+Widget file = /var/www/vhosts/73/647643/webspace/siteapps/WordPress-206186/htdocs/wp-content/uploads/2023/02/demo-widgets-import-file_2023-02-21__13-11-22.json
+Customizer file = /var/www/vhosts/73/647643/webspace/siteapps/WordPress-206186/htdocs/wp-content/uploads/2023/02/demo-customizer-import-file_2023-02-21__13-11-22.dat
+
+------
+Completed AJAX call number: 1
+
+
+---Importing content---
+
+Max execution time after content import = 300
+
+---Importing widgets---
+Main Sidebar : 
+
+AFTMN Author Info - No Title - Imported
+AFTMN Trending News - No Title - Imported
+AFTMN Posts Slider - No Title - Imported
+AFTMN Express Posts List - No Title - Imported
+
+Front-page Content Section : 
+
+AFTMN Post Double Columns - No Title - Imported
+AFTMN Post Grid - No Title - Imported
+AFTMN Post List - No Title - Imported
+AFTMN Posts Slider - No Title - Imported
+AFTMN Post Single Column - No Title - Imported
+
+Front-page Sidebar Section : 
+
+AFTMN Author Info - No Title - Imported
+AFTMN Trending News - No Title - Imported
+AFTMN Express Posts List - No Title - Imported
+
+Off Canvas : 
+
+AFTMN Social Contacts - No Title - Imported
+AFTMN Post Grid - No Title - Imported
+
+Footer First Section : 
+
+Recent Posts - No Title - Imported
+
+Footer Second Section : 
+
+Tag Cloud - No Title - Imported
+Tag Cloud - No Title - Imported
+
+Footer Third Section : 
+
+Search - No Title - Imported
+Meta - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---af-companion/after_import---
+

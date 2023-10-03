@@ -1,0 +1,4 @@
+2023-09-26T12:19:11+00:00 CRITICAL Cannot redeclare wp_cache_init() (previously declared in /home/.code/redis-cache-pro/api.php:42) in /home/1116458.cloudwaysapps.com/utztkqraym/public_html/wp-includes/cache.php on line 21
+
+2023-09-26T12:36:30+00:00 CRITICAL Cannot redeclare wp_cache_init() (previously declared in /home/.code/redis-cache-pro/api.php:42) in /home/1116458.cloudwaysapps.com/utztkqraym/public_html/wp-includes/cache.php on line 21
+

@@ -1,0 +1,1328 @@
+# Translation of Themes - HitMag in Dutch
+# This file is distributed under the same license as the Themes - HitMag package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-11-06 17:33:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: nl\n"
+"Project-Id-Version: Themes - HitMag\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "HitMag is a stylish and powerful theme crafted for magazines, newspapers or personal blogs. HitMag comes with a handful of options to customize your site the way you want. Free version has included a magazine homepage layout, 4 different style blog listing layouts and main color options. Not only that it comes with so many handful of features like author details box, Related posts after articles and control post metadata. All those features and options ensures that HitMag is not just another free WordPress theme but a powerful theme that fulfills all of the basic needs. See all the theme information at https://themezhut.com/themes/hitmag/"
+msgstr "HitMag is een stijlvol en uitgebreid thema gemaakt voor tijdschriften, kranten en persoonlijke blogs. HitMag komt met een aantal opties om de website naar wens aan te passen. De gratis versie heeft een lay-out voor een magazine homepagina, 4 verschillende blogstijlen voor lijst lay-outs en een instelling voor de hoofdkleur. Bovendien komt het met veel functies waaronder een box voor auteurgegevens, gerelateerde berichten na artikelen en kan de metadata van berichten ingesteld worden. Al deze functies en opties maken dat HitMag niet zomaar een willekeurig gratis WordPress thema is, maar een uitgebreid thema dat alle baisbehoeften vervult. Bekijk alle thema-informatie op https://themezhut.com/themes/hitmag/"
+
+#. Theme Name of the theme
+#: inc/dashboard/theme-info.php:56
+#, gp-priority: high
+msgid "HitMag"
+msgstr "HitMag"
+
+#: inc/kirki/core/class-kirki-init.php:369
+msgid "Don't show this again"
+msgstr "Dit niet meer weergeven"
+
+#: inc/kirki/core/class-kirki-init.php:368
+msgid "Install Plugin"
+msgstr "Installeer plugin"
+
+#: inc/kirki/core/class-kirki-init.php:365
+msgid "Your theme uses a Font Awesome field for icons. To avoid issues with missing icons on your frontend we recommend you install the official Font Awesome plugin."
+msgstr "Je thema gebruikt een Font Awesome veld voor pictogrammen. Om problemen met ontbrekende pictogrammen op je front-end te voorkomen, raden we je aan de officiële Font Awesome plugin te installeren."
+
+#: inc/kirki/controls/php/class-kirki-control-base.php:139
+msgid "Default Browser Font-Family"
+msgstr "Standaard lettertype van browser"
+
+#: inc/kirki/controls/php/class-kirki-control-base.php:138
+msgid "CSS Defaults"
+msgstr "CSS standaarden"
+
+#: inc/template-tags.php:64
+msgid "by %s"
+msgstr "door %s"
+
+#: inc/block-styles.php:26
+msgid "Widget title style"
+msgstr "Widget titel stijl"
+
+#: inc/customizer/customizer.php:657
+msgid "Color value"
+msgstr "Kleurwaarde"
+
+#: inc/customizer/customizer.php:656
+msgid "Select Color"
+msgstr "Kleur selecteren"
+
+#: inc/customizer/customizer.php:655
+msgid "Select default color"
+msgstr "Standaardkleur selecteren"
+
+#: inc/customizer/customizer.php:653
+msgid "Clear color"
+msgstr "Kleur wissen"
+
+#: inc/customizer/customizer.php:652
+msgid "Clear"
+msgstr "Wissen"
+
+#: inc/customizer/customizer.php:202
+msgid "Display as Header Background Image"
+msgstr "Toon als achtergrondafbeelding in header"
+
+#: inc/customizer/customizer.php:364
+msgid "Display full content instead of excerpt."
+msgstr "Toon volledige inhoud in plaats van samenvatting."
+
+#: inc/customizer/customizer.php:331
+msgid "Excerpt / Content"
+msgstr "Samenvatting / Inhoud"
+
+#: inc/widgets/block-posts-dual.php:60 inc/widgets/block-posts-dual.php:83
+#: inc/widgets/block-posts-grid.php:54 inc/widgets/sidebar-posts.php:53
+msgid "Ignore sticky posts."
+msgstr "Negeer sticky berichten."
+
+#. Template Name of the theme
+msgid "Page Builder"
+msgstr "Page-builder"
+
+#. Template Name of the theme
+msgid "Page Builder Full Width"
+msgstr "Page-builder volledige breedte"
+
+#: inc/kirki/upgrade-notifications.php:30
+msgid "Important Upgrade Notice:"
+msgstr "Belangrijk upgrade bericht:"
+
+#. translators: The title.
+#: inc/kirki/modules/custom-sections/sections/class-kirki-sections-nested-section.php:64
+msgid "Customizing &#9656; %s"
+msgstr "Aan het aanpassen &#9656; %s"
+
+#: inc/kirki/modules/custom-sections/sections/class-kirki-sections-nested-section.php:61
+msgid "Customizing"
+msgstr "Aan het aanpassen"
+
+#. translators: %1$s represents the field ID where the error occurs. %2%s is
+#. buttonset/image.
+#: inc/kirki/field/class-kirki-field-radio.php:37
+msgid "Error in field %1$s. The \"mode\" argument has been deprecated since Kirki v0.8. Use the \"radio-%2$s\" type instead."
+msgstr "Fout in veld %1$s. Het argument \"mode\" is verouderd sinds Kirki v0.8. Gebruik in plaats daarvan het type \"radio-%2$s\"."
+
+#: inc/kirki/field/class-kirki-field-color.php:52
+msgid "Do not use \"alpha\" as an argument in color controls. Use \"choices[alpha]\" instead."
+msgstr "Gebruik geen \"alpha\" als argument in kleuropzet. Gebruik in plaats daarvan \"choices[alpha]\"."
+
+#: inc/kirki/deprecated/functions.php:19
+msgid "%1$s or %2$s"
+msgstr "%1$s of %2$s"
+
+#: inc/kirki/core/class-kirki.php:237
+msgid "Kirki fields should not be added on customize_register. Please add them directly, or on init."
+msgstr "Kirki velden moeten niet worden toegevoegd bij customize_register. Voeg ze direct toe, of bij init."
+
+#: inc/kirki/core/class-kirki-init.php:289
+msgid "We detected you're using Kirki_Init::get_variables(). Please use Kirki_Util::get_variables() instead."
+msgstr "We hebben ontdekt dat je Kirki_Init::get_variables() gebruikt. Gebruik in plaats daarvan Kirki_Util::get_variables()."
+
+#. translators: The field ID where the error occurs.
+#: inc/kirki/core/class-kirki-field.php:498
+#: inc/kirki/core/class-kirki-field.php:509
+msgid "\"output\" invalid format in field %s. The \"output\" argument should be defined as an array of arrays."
+msgstr "\"output\" ongeldig format in veld %s. Het argument \"output\" moet worden gedefinieerd als een array van arrays."
+
+#. translators: %1$s represents the field ID where the error occurs.
+#: inc/kirki/core/class-kirki-field.php:375
+msgid "\"partial_refresh\" invalid entry in field %s"
+msgstr "\"partial_refresh\" ongeldige invoer in veld %s"
+
+#. translators: %1$s represents the field ID where the error occurs.
+#: inc/kirki/core/class-kirki-field.php:358
+msgid "Typo found in field %s - \"theme_mods\" vs \"theme_mod\""
+msgstr "Typfout gevonden in veld %s - \"theme_mods\" vs \"theme_mod\""
+
+#. translators: %1$s represents the field ID where the error occurs. %2$s is
+#. the URL in the documentation site.
+#: inc/kirki/core/class-kirki-field.php:257
+#: inc/kirki/core/class-kirki-field.php:267
+msgid "Config not defined for field %1$s - See %2$s for details on how to properly add fields."
+msgstr "Configuratie niet opgegeven voor veld %1$s - Bekijk %2$s voor details over hoe je op de juiste manier velden toevoegt."
+
+#. translators: %s represents the field ID where the error occurs.
+#: inc/kirki/core/class-kirki-field.php:248
+msgid "Typo found in field %s - setting instead of settings."
+msgstr "Typfout gevonden in veld %s - instelling in plaats van instellingen."
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:213
+msgid "Margin Bottom"
+msgstr "Marge onderkant"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:205
+msgid "Margin Top"
+msgstr "Marge bovenkant"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:195
+msgid "Line-Through"
+msgstr "Doorhalen"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:194
+msgid "Overline"
+msgstr "Lijn boven tekst"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:193
+msgid "Underline"
+msgstr "Onderstrepen"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:189
+msgid "Text Decoration"
+msgstr "Tekstdecoratie"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:87
+msgid "Backup Font"
+msgstr "Back-up lettertype"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:83
+#: inc/kirki/controls/php/class-kirki-control-typography.php:88
+msgid "Select Font Family"
+msgstr "Selecteer lettertype familie"
+
+#: inc/kirki/controls/php/class-kirki-control-slider.php:67
+msgid "Reset"
+msgstr "Reset"
+
+#. translators: %s represents the label of the row.
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:86
+msgid "Add new %s"
+msgstr "Nieuwe %s toevoegen"
+
+#: inc/kirki/controls/views/image.php:40
+#: inc/kirki/field/class-kirki-field-image.php:53
+msgid "Choose image"
+msgstr "Afbeelding kiezen"
+
+#: inc/kirki/controls/views/image.php:38
+#: inc/kirki/field/class-kirki-field-image.php:51
+msgid "No image selected"
+msgstr "Geen afbeelding geselecteerd"
+
+#: inc/kirki/controls/views/image.php:35
+#: inc/kirki/field/class-kirki-field-image.php:48
+msgid "Change image"
+msgstr "Afbeelding wijzigen"
+
+#: inc/kirki/controls/views/image.php:34 inc/kirki/controls/views/image.php:39
+#: inc/kirki/field/class-kirki-field-image.php:47
+#: inc/kirki/field/class-kirki-field-image.php:52
+msgid "Select image"
+msgstr "Selecteer afbeelding"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:136
+msgid "Width"
+msgstr "Breedte"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:128
+#: inc/kirki/controls/php/class-kirki-control-typography.php:126
+msgid "Word Spacing"
+msgstr "Woordspatiëring"
+
+#: inc/kirki/controls/php/class-kirki-control-base.php:137
+msgid "Google Fonts"
+msgstr "Google Fonts"
+
+#: inc/kirki/controls/php/class-kirki-control-base.php:136
+msgid "Standard Fonts"
+msgstr "Standaard lettertypen"
+
+#: inc/customizer/customizer.php:654
+#: inc/kirki/controls/php/class-kirki-control-base.php:134
+#: inc/kirki/controls/views/image.php:36
+#: inc/kirki/field/class-kirki-field-image.php:49
+msgid "Default"
+msgstr "Standaard"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:106
+msgid "Auto"
+msgstr "Auto"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:63
+#: inc/kirki/controls/php/class-kirki-control-base.php:135
+msgid "Select File"
+msgstr "Bestand selecteren"
+
+#: inc/customizer/custom-controls/class-upsell-customize.php:77
+msgid "Get HitMag Pro"
+msgstr "Koop HitMag Pro"
+
+#: inc/customizer/custom-controls/class-upsell-customize.php:76
+msgid "Ready for more?"
+msgstr "Klaar voor meer?"
+
+#: inc/customizer/customizer.php:565 inc/customizer/customizer.php:567
+msgid "Theme Details"
+msgstr "Thema details"
+
+#: inc/customizer/customizer.php:559
+msgid "Read the documentation"
+msgstr "Lees de documentatie"
+
+#: inc/customizer/customizer.php:557
+msgid "Theme Setup Guide"
+msgstr "Thema installatiehandleiding"
+
+#: footer.php:63
+msgid "Powered by %1$s and %2$s."
+msgstr "Aangedreven door %1$s en %2$s."
+
+#: template-parts/related-posts.php:10
+msgid "Related Posts"
+msgstr "Gerelateerde berichten"
+
+#. translators: %s: Name of current post.
+#: template-parts/content-single.php:39
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Verder lezen %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-page.php:29 template-parts/content-single.php:44
+msgid "Pages:"
+msgstr "Pagina's:"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Het lijkt erop dat we niet kunnen vinden waar je naar zoekt. Misschien kun je er naar zoeken."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Er kwam niets overeen met je zoektermen. Probeer het nog eens met wat andere keywords."
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klaar om je eerste bericht te publiceren? <a href=\"%1$s\">Ga hier aan de slag</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Niets gevonden"
+
+#: template-parts/authorbox.php:11
+msgid "View all posts by %s &rarr;"
+msgstr "Bekijk alle berichten van %s &rarr;"
+
+#: template-parts/authorbox.php:8
+msgid "About %s"
+msgstr "Over %s"
+
+#: template-magazine.php:36
+msgid "Please go to Appearance &#8594; Widgets and add posts widgets to the \"Magazine Homepage\" widget area. You can use the Magazine Posts widgets to set up the theme like the demo website."
+msgstr "Ga naar Weergave &#8594; Widgets en voeg berichten widgets toe aan het widget gebied \"Tijdschrift homepage\". Je kunt de categorie berichten widgets gebruiken om het thema in te stellen, gelijk aan de demo site."
+
+#: single.php:30
+msgid "Previous Article"
+msgstr "Vorige artikel"
+
+#: single.php:28
+msgid "Next Article"
+msgstr "Volgende artikel"
+
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Zoekresultaten voor: %s"
+
+#: inc/widgets/sidebar-posts.php:15
+msgid "Displays latest posts or posts from a choosen category.Use this widget in the main sidebars."
+msgstr "Toont de laatste berichten of berichten van een gekozen categorie. Gebruik deze widget in de hoofd zijbalken."
+
+#: inc/widgets/sidebar-posts.php:14
+msgid "HitMag: Sidebar Posts"
+msgstr "HitMag: zijbalk berichten"
+
+#: inc/widgets/popular-tags-comments.php:158
+msgid "No tags created."
+msgstr "Geen tags aangemaakt."
+
+#: inc/widgets/popular-tags-comments.php:144
+msgid "No comments found."
+msgstr "Geen reacties gevonden."
+
+#: inc/widgets/popular-tags-comments.php:85
+msgid "Tags"
+msgstr "Tags"
+
+#: inc/widgets/popular-tags-comments.php:84
+msgid "Comments"
+msgstr "Reacties"
+
+#: inc/widgets/popular-tags-comments.php:83
+msgid "Popular"
+msgstr "Populair"
+
+#: inc/widgets/popular-tags-comments.php:37
+msgid "Number of comments:"
+msgstr "Aantal reacties:"
+
+#: inc/widgets/popular-tags-comments.php:33
+msgid "Number of popular posts:"
+msgstr "Aantal populaire berichten:"
+
+#: inc/widgets/popular-tags-comments.php:16
+msgid "Displays popular posts, comments, tags in a tabbed pane."
+msgstr "Toont populaire berichten, reacties, tags in een venster met tabs."
+
+#: inc/widgets/popular-tags-comments.php:15
+msgid "HitMag: Popular Posts, Tags, Comments"
+msgstr "HitMag: populaire berichten, tags, reacties"
+
+#: inc/widgets/block-posts-single.php:14
+msgid "HitMag: Magazine Posts (Style 1)"
+msgstr "HitMag: tijdschrift berichten (stijl 1)"
+
+#: inc/widgets/block-posts-grid.php:45
+msgid "Select a post category:"
+msgstr "Selecteer een berichtcategorie:"
+
+#: inc/widgets/block-posts-grid.php:14 inc/widgets/block-posts-single.php:15
+msgid "Displays latest posts or posts from a choosen category."
+msgstr "Toon de laatste berichten of berichten uit een gekozen categorie."
+
+#: inc/widgets/block-posts-grid.php:13
+msgid "HitMag: Magazine Posts ( Style 3 )"
+msgstr "HitMag: tijdschrift berichten (stijl 3)"
+
+#: inc/widgets/block-posts-dual.php:68
+msgid "Second Set of Posts"
+msgstr "Tweede set berichten"
+
+#: inc/widgets/block-posts-dual.php:63 inc/widgets/block-posts-dual.php:86
+#: inc/widgets/block-posts-grid.php:57 inc/widgets/block-posts-single.php:45
+msgid "View All Text:"
+msgstr "Bekijk volledige tekst:"
+
+#: inc/widgets/block-posts-dual.php:55 inc/widgets/block-posts-dual.php:78
+#: inc/widgets/block-posts-grid.php:49 inc/widgets/sidebar-posts.php:48
+msgid "Number of posts:"
+msgstr "Aantal berichten:"
+
+#: inc/widgets/block-posts-dual.php:51 inc/widgets/block-posts-dual.php:74
+#: inc/widgets/block-posts-single.php:41 inc/widgets/sidebar-posts.php:44
+msgid "Select a post category"
+msgstr "Selecteer een berichtcategorie"
+
+#: inc/widgets/block-posts-dual.php:47 inc/widgets/block-posts-dual.php:70
+#: inc/widgets/block-posts-grid.php:41 inc/widgets/block-posts-single.php:37
+#: inc/widgets/sidebar-posts.php:40
+msgid "Title:"
+msgstr "Titel:"
+
+#: inc/widgets/block-posts-dual.php:45
+msgid "First Set of Posts"
+msgstr "Eerste set berichten"
+
+#: inc/widgets/block-posts-dual.php:34 inc/widgets/block-posts-dual.php:39
+#: inc/widgets/block-posts-grid.php:34 inc/widgets/block-posts-single.php:31
+msgid "View All"
+msgstr "Bekijk alles"
+
+#: inc/widgets/block-posts-dual.php:30 inc/widgets/block-posts-dual.php:35
+#: inc/widgets/block-posts-grid.php:30 inc/widgets/block-posts-single.php:29
+#: inc/widgets/sidebar-posts.php:30
+msgid "Latest Posts"
+msgstr "Nieuwste berichten"
+
+#: inc/widgets/block-posts-dual.php:14
+msgid "Displays posts in a two column layout."
+msgstr "Toont berichten in een lay-out over twee kolommen."
+
+#: inc/widgets/block-posts-dual.php:13
+msgid "HitMag: Magazine Posts (Style 2)"
+msgstr "HitMag: tijdschrift berichten (stijl 2)"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:153
+msgid " / "
+msgstr " / "
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:125 template-parts/content-page.php:43
+msgid "Edit %s"
+msgstr "Bewerk %s"
+
+#: inc/template-tags.php:114
+msgid "Tagged"
+msgstr "Getagd"
+
+#: inc/template-tags.php:84
+msgid "1 Comment"
+msgstr "1 reactie"
+
+#. translators: %d: number of comments
+#: inc/template-tags.php:82
+msgid "%d Comments."
+msgstr "%d reacties."
+
+#: inc/template-tags.php:79
+msgid "Leave a Comment"
+msgstr "Laat een reactie achter"
+
+#: inc/dashboard/theme-info.php:170
+msgid "Create a page."
+msgstr "Pagina aanmaken."
+
+#: inc/dashboard/theme-info.php:167
+msgid "Then from the \"Page Attributes\" dialog box select the Template-\"Magazine Homepage\""
+msgstr "Vervolgens in de dialoogbox voor \"Pagina attributen\" selecteer het template \"Magazine homepage\""
+
+#: inc/dashboard/theme-info.php:166
+msgid "First create a page to display on front page. Give any title for that page. ( eg: Home )"
+msgstr "Maak eerst een pagina aan om de voorpagina mee te tonen. Geef het een willekeurige titel zoals Home"
+
+#: inc/dashboard/theme-info.php:163
+msgid "Create a page that has \"Magazine Homepage\" page template."
+msgstr "Maak een pagina aan dat het \"Magazine homepage\" pagina template gebruikt."
+
+#: inc/dashboard/theme-info.php:161
+msgid "Change front page template"
+msgstr "Voorpagina template wijzigen"
+
+#: inc/dashboard/theme-info.php:157
+msgid "Go to the edit screen of the front page. Then select the Template - \"Magazine Homepage\" from \"Page Attributes\" dialog box."
+msgstr "Ga naar het bewerken scherm van de voorpagina. Selecteer vervolgens het template \"Magazine homepage\" in de dialoogbox voor \"Pagina attributen\"."
+
+#: inc/dashboard/theme-info.php:155
+msgid "Select the \"Magazine Homepage\" page template for the front page."
+msgstr "Selecteer het \"Magazine homepage\" pagina template voor de voorpagina."
+
+#: inc/dashboard/theme-info.php:144
+msgid "Select front page."
+msgstr "Voorpagina selecteren."
+
+#: inc/dashboard/theme-info.php:141
+msgid "Select the page that has \"Magazine Homepage\" template as the front page ."
+msgstr "Selecteer de pagina met het \"Magazine homepage\" template als voorpagina."
+
+#: inc/dashboard/theme-info.php:138
+msgid "Select \"A Static page\" option for the setting \"Front Page Displays\""
+msgstr "Selecteer \"Een statische pagina\" optie voor de instelling \"Voorpagina toont\""
+
+#: inc/dashboard/theme-info.php:127
+msgid "Go to Widgets Area"
+msgstr "Ga naar widgets gebied"
+
+#: inc/dashboard/theme-info.php:124
+msgid "Congratulations...! You have activated a magazine front page successfully. Now start adding posts widgets to \"Magazine Homepage\" widget area."
+msgstr "Gefeliciteerd... Je hebt een magazine voorpagina geactiveerd. Je kunt nu berichten widgets toevoegen aan het \"Magazine homepage\" widget gebied."
+
+#: inc/dashboard/theme-info.php:97
+msgid "Theme Preview"
+msgstr "Thema voorbeeld"
+
+#: inc/dashboard/theme-info.php:96
+msgid "See the theme preview of free version."
+msgstr "Zie het thema voorbeeld van de gratis versie."
+
+#: inc/dashboard/theme-info.php:95
+msgid "Theme Demo"
+msgstr "Thema demo"
+
+#: inc/dashboard/theme-info.php:93
+msgid "Theme Details."
+msgstr "Thema details."
+
+#: inc/dashboard/theme-info.php:92
+msgid "Know all the details about HitMag theme."
+msgstr "Leer alle details over het HitMag thema."
+
+#: inc/customizer/customizer.php:87 inc/dashboard/theme-info.php:91
+msgid "Theme Info"
+msgstr "Thema info"
+
+#: inc/dashboard/theme-info.php:89
+msgid "Read the documentation."
+msgstr "Lees de documentatie."
+
+#: inc/dashboard/theme-info.php:88
+msgid "Need to learn all about HitMag? Read the theme documentation carefully."
+msgstr "Wil je alles weten over HitMag? Lees de documentatie over het thema aandachtig door."
+
+#: inc/dashboard/theme-info.php:87
+msgid "Theme Documentation"
+msgstr "Thema documentatie"
+
+#: inc/dashboard/theme-info.php:85
+msgid "Go to customizer"
+msgstr "Ga naar de customizer"
+
+#: inc/dashboard/theme-info.php:84
+msgid "All the HitMag theme settings are located at the customizer. Start customizing your website with customizer."
+msgstr "Alle HitMag thema instellingen bevinden zich in de customizer. Begin met het aanpassen van je site met customizer."
+
+#: inc/dashboard/theme-info.php:83
+msgid "Theme Customizer"
+msgstr "Thema customizer"
+
+#: inc/dashboard/theme-info.php:50
+msgid "Welcome to HitMag"
+msgstr "Welkom bij HitMag"
+
+#: inc/dashboard/theme-info.php:37 inc/dashboard/theme-info.php:39
+msgid "HitMag Theme"
+msgstr "HitMag thema"
+
+#: inc/dashboard/theme-info.php:19
+msgid "Get Started with HitMag"
+msgstr "Aan de slag met HitMag"
+
+#: inc/dashboard/theme-info.php:18
+msgid "Welcome to HitMag! To get started with HitMag please visit the theme Welcome page."
+msgstr "Welkom bij HitMag. Om te starten met HitMag bekijk eerst de Welkomstpagina van het thema."
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:121
+msgid "Select a Page"
+msgstr "Pagina selecteren"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:180
+#: inc/kirki/controls/php/class-kirki-control-typography.php:196
+msgid "Initial"
+msgstr "Initieel"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:179
+msgid "Lowercase"
+msgstr "Kleine letters"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:178
+msgid "Uppercase"
+msgstr "Hoofdletters"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:177
+msgid "Capitalize"
+msgstr "Omzetten naar hoofdletter"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:176
+#: inc/kirki/controls/php/class-kirki-control-typography.php:192
+msgid "None"
+msgstr "Geen"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:173
+msgid "Text Transform"
+msgstr "Teksttransformatie"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:134
+msgid "Text Align"
+msgstr "Tekst uitlijning"
+
+#. translators: %s represents the number of rows we're limiting the repeater to
+#. allow.
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:227
+msgid "Limit: %s rows"
+msgstr "Limiet: %s rijen"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:77
+msgid "row"
+msgstr "rij"
+
+#: inc/kirki/controls/php/class-kirki-control-dimension.php:41
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:138
+msgid "Invalid Value"
+msgstr "Ongeldige waarde"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:220
+msgid "Ultra-Bold 900 Italic"
+msgstr "Ultra vet 900 cursief"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:218
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:219
+msgid "Ultra-Bold 900"
+msgstr "Ultra vet 900"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:217
+msgid "Extra-Bold 800 Italic"
+msgstr "Extra vet 800 cursief"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:215
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:216
+msgid "Extra-Bold 800"
+msgstr "Extra vet 800"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:214
+msgid "Bold 700 Italic"
+msgstr "Vet 700 cursief"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:213
+msgid "Bold 700"
+msgstr "Vet 700"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:212
+msgid "Semi-Bold 600 Italic"
+msgstr "Halfvet 600 cursief"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:210
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:211
+msgid "Semi-Bold 600"
+msgstr "Halfvet 600"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:209
+msgid "Medium 500 Italic"
+msgstr "Medium 500 cursief"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:208
+msgid "Medium 500"
+msgstr "Medium 500"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:207
+msgid "Normal 400 Italic"
+msgstr "Normaal 400 cursief"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:205
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:206
+msgid "Normal 400"
+msgstr "Normaal 400"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:204
+msgid "Book 300 Italic"
+msgstr "Book 300 cursief"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:203
+msgid "Book 300"
+msgstr "Book 300"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:202
+msgid "Light 200 Italic"
+msgstr "Licht 200 cursief"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:201
+msgid "Light 200"
+msgstr "Licht 200"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:200
+msgid "Ultra-Light 100 Italic"
+msgstr "Ultra-licht 100 cursief"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:198
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:199
+msgid "Ultra-Light 100"
+msgstr "Ultra-licht 100"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:135
+msgid "Spacing"
+msgstr "Tussenruimte"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:137
+msgid "Height"
+msgstr "Hoogte"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:134
+msgid "Size"
+msgstr "Grootte"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:93
+msgid "Variant"
+msgstr "Variant"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:62
+#: inc/kirki/controls/php/class-kirki-control-base.php:133
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:386
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:418
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:443
+#: inc/kirki/controls/views/image.php:37
+#: inc/kirki/field/class-kirki-field-image.php:50
+msgid "Remove"
+msgstr "Verwijderen"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:59
+#: inc/kirki/controls/php/class-kirki-control-base.php:132
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:408
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:413
+msgid "No File Selected"
+msgstr "Geen bestand geselecteerd"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:419
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:421
+msgid "Change File"
+msgstr "Bestand wijzigen"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:419
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:423
+msgid "Add File"
+msgstr "Bestand toevoegen"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:376
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:381
+msgid "No Image Selected"
+msgstr "Geen afbeelding geselecteerd"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:387
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:389
+msgid "Change Image"
+msgstr "Afbeelding wijzigen"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:387
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:391
+msgid "Add Image"
+msgstr "Afbeelding toevoegen"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:221
+msgid "Color"
+msgstr "Kleur"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:163
+msgid "Justify"
+msgstr "Uitlijnen"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:133
+#: inc/kirki/controls/php/class-kirki-control-typography.php:151
+msgid "Center"
+msgstr "Midden"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:132
+#: inc/kirki/controls/php/class-kirki-control-typography.php:157
+#: inc/kirki/field/class-kirki-field-spacing.php:35
+msgid "Right"
+msgstr "Rechts"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:131
+#: inc/kirki/controls/php/class-kirki-control-typography.php:145
+#: inc/kirki/field/class-kirki-field-spacing.php:34
+msgid "Left"
+msgstr "Links"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:130
+#: inc/kirki/field/class-kirki-field-spacing.php:33
+msgid "Bottom"
+msgstr "Onder"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:129
+#: inc/kirki/field/class-kirki-field-spacing.php:32
+msgid "Top"
+msgstr "Boven"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:127
+#: inc/kirki/controls/php/class-kirki-control-typography.php:118
+msgid "Letter Spacing"
+msgstr "Letterafstand"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:126
+msgid "Font Style"
+msgstr "Lettertype stijl"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:125
+#: inc/kirki/controls/php/class-kirki-control-typography.php:110
+msgid "Line Height"
+msgstr "Regelafstand"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:124
+msgid "Font Weight"
+msgstr "Gewicht lettertype"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:123
+#: inc/kirki/controls/php/class-kirki-control-typography.php:102
+msgid "Font Size"
+msgstr "Lettertype grootte"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:82
+msgid "Font Family"
+msgstr "Lettertype familie"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:81
+msgid "Background Position"
+msgstr "Achtergrond positie"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:91
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:122
+msgid "Center Bottom"
+msgstr "Midden onder"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:90
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:121
+msgid "Center Center"
+msgstr "Midden midden"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:89
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:120
+msgid "Center Top"
+msgstr "Midden boven"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:88
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:119
+msgid "Right Bottom"
+msgstr "Rechtsonder"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:87
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:118
+msgid "Right Center"
+msgstr "Rechts midden"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:86
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:117
+msgid "Right Top"
+msgstr "Rechtsboven"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:85
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:116
+msgid "Left Bottom"
+msgstr "Linksonder"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:84
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:115
+msgid "Left Center"
+msgstr "Links midden"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:83
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:114
+msgid "Left Top"
+msgstr "Linksboven"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:113
+msgid "Background Attachment"
+msgstr "Achtergrond bijlage"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:116
+msgid "Scroll"
+msgstr "Scroll"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:119
+msgid "Fixed"
+msgstr "Vast"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:97
+msgid "Background Size"
+msgstr "Achtergrondgrootte"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:103
+msgid "Contain"
+msgstr "Bevatten"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:100
+msgid "Cover"
+msgstr "Cover"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:70
+msgid "Background Repeat"
+msgstr "Achtergrond herhaling"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:139
+#: inc/kirki/controls/php/class-kirki-control-typography.php:181
+#: inc/kirki/controls/php/class-kirki-control-typography.php:197
+msgid "Inherit"
+msgstr "Erven"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:75
+msgid "Repeat Vertically"
+msgstr "Verticaal herhalen"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:74
+msgid "Repeat Horizontally"
+msgstr "Horizontaal herhalen"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:73
+msgid "Repeat All"
+msgstr "Herhaal alles"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:72
+msgid "No Repeat"
+msgstr "Geen herhaling"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:54
+msgid "Background Image"
+msgstr "Achtergrondafbeelding"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:48
+msgid "Background Color"
+msgstr "Achtergrondkleur"
+
+#: inc/customizer/customizer.php:110
+msgid "Theme Primary Color"
+msgstr "Thema primaire kleur"
+
+#: inc/customizer/customizer.php:528
+msgid "Tags list after the post."
+msgstr "Tags lijst na het bericht."
+
+#: inc/customizer/customizer.php:515
+msgid "Related posts after the post."
+msgstr "Gerelateerde berichten na het bericht."
+
+#: inc/customizer/customizer.php:502
+msgid "Author details box after the post."
+msgstr "Gegevens van de auteur na het bericht."
+
+#: inc/customizer/customizer.php:489
+msgid "Posts navigation after the post."
+msgstr "Berichten navigatie na het bericht."
+
+#: inc/customizer/customizer.php:468
+msgid "Use lightbox feature."
+msgstr "Gebruik de lichtbox functie."
+
+#: inc/customizer/customizer.php:452
+msgid "Link featured image to full size image."
+msgstr "Link naar de afbeelding op ware grootte."
+
+#: inc/customizer/customizer.php:439
+msgid "Featured image inside the single post."
+msgstr "Uitgelichte afbeelding binnen een enkel bericht."
+
+#: inc/customizer/customizer.php:429
+msgid "Categories List"
+msgstr "Categorieën lijst"
+
+#: inc/customizer/customizer.php:424
+msgid "What post meta to display in single post?"
+msgstr "Welke bericht-meta weer te geven bij een enkel bericht?"
+
+#: inc/customizer/customizer.php:394 template-parts/content.php:56
+msgid "Read More"
+msgstr "Lees meer"
+
+#: inc/customizer/customizer.php:392
+msgid "Read more button text."
+msgstr "Lees meer knoptekst."
+
+#: inc/customizer/customizer.php:379
+msgid "Show read more button."
+msgstr "Toon lees meer knop."
+
+#: inc/customizer/customizer.php:344
+msgid "Excerpt Length"
+msgstr "Lengte samenvatting"
+
+#: inc/customizer/customizer.php:324 inc/customizer/customizer.php:432
+msgid "Comments Link"
+msgstr "Reacties link"
+
+#: inc/customizer/customizer.php:323 inc/customizer/customizer.php:431
+msgid "Author"
+msgstr "Auteur"
+
+#: inc/customizer/customizer.php:322 inc/customizer/customizer.php:430
+msgid "Date"
+msgstr "Datum"
+
+#: inc/customizer/customizer.php:321
+msgid "Category List"
+msgstr "Categorielijst"
+
+#: inc/customizer/customizer.php:316
+msgid "What post meta to display?"
+msgstr "Welke bericht meta weer te geven?"
+
+#: inc/customizer/customizer.php:308
+msgid "Large posts with featured images on the top."
+msgstr "Grote berichten met uitgelichte afbeeldingen aan de bovenkant."
+
+#: inc/customizer/customizer.php:307
+msgid "Large Posts"
+msgstr "Grote berichten"
+
+#: inc/customizer/customizer.php:304
+msgid "Posts with featured images on the left side."
+msgstr "Berichten met uitgelichte afbeeldingen aan de linkerkant."
+
+#: inc/customizer/customizer.php:303
+msgid "List Posts"
+msgstr "Lijst berichten"
+
+#: inc/customizer/customizer.php:300
+msgid "3 posts in a row."
+msgstr "3 berichten op een rij."
+
+#: inc/customizer/customizer.php:299
+msgid "3 Columns Grid"
+msgstr "3 kolommen raster"
+
+#: inc/customizer/customizer.php:296
+msgid "2 posts in a row."
+msgstr "2 berichten op een rij."
+
+#: inc/customizer/customizer.php:295
+msgid "2 Columns Grid"
+msgstr "2 kolommen raster"
+
+#: inc/customizer/customizer.php:288
+msgid "Posts Listing Layout"
+msgstr "Berichten lijst lay-out"
+
+#: inc/customizer/customizer.php:272 inc/customizer/customizer.php:408
+#: inc/customizer/customizer.php:541
+msgid "Content and Sidebar Alignment"
+msgstr "Uitlijning van inhoud en zijbalk"
+
+#: inc/customizer/customizer.php:254
+msgid "Select the category for slider posts"
+msgstr "Selecteer de categorie voor slider berichten"
+
+#: inc/customizer/customizer.php:241
+msgid "Featured Slider"
+msgstr "Uitgelichte slider"
+
+#: inc/customizer/customizer.php:233
+msgid "Learn How to create a magazine homepage"
+msgstr "Leer hoe je een tijdschrift homepage maakt"
+
+#: inc/customizer/customizer.php:231
+msgid "Create a magazine homepage."
+msgstr "Maak een tijdschrift homepage."
+
+#: inc/customizer/customizer.php:223
+msgid "Slider displays on magazine homepage only."
+msgstr "De slider wordt alleen op de homepage van het tijdschrift weergegeven."
+
+#: inc/customizer/customizer.php:221
+msgid "Notice"
+msgstr "Bericht"
+
+#: inc/customizer/customizer.php:210
+msgid "Link header image to homepage."
+msgstr "Link header afbeelding naar homepage."
+
+#: inc/customizer/customizer.php:199
+msgid "After Main Navigation"
+msgstr "Na hoofdnavigatie"
+
+#: inc/customizer/customizer.php:196
+msgid "Before site title and logo"
+msgstr "Voor site titel en logo"
+
+#: inc/customizer/customizer.php:193
+msgid "After site title and logo"
+msgstr "Na site titel en logo"
+
+#: inc/customizer/customizer.php:187
+msgid "Header Image Position"
+msgstr "Header afbeelding positie"
+
+#: inc/customizer/customizer.php:171
+msgid "Show date on topbar."
+msgstr "Toon datum op bovenbalk."
+
+#: inc/customizer/customizer.php:162
+msgid "Show search icon on Main Navigation."
+msgstr "Toon zoekpictogram in hoofdnavigatie."
+
+#: inc/customizer/customizer.php:155 inc/customizer/customizer.php:337
+#: inc/customizer/customizer.php:385 inc/customizer/customizer.php:445
+#: inc/customizer/customizer.php:495 inc/customizer/customizer.php:508
+#: inc/customizer/customizer.php:521 inc/customizer/customizer.php:534
+msgid "Hide"
+msgstr "Verbergen"
+
+#: inc/customizer/customizer.php:154 inc/customizer/customizer.php:336
+#: inc/customizer/customizer.php:384 inc/customizer/customizer.php:444
+#: inc/customizer/customizer.php:494 inc/customizer/customizer.php:507
+#: inc/customizer/customizer.php:520 inc/customizer/customizer.php:533
+msgid "Show"
+msgstr "Tonen"
+
+#: inc/customizer/customizer.php:149
+msgid "Top Bar Show/Hide"
+msgstr "Bovenste balk tonen/verbergen"
+
+#: inc/customizer/customizer.php:140
+msgid "Footer Copyright Text."
+msgstr "Footer copyright tekst."
+
+#: inc/customizer/customizer.php:133 inc/customizer/customizer.php:247
+#: inc/kirki/controls/php/class-kirki-control-switch.php:56
+#: inc/kirki/field/class-kirki-field-switch.php:40
+msgid "Off"
+msgstr "Uit"
+
+#: inc/customizer/customizer.php:132 inc/customizer/customizer.php:246
+#: inc/kirki/controls/php/class-kirki-control-switch.php:52
+#: inc/kirki/field/class-kirki-field-switch.php:39
+msgid "On"
+msgstr "Aan"
+
+#: inc/customizer/customizer.php:127
+msgid "Boxed Layout"
+msgstr "Boxed lay-out"
+
+#: inc/customizer/customizer.php:82
+msgid "These opitons affect only to pages."
+msgstr "Deze opties zijn alleen van toepassing op pagina's."
+
+#: inc/customizer/customizer.php:81
+msgid "Page options"
+msgstr "Pagina opties"
+
+#: inc/customizer/customizer.php:76
+msgid "These options affect only to single post articles."
+msgstr "Deze opties zijn alleen van toepassing op artikelen met één bericht."
+
+#: inc/customizer/customizer.php:75
+msgid "Post options"
+msgstr "Bericht opties"
+
+#: inc/customizer/customizer.php:69
+msgid "These options affect to blog posts listing page and archives like category and tags."
+msgstr "Deze opties hebben invloed op de lijst van blogberichten en archieven zoals categorie en tags."
+
+#: inc/customizer/customizer.php:68
+msgid "Blog options"
+msgstr "Blog opties"
+
+#: inc/customizer/customizer.php:62
+msgid "Slider Settings"
+msgstr "Slider instellingen"
+
+#: inc/customizer/customizer.php:55
+msgid "Header Image Options"
+msgstr "Header afbeelding opties"
+
+#: inc/customizer/customizer.php:49
+msgid "Header Settings"
+msgstr "Header instellingen"
+
+#: inc/customizer/customizer.php:43
+msgid "Top Bar"
+msgstr "Bovenste balk"
+
+#: inc/customizer/customizer.php:37
+msgid "General Settings"
+msgstr "Algemene instellingen"
+
+#: inc/customizer/customizer.php:28
+msgid "Header options"
+msgstr "Header opties"
+
+#: inc/customizer/custom-controls/control-category-dropdown.php:16
+msgid "&mdash; Show All Posts &mdash;"
+msgstr "&mdash; Toon alle berichten &mdash;"
+
+#: inc/class-meta-boxes.php:130
+msgid "Full Width Content Centered."
+msgstr "Volledige breedte. Inhoud gecentreerd."
+
+#: inc/class-meta-boxes.php:127
+msgid "Full Width"
+msgstr "Volledige breedte"
+
+#: inc/class-meta-boxes.php:124
+msgid "Left Sidebar"
+msgstr "Zijbalk links"
+
+#: inc/class-meta-boxes.php:121
+msgid "Right Sidebar"
+msgstr "Zijbalk rechts"
+
+#: inc/class-meta-boxes.php:118
+msgid "Default Layout"
+msgstr "Standaard lay-out"
+
+#: inc/class-meta-boxes.php:38
+msgid "Select Layout"
+msgstr "Selecteer lay-out"
+
+#: header.php:40
+msgid "Skip to content"
+msgstr "Ga naar de inhoud"
+
+#: functions.php:274
+msgid "Footer Right Sidebar"
+msgstr "Footer zijbalk rechts"
+
+#: functions.php:265
+msgid "Footer Mid Sidebar"
+msgstr "Footer zijbalk midden"
+
+#: functions.php:256
+msgid "Footer Left Sidebar"
+msgstr "Footer zijbalk links"
+
+#: functions.php:249
+msgid "You can add advertisement widget to this widget area."
+msgstr "Je kunt een advertentie widget toevoegen aan dit widget gebied."
+
+#: functions.php:247
+msgid "Header Advertisement Area"
+msgstr "Header advertentiegebied"
+
+#: functions.php:240
+msgid "Appearas on Magazine Homepage template only. Add magazine posts widgets to this widget area."
+msgstr "Verschijnt alleen op tijdschrift homepage template. Voeg tijdschrift berichten widgets toe aan dit widget gebied."
+
+#. Template Name of the theme
+#: functions.php:238 inc/dashboard/theme-info.php:59
+msgid "Magazine Homepage"
+msgstr "Tijdschrift homepage"
+
+#: functions.php:231
+msgid "Add widgets here."
+msgstr "Voeg hier widgets toe."
+
+#: functions.php:229
+msgid "Main Sidebar"
+msgstr "Hoofd zijbalk"
+
+#: functions.php:191
+msgid "Social Links Menu"
+msgstr "Menu sociale links"
+
+#: functions.php:54
+msgid "Social Media Menu"
+msgstr "Menu sociale media"
+
+#: functions.php:53 functions.php:182 header.php:51
+msgid "Top Menu"
+msgstr "Top menu"
+
+#: functions.php:52 functions.php:173 header.php:135
+msgid "Main Menu"
+msgstr "Hoofdmenu"
+
+#: footer.php:57
+msgid "Copyright &#169; %1$s %2$s."
+msgstr "Copyright &#169; %1$s %2$s ."
+
+#: comments.php:95
+msgid "Comments are closed."
+msgstr "Reacties zijn gesloten."
+
+#: comments.php:60 comments.php:82
+msgid "Newer Comments"
+msgstr "Nieuwere reacties"
+
+#: comments.php:59 comments.php:81
+msgid "Older Comments"
+msgstr "Oudere reacties"
+
+#: comments.php:56 comments.php:78
+msgid "Comment navigation"
+msgstr "Reactie navigatie"
+
+#: comments.php:38
+msgctxt "comments title"
+msgid "%1$s Comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Comments on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s reactie op &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s reacties op &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:33
+msgctxt "comments title"
+msgid "One Comment on &ldquo;%s&rdquo;"
+msgstr "Eén reactie op &ldquo;%s&rdquo;"
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Het lijkt erop dat er niets gevonden is op deze locatie. Probeer het eens met een zoekopdracht?"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oeps! Deze pagina kon niet worden gevonden."
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "http://themezhut.com"
+msgstr "http://themezhut.com"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "ThemezHut"
+msgstr "ThemezHut"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "http://themezhut.com/themes/hitmag/"
+msgstr "http://themezhut.com/themes/hitmag/"

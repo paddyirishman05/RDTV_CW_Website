@@ -1,0 +1,802 @@
+# Translation of Plugins - Simple Ajax Chat – Add a Fast, Secure Chat Box - Stable (latest release) in Greek
+# This file is distributed under the same license as the Plugins - Simple Ajax Chat – Add a Fast, Secure Chat Box - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-05-22 11:10:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: el_GR\n"
+"Project-Id-Version: Plugins - Simple Ajax Chat – Add a Fast, Secure Chat Box - Stable (latest release)\n"
+
+#: simple-ajax-chat.php:570
+msgid "Homepage"
+msgstr "Αρχική σελίδα"
+
+#: support-panel.php:57
+msgid "Thank you for using"
+msgstr "Ευχαριστούμε που χρησιμοποιείτε"
+
+#: support-panel.php:58
+msgid "Please show support by purchasing one of my"
+msgstr "Δείξτε την υποστήριξή σας αγοράζοντας ένα από τα δικά μας"
+
+#: support-panel.php:59
+msgid "or by making a"
+msgstr "ή κάνοντας ένα"
+
+#: support-panel.php:61
+msgid "and is greatly appreciated."
+msgstr "και εκτιμάται ιδιαίτερα."
+
+#: support-panel.php:55
+msgid "donation"
+msgstr "δωρεά"
+
+#: support-panel.php:59
+msgid "or"
+msgstr "ή"
+
+#: support-panel.php:60
+msgid "Your generous support helps to ensure future development of"
+msgstr "Η γενναιόδωρη υποστήριξη σας βοηθά στη διασφάλιση της μελλοντικής ανάπτυξης του"
+
+#: support-panel.php:63
+msgid "Any size donation helps me to continue developing this free plugin and other awesome WordPress resources."
+msgstr "Κάθε ποσό δωρεάς με βοηθά να συνεχίσω να αναπτύσσω αυτό το δωρεάν πρόσθετο και άλλους υπέροχους πόρους του WordPress."
+
+#: support-panel.php:54
+msgid "plugins"
+msgstr "πρόσθετα"
+
+#: support-panel.php:53
+msgid "books"
+msgstr "βιβλία"
+
+#: simple-ajax-chat.php:743
+msgid "IP collection disabled"
+msgstr "Η συλλογή IP έχει απενεργοποιηθεί"
+
+#: simple-ajax-chat-admin.php:748
+msgid "Disable collection of IP address. No IP info will be stored in the database."
+msgstr "Απενεργοποιήστε τη συλλογή της IP διευθύνσεων. Δεν θα αποθηκευτούν πληροφορίες για IP στη βάση δεδομένων."
+
+#: simple-ajax-chat-admin.php:744
+msgid "Disable IP Collection"
+msgstr "Απενεργοποίησε τη συλλογή IP"
+
+#: support-panel.php:49
+msgid "Perishable Press Books"
+msgstr "Perishable Press Books"
+
+#: simple-ajax-chat-core.php:80
+msgid "WP Plugin SAC: Name and comment required. Please complete all required fields and try again."
+msgstr "WAC Plugin SAC: Απαιτείται το όνομα και το σχόλιο. Συμπληρώστε όλα τα υποχρεωτικά πεδία και δοκιμάστε ξανά."
+
+#: simple-ajax-chat-core.php:70
+msgid "WP Plugin SAC: JavaScript not enabled. Please enable JavaScript and try again."
+msgstr "WAC Plugin SAC: Η JavaScript δεν είναι ενεργοποιημένη. Ενεργοποιήστε το JavaScript και δοκιμάστε ξανά."
+
+#: simple-ajax-chat-admin.php:1076
+msgid "Click the \"Export\" link to create a CSV file named \"sac-export.csv\", located in the SAC plugin directory. A download link will appear after the file is created."
+msgstr "Κάντε κλικ στο σύνδεσμο \"Εξαγωγή\" για να δημιουργήσετε ένα αρχείο CSV με το όνομα \"sac-export.csv\", που βρίσκεται στον κατάλογο plugin SAC. Μετά τη δημιουργία του αρχείου θα εμφανιστεί ένας σύνδεσμος λήψης."
+
+#: simple-ajax-chat-admin.php:1072
+msgid "Export Chat Messages"
+msgstr "Εξαγωγή μηνυμάτων συνομιλίας"
+
+#: simple-ajax-chat-admin.php:1198
+msgid "Are you sure you want to create a new file on the server? It may contain sensitive data like user IP address. You can always delete the file by clicking on the \"Delete CSV\" link, which will appear after the file is created. Click \"OK\" to continue."
+msgstr "Είστε βέβαιοι ότι θέλετε να δημιουργήσετε ένα νέο αρχείο στο διακομιστή; Μπορεί να περιέχει ευαίσθητα δεδομένα, όπως διεύθυνση IP χρήστη. Μπορείτε πάντα να διαγράψετε το αρχείο κάνοντας κλικ στο σύνδεσμο \"Διαγραφή CSV\", το οποίο θα εμφανιστεί μετά τη δημιουργία του αρχείου. Κάντε κλικ στο \"OK\" για να συνεχίσετε."
+
+#: simple-ajax-chat-admin.php:1077
+msgid "Note that the export file will contain ALL chat data (including user IP), and should be deleted after download. You can delete the file by clicking the \"Delete CSV\" link, which will appear after the file is created."
+msgstr "Σημειώστε ότι το αρχείο εξαγωγής θα περιέχει ΟΛΑ τα δεδομένα συνομιλίας (συμπεριλαμβανομένης της IP χρήστη) και θα πρέπει να διαγραφεί μετά τη λήψη. Μπορείτε να διαγράψετε το αρχείο κάνοντας κλικ στο σύνδεσμο \"Διαγραφή CSV\", που θα εμφανιστεί μετά τη δημιουργία του αρχείου."
+
+#: simple-ajax-chat-admin.php:689
+msgid "Display Mode"
+msgstr "Λειτουργία προβολής"
+
+#: simple-ajax-chat-admin.php:326
+msgid "Chat Date"
+msgstr "Ημερομηνία συζήτησης"
+
+#: simple-ajax-chat-admin.php:328
+msgid "Chat Message"
+msgstr "Μήνυμα συζήτησης"
+
+#: simple-ajax-chat-admin.php:327
+msgid "Chat Name"
+msgstr "Όνομα συζήτησης"
+
+#: simple-ajax-chat-admin.php:398
+msgid "Delete CSV File"
+msgstr "Διαγραφή CSV αρχείου "
+
+#: simple-ajax-chat-admin.php:386
+msgid "Export all chat data in CSV format"
+msgstr "Εξαγωγή όλων των δεδομένων συνομιλίας σε μορφή CSV"
+
+#: simple-ajax-chat-admin.php:359
+msgid "Unable to create file. Try creating the file manually and make sure it has write permissions."
+msgstr "Δεν είναι δυνατή η δημιουργία αρχείου. Προσπαθήστε να δημιουργήσετε το αρχείο χειροκίνητα και βεβαιωθείτε ότι διαθέτει δικαιώματα εγγραφής."
+
+#: simple-ajax-chat-admin.php:324
+msgid "User IP"
+msgstr "IP χρήστη"
+
+#: simple-ajax-chat-admin.php:578
+msgid "Chats exported to CSV file."
+msgstr "Οι συνομιλίες έγιναν εξαγωγή στο αρχείο CSV."
+
+#: simple-ajax-chat-admin.php:579
+msgid "Export file deleted successfully."
+msgstr "Το αρχείο εξαγωγής διαγράφηκε επιτυχώς."
+
+#: exports/export.php:15 simple-ajax-chat-admin.php:298
+#: simple-ajax-chat-admin.php:415
+msgid "Sorry, you are not allowed to export data."
+msgstr "Λυπούμαστε, δεν επιτρέπεται η εξαγωγή δεδομένων."
+
+#: simple-ajax-chat-admin.php:316
+msgid "Chat Log"
+msgstr "Αρχείο καταγραφής συνομιλιών"
+
+#: simple-ajax-chat-admin.php:390
+msgid "Download CSV File"
+msgstr "Λήψη του αρχείου CSV"
+
+#: simple-ajax-chat-admin.php:693
+msgid "Display chat messages as read-only. So visitors can view chats, but not add their own."
+msgstr "Εμφάνισε τα μηνύματα συνομιλίας ως μόνο για ανάγνωση. Έτσι οι επισκέπτες μπορούν να δουν τις συνομιλίες, αλλά να μην προσθέσουν τις δικές τους."
+
+#: simple-ajax-chat-admin.php:325
+msgid "User URL"
+msgstr "URL χρήστη"
+
+#: simple-ajax-chat-admin.php:575
+msgid "All chat messages deleted."
+msgstr "Όλα τα μηνύματα συνομιλίας διαγράφηκαν."
+
+#: resources/sac.php:432
+msgid "Posted:"
+msgstr "Δημοσιεύθηκε:"
+
+#: simple-ajax-chat-admin.php:577
+msgid "Comment edited successfully."
+msgstr "Το σχόλιο επεξεργάστηκε με επιτυχία."
+
+#: simple-ajax-chat-admin.php:576
+msgid "Comment deleted successfully."
+msgstr "Το σχόλιο διαγράφηκε."
+
+#. Plugin Name of the plugin
+#: simple-ajax-chat-admin.php:25 simple-ajax-chat.php:496 support-panel.php:7
+msgid "Simple Ajax Chat"
+msgstr "Simple Ajax Chat"
+
+#: simple-ajax-chat-admin.php:24 simple-ajax-chat.php:495
+msgid "Welcome to the Chat Forum"
+msgstr "Καλώς ήλθατε στο φόρουμ συνομιλίας"
+
+#: simple-ajax-chat-admin.php:458
+msgid "Currently there "
+msgstr "Επί του παρόντος"
+
+#: simple-ajax-chat-admin.php:629 simple-ajax-chat-admin.php:648
+msgid "Plugin Settings"
+msgstr "Ρυθμίσεις πρόσθετου"
+
+#: simple-ajax-chat-admin.php:602
+msgid "and/or"
+msgstr "και / ή"
+
+#: simple-ajax-chat-admin.php:620
+msgid "Overview"
+msgstr "Επισκόπηση"
+
+#: simple-ajax-chat.php:576
+msgid "Rate this plugin"
+msgstr "Αξιολογήστε το πρόσθετο"
+
+#: simple-ajax-chat.php:575
+msgid "Give us a 5-star rating at WordPress.org"
+msgstr "Βαθμολογήστε μας με 5 αστέρια στο WordPress.org"
+
+#. Author URI of the plugin
+msgid "https://plugin-planet.com/"
+msgstr "https://plugin-planet.com/"
+
+#. Author of the plugin
+msgid "Jeff Starr"
+msgstr "Τζεφ Σταρ"
+
+#. Description of the plugin
+msgid "Displays a fully customizable Ajax-powered chat box anywhere on your site."
+msgstr "Εμφανίζει μια πλήρως προσαρμόσιμη συνομιλία που υποστηρίζεται απο την Ajax οπουδήποτε στον ιστότοπό σας."
+
+#. Plugin URI of the plugin
+msgid "https://perishablepress.com/simple-ajax-chat/"
+msgstr "https://perishablepress.com/simple-ajax-chat/"
+
+#: simple-ajax-chat.php:760
+msgid "minute"
+msgstr "λεπτό"
+
+#: simple-ajax-chat.php:759
+msgid "hour"
+msgstr "ώρα"
+
+#: simple-ajax-chat.php:758
+msgid "day"
+msgstr "ημέρα"
+
+#: simple-ajax-chat.php:757
+msgid "week"
+msgstr "εβδομάδα"
+
+#: simple-ajax-chat.php:756
+msgid "month"
+msgstr "μήνας"
+
+#: simple-ajax-chat.php:755
+msgid "year"
+msgstr "έτος"
+
+#: simple-ajax-chat.php:537
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: simple-ajax-chat.php:521
+msgid "Default message not inserted."
+msgstr "Δεν έγινε εισαγωγή του προεπιλεγμένου μηνύματος."
+
+#: simple-ajax-chat-admin.php:1100
+msgid "Delete all plugin settings"
+msgstr "Διαγραφή όλων των ρυθμίσεων του πρόσθετου"
+
+#: simple-ajax-chat-admin.php:1177
+msgid "Hide this notice"
+msgstr "Απόκρυψη της ειδοποίησης"
+
+#: simple-ajax-chat-admin.php:1143
+msgid "Obsessive Web Design &amp; Development"
+msgstr "Obsessive Web Design & Development"
+
+#: simple-ajax-chat-admin.php:1142
+msgid "Jeff Starr on Twitter"
+msgstr "Ο Τζεφ Σταρ στο Twitter"
+
+#: simple-ajax-chat-admin.php:1141
+msgid "by"
+msgstr "από"
+
+#: simple-ajax-chat-admin.php:1101
+msgid "To delete all plugin settings and chat messages from the database, simply uninstall (delete) the plugin."
+msgstr "Για να διαγράψετε όλες τις ρυθμίσεις του plugin και τα μηνύματα συνομιλίας από τη βάση δεδομένων, απλώς απεγκαταστήστε (διαγράψτε) το πρόσθετο"
+
+#: simple-ajax-chat-admin.php:1089 simple-ajax-chat-admin.php:1093
+msgid "Restore default settings"
+msgstr "Επαναφορά αρχικών ρυθμίσεων"
+
+#: simple-ajax-chat-admin.php:1090
+msgid "Click the button to restore plugin options to their default setttings."
+msgstr "Κάντε κλικ στο κουμπί για να επαναφέρετε τις επιλογές του plugin στις προεπιλεγμένες ρυθμίσεις."
+
+#: simple-ajax-chat-admin.php:1086
+msgid "Restore Defaults"
+msgstr "Επαναφορά προεπιλογών"
+
+#: simple-ajax-chat-admin.php:997
+msgid "Banned phrases"
+msgstr "Απαγορευμένες φράσεις"
+
+#: simple-ajax-chat-admin.php:985
+msgid "This setting applies to usernames, URLs, and chat messages."
+msgstr "Αυτή η ρύθμιση ισχύει για ονόματα χρήστη, διευθύνσεις URL και μηνύματα συνομιλίας."
+
+#: simple-ajax-chat-admin.php:984
+msgid "Comma-separated List of banned words/phrases that never will be displayed in the chat box."
+msgstr "Λίστα με απαγορευμένες λέξεις/φράσεις που δεν θα εμφανίζονται ποτέ στο πλαίσιο συνομιλίας."
+
+#: simple-ajax-chat-admin.php:981
+msgid "Banned Phrases"
+msgstr "Απαγορευμένες φράσεις"
+
+#: simple-ajax-chat-admin.php:1065
+msgid "Delete all chats"
+msgstr "Διαγραφή όλων των συνομιλίων"
+
+#: simple-ajax-chat-admin.php:1048
+msgid "Edit"
+msgstr "Τροποποίηση"
+
+#: simple-ajax-chat-admin.php:1047
+msgid "Delete"
+msgstr "Διαγραφή"
+
+#: simple-ajax-chat-admin.php:1035
+msgid "Latest Message: %s ago"
+msgstr "Τελευταίο μήνυμα:%s πριν"
+
+#: simple-ajax-chat-admin.php:1115
+msgid "Use this template tag to display the chat box anywhere in your theme template:"
+msgstr "Χρησιμοποιήστε αυτήν την ετικέτα template (tag) για να εμφανίσετε το πλαίσιο συνομιλίας οπουδήποτε στο theme σας:"
+
+#: simple-ajax-chat-admin.php:1114
+msgid "Template tag"
+msgstr "ετικέτα template (tag) "
+
+#: simple-ajax-chat-admin.php:1111
+msgid "Use this shortcode to display the chat box on any WP Post or Page:"
+msgstr "Χρησιμοποιήστε αυτό το shortcode για να εμφανίσετε το πλαίσιο συνομιλίας σε οποιοδήποτε post ή page του WP:"
+
+#: simple-ajax-chat-admin.php:1110
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: simple-ajax-chat-admin.php:969 simple-ajax-chat-admin.php:1006
+msgid "Save Settings"
+msgstr "Αποθήκευση ρυθμίσεων"
+
+#: simple-ajax-chat-admin.php:962
+msgid "Optional custom content to appear *after* the chat form. Leave blank to disable."
+msgstr "Προαιρετικό προσαρμοσμένο περιεχόμενο για εμφάνιση *μετά* από τη φόρμα συνομιλίας. Αφήστε κενό για απενεργοποίηση."
+
+#: simple-ajax-chat-admin.php:958
+msgid "After chat form"
+msgstr "Μετά τη φόρμα συνομιλίας"
+
+#: simple-ajax-chat-admin.php:953
+msgid "Optional custom content to appear *before* the chat form. Leave blank to disable."
+msgstr "Προαιρετικό προσαρμοσμένο περιεχόμενο για εμφάνιση *πριν* από τη φόρμα συνομιλίας. Αφήστε κενό για απενεργοποίηση."
+
+#: simple-ajax-chat-admin.php:949
+msgid "Before chat form"
+msgstr "Πριν τη φόρμα συνομιλίας"
+
+#: simple-ajax-chat-admin.php:944
+msgid "Optional custom content to appear *after* the chat box. Leave blank to disable."
+msgstr "Προαιρετικό προσαρμοσμένο περιεχόμενο για εμφάνιση *μετά* του πλαισίου συνομιλίας. Αφήστε κενό για απενεργοποίηση."
+
+#: simple-ajax-chat-admin.php:940
+msgid "After chat box"
+msgstr "Μετά τη φόρμα συνομιλίας"
+
+#: simple-ajax-chat-admin.php:935
+msgid "Optional custom content to appear *before* the chat box. Leave blank to disable."
+msgstr "Προαιρετικό προσαρμοσμένο περιεχόμενο για εμφάνιση *πριν* από το πλαίσιο συνομιλίας. Αφήστε κενό για απενεργοποίηση."
+
+#: simple-ajax-chat-admin.php:888
+msgid "Enable custom styles?"
+msgstr "Ενεργοποίηση προσαρμοσμένων στυλ;"
+
+#: simple-ajax-chat-admin.php:931
+msgid "Before chat box"
+msgstr "Πριν το πλαίσιο συνομιλίας"
+
+#: simple-ajax-chat-admin.php:927
+msgid "Custom content"
+msgstr "Προσαρμοσμένο περιεχόμενο"
+
+#: simple-ajax-chat-admin.php:920
+msgid "Separate multiple URLs with a comma. Leave blank to disable."
+msgstr "Διαχωρίστε πολλές διευθύνσεις URL με κόμμα. Αφήστε κενό για απενεργοποίηση."
+
+#: simple-ajax-chat-admin.php:919
+msgid "To prevent this, and to include the required JavaScript only on the chat page, enter its URL here."
+msgstr "Για να αποφευχθεί αυτό, και για να συμπεριλάβετε την απαιτούμενη JavaScript μόνο στη σελίδα συνομιλίας, καταχωρίστε τη διεύθυνση URL εδώ."
+
+#: simple-ajax-chat-admin.php:918
+msgid "By default, SAC JavaScript is included on *every* page."
+msgstr "Από προεπιλογή, το SAC JavaScript περιλαμβάνεται σε *κάθε* σελίδα."
+
+#: simple-ajax-chat-admin.php:914
+msgid "Chat URL"
+msgstr "Διεύθυνση URL συζήτησης"
+
+#: simple-ajax-chat-admin.php:910
+msgid "Targeted loading"
+msgstr "Στοχευμένη φόρτωση"
+
+#: simple-ajax-chat-admin.php:903
+msgid "for a complete list of CSS selectors."
+msgstr "για μια πλήρη λίστα των CSS selectors.."
+
+#: simple-ajax-chat-admin.php:902
+msgid "tags. Check out"
+msgstr "ετικέτες (tags). Ρίξε μια ματιά"
+
+#: simple-ajax-chat-admin.php:901
+msgid "Optional CSS to style the chat form. Do not include"
+msgstr "Προαιρετικό CSS για το στυλ της φόρμας συνομιλίας. Μην το συμπεριλάβετε"
+
+#: simple-ajax-chat-admin.php:897
+msgid "Custom CSS styles"
+msgstr "Προσαρμοσμένα στυλ CSS"
+
+#: simple-ajax-chat-admin.php:892
+msgid "Check this box if you want to enable the Custom CSS styles."
+msgstr "Επιλέξτε αυτό το πλαίσιο εάν θέλετε να ενεργοποιήσετε τα προσαρμοσμένα στυλ CSS."
+
+#: simple-ajax-chat-admin.php:873
+msgid "Color must be 6-digit-hex format, default color is #ffffff."
+msgstr "Το χρώμα πρέπει να είναι 6ψήφιο (δεκαεξαδικού τύπου), το προεπιλεγμένο χρώμα είναι #ffffff."
+
+#: simple-ajax-chat-admin.php:872
+msgid "&ldquo;Fade-out&rdquo; background-color of new chat messages."
+msgstr "\"Ξεθώριασμα\" χρώματος φόντου των νέων μηνυμάτων συνομιλίας."
+
+#: simple-ajax-chat-admin.php:863
+msgid "Color must be 6-digit-hex format, default color is #ffffcc."
+msgstr "Το χρώμα πρέπει να είναι 6ψήφιο (δεκαεξαδικού τύπου), το προεπιλεγμένο χρώμα είναι #ffffff"
+
+#: simple-ajax-chat-admin.php:757
+msgid "Maximum number of chats that should be allowed in the chat box."
+msgstr "Μέγιστος αριθμός συνομιλιών που πρέπει να επιτρέπονται στο πλαίσιο συνομιλίας."
+
+#: simple-ajax-chat-admin.php:753
+msgid "Max chats"
+msgstr "Μέγιστος αριθμός συνομιλιών"
+
+#: simple-ajax-chat-admin.php:739
+msgid "Display chats in ascending order (new messages appear at the bottom of the list). Requires jQuery."
+msgstr "Εμφάνιση των συζητήσεων σε αύξουσα σειρά (νέα μηνύματα εμφανίζονται στο κάτω μέρος της λίστας). Απαιτείται jQuery."
+
+#: simple-ajax-chat-admin.php:735
+msgid "Chat order"
+msgstr "Ταξινόμηση συνομιλιών"
+
+#: simple-ajax-chat-admin.php:730
+msgid "See the FAQs to learn how to customize the sound alert."
+msgstr "Δείτε τις συχνές ερωτήσεις για να μάθετε πώς να προσαρμόζετε την ειδοποίηση ήχου."
+
+#: simple-ajax-chat-admin.php:729
+msgid "Play sound alert for new chat messages."
+msgstr "Αναπαραγωγή ηχητικής ειδοποίησης για νέα μηνύματα συνομιλίας."
+
+#: simple-ajax-chat-admin.php:725
+msgid "Sound alerts"
+msgstr "Ήχοι ειδοποιήσεων"
+
+#: simple-ajax-chat-admin.php:720
+msgid "Display a larger input field for chat messages."
+msgstr "Εμφάνιση μεγαλύτερου πεδίου εισαγωγής για μηνύματα συνομιλίας."
+
+#: simple-ajax-chat-admin.php:716
+msgid "Large input field"
+msgstr "Μεγάλο πεδίο εισαγωγής"
+
+#: simple-ajax-chat-admin.php:711
+msgid "Enable users to specify a URL for their chat name."
+msgstr "Επέτρεψε στους χρήστες να καθορίζουν μια διεύθυνση URL για το όνομα χρήστη στις συνομιλίας τους."
+
+#: simple-ajax-chat-admin.php:707
+msgid "Linked username"
+msgstr "Συνδεδεμένο όνομα χρήστη"
+
+#: simple-ajax-chat-admin.php:702
+msgid "Use the logged-in username as the chat name."
+msgstr "Χρησιμοποιήστε το όνομα σύνδεσης του χρήστη ως όνομα χρήστη στη συζήτηση."
+
+#: simple-ajax-chat-admin.php:698
+msgid "Logged-in username"
+msgstr "Όνομα συνδεδεμένου χρήστη"
+
+#: simple-ajax-chat-admin.php:684
+msgid "Require users to be logged in to view and use the chat box."
+msgstr "Απαιτείται η σύνδεση των χρηστών για την προβολή και χρήση του πλαισίου συνομιλίας."
+
+#: simple-ajax-chat-admin.php:680
+msgid "Require log in"
+msgstr "Απαιτείται σύνδεση"
+
+#: simple-ajax-chat-admin.php:606
+msgid "Your generous support enables continued development of this free plugin. Thank you!"
+msgstr "Η γενναιόδωρη υποστήριξη σας επιτρέπει τη συνεχή ανάπτυξη αυτού του δωρεάν πρόσθετου. Ευχαριστώ!"
+
+#: simple-ajax-chat-admin.php:603 simple-ajax-chat-admin.php:636
+msgid "Thank you for your support!"
+msgstr "Σας ευχαριστούμε για την υποστήριξή σας!"
+
+#: simple-ajax-chat-admin.php:602
+msgid "make a donation"
+msgstr "κάντε μια δωρεά"
+
+#: simple-ajax-chat-admin.php:602
+msgid "Make a donation via PayPal!"
+msgstr "Δωρίστε μεσώ PayPal"
+
+#: simple-ajax-chat-admin.php:602
+msgid "Please"
+msgstr "Σας παρακαλούμε"
+
+#: simple-ajax-chat-admin.php:598
+msgid "Simple Ajax Chat needs your support!"
+msgstr "To Simple Ajax Chat χρειάζεται την υποστήριξή σας!"
+
+#: simple-ajax-chat-admin.php:588
+msgid "Toggle all panels"
+msgstr "Εναλλαγή όλων των πλαισίων"
+
+#: simple-ajax-chat-admin.php:574
+msgid "Default settings restored."
+msgstr "Οι προεπιλεγμένες ρυθμίσεις αποκαταστάθηκαν."
+
+#: simple-ajax-chat-admin.php:460
+msgid "chat message."
+msgid_plural "chat messages."
+msgstr[0] "μήνυμα συνομιλίας."
+msgstr[1] "μηνύματα συνομιλίας."
+
+#: simple-ajax-chat-admin.php:1015
+msgid "Here is a list of all chat messages. You can edit or delete any chat message."
+msgstr "Ορίστε μια λίστα όλων των μηνυμάτων συνομιλίας. Μπορείτε να επεξεργαστείτε ή να διαγράψετε οποιοδήποτε μήνυμα συνομιλίας."
+
+#: simple-ajax-chat-admin.php:459
+msgid "is %s "
+msgid_plural "are %s "
+msgstr[0] "είναι %s"
+msgstr[1] "είναι %s"
+
+#: simple-ajax-chat-admin.php:451
+msgid "Warning: default message not found! Click &ldquo;Delete all chats&rdquo; to enable the chat box."
+msgstr "Προειδοποίηση: το προεπιλεγμένο μήνυμα δεν βρέθηκε! Κάντε κλικ \"Διαγραφή όλων των συζητήσεων\" για να ενεργοποιήσετε το πλαίσιο συνομιλίας."
+
+#: simple-ajax-chat.php:520
+msgid "Unable to insert default message."
+msgstr "Αδύνατη η εισαγωγή του προεπιλεγμένου μηνύματος."
+
+#: simple-ajax-chat.php:519
+msgid "Successfully inserted default message."
+msgstr "Επιτυχής εισαγωγή του προεπιλεγμένου μηνύματος."
+
+#: simple-ajax-chat.php:517
+msgid "Truncate not needed, zero rows affected."
+msgstr "Δεν χρειάζεται αποκοπή, δεν επηρεάζονται κάποιες γραμμές."
+
+#: simple-ajax-chat.php:516
+msgid "Unable to truncate SAC table."
+msgstr "Αδυνατή η περικοπή του πίνακα SAC."
+
+#: simple-ajax-chat.php:515
+msgid "Successfully truncated SAC table."
+msgstr "Επιτυχής περικοπή πίνακα SAC."
+
+#: simple-ajax-chat-admin.php:1016
+msgid "one message"
+msgstr "ένα μήνυμα"
+
+#: simple-ajax-chat-form.php:227 simple-ajax-chat-form.php:230
+msgid "Message"
+msgstr "Μήνυμα"
+
+#: simple-ajax-chat-form.php:220 simple-ajax-chat-form.php:221
+msgid "URL"
+msgstr "URL"
+
+#: simple-ajax-chat-form.php:198 simple-ajax-chat-form.php:208
+#: simple-ajax-chat-form.php:209
+msgid "Name"
+msgstr "Όνομα"
+
+#: simple-ajax-chat-form.php:176
+msgid "You need at least one entry in the chat forum!"
+msgstr "Χρειάζεστε τουλάχιστον μία εγγραφή στο φόρουμ συνομιλίας!"
+
+#: simple-ajax-chat-form.php:164
+msgid "Posted %s ago"
+msgstr "Δημοσιεύτηκε πριν από %s"
+
+#: simple-ajax-chat-form.php:159
+msgid "%s ago"
+msgstr "πριν από %s"
+
+#: simple-ajax-chat-form.php:158
+msgid "Latest Message:"
+msgstr "Τελευταίο μήνυμα:"
+
+#: includes/sac-check-user.php:9 simple-ajax-chat-core.php:9
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Παρακαλώ μην φορτώσετε αυτή τη σελίδα απευθείας. Ευχαριστώ!"
+
+#: simple-ajax-chat.php:453
+msgid "Three minutes"
+msgstr "Τρία λεπτά"
+
+#: simple-ajax-chat.php:462
+msgid "Thirty Seconds"
+msgstr "Τριάντα δευτερόλεπτα"
+
+#: simple-ajax-chat-admin.php:1016
+msgid "There must always be at least"
+msgstr "Πρέπει πάντα να υπάρχει τουλάχιστον"
+
+#: simple-ajax-chat-admin.php:1017
+msgid "in the chat box. Click &ldquo;Delete all chats&rdquo; to clear the database and restore the default message."
+msgstr "στη συνομιλία. Κάντε κλικ \"Διαγραφή όλων των συζητήσεων\" για να καταργήσετε τη βάση δεδομένων και να επαναφέρετε το προεπιλεγμένο μήνυμα."
+
+#: simple-ajax-chat.php:161
+msgid "The Admin"
+msgstr "Ο διαχειριστής"
+
+#: simple-ajax-chat.php:162
+msgid "High five! You&rsquo;ve successfully installed Simple Ajax Chat."
+msgstr "Μπράβο! Έχετε εγκαταστήσει επιτυχώς το Simple Ajax Chat."
+
+#: simple-ajax-chat.php:200
+msgid "ago"
+msgstr "πριν"
+
+#: simple-ajax-chat.php:340
+msgid "Anonymous"
+msgstr "Ανώνυμος"
+
+#: simple-ajax-chat.php:435
+msgid "Sixty minutes"
+msgstr "Εξήντα λεπτά"
+
+#: simple-ajax-chat.php:444
+msgid "Thirty minutes"
+msgstr "Τριάντα λεπτά"
+
+#: simple-ajax-chat.php:113
+msgid "requires WordPress "
+msgstr "απαιτεί WordPress"
+
+#: simple-ajax-chat.php:114
+msgid " or higher, and has been deactivated! "
+msgstr "ή υψηλότερη και έχει απενεργοποιηθεί!"
+
+#: simple-ajax-chat.php:115
+msgid "Please return to the"
+msgstr "Παρακαλώ επιστρέψτε στο"
+
+#: simple-ajax-chat.php:116
+msgid "to upgrade WordPress and try again."
+msgstr "αναβαθμίσετε το WordPress και προσπαθήσετε ξανά."
+
+#: simple-ajax-chat-admin.php:884
+msgid "Appearance"
+msgstr "Εμφάνιση"
+
+#: simple-ajax-chat-form.php:245
+msgid "Submit"
+msgstr "Υποβολή"
+
+#: simple-ajax-chat-form.php:280
+msgid "You must be a registered user to participate in this chat."
+msgstr "Πρέπει να είστε εγγεγραμμένος χρήστης για να συμμετάσχετε στη συζήτηση."
+
+#: simple-ajax-chat-admin.php:848
+msgid "Fade duration"
+msgstr "Διάρκεια ξεθωριάσματος"
+
+#: simple-ajax-chat-admin.php:853
+msgid "Default is 1.5 seconds (1500 ms)."
+msgstr "Η προεπιλογή είναι 1,5 δευτερόλεπτα (1500 ms)."
+
+#: simple-ajax-chat-admin.php:833
+msgid "Times and colors"
+msgstr "Χρόνοι και χρώματα"
+
+#: simple-ajax-chat-admin.php:837
+msgid "Update interval"
+msgstr "Διάστημα ενημέρωσης"
+
+#: simple-ajax-chat-admin.php:841
+msgid "Refresh frequency (in milliseconds, decimals allowed)."
+msgstr "Συχνότητα ανανέωσης (σε χιλιοστά του δευτερολέπτου, επιτρέπονται δεκαδικά ψηφία)."
+
+#: simple-ajax-chat-admin.php:842
+msgid "Smaller numbers make new chat messages appear faster, but also increase server load."
+msgstr "Οι μικρότεροι αριθμοί κάνουν τα νέα μηνύματα συνομιλίας να εμφανίζονται ταχύτερα, αλλά και να αυξάνουν το φορτίο του διακομιστή."
+
+#: simple-ajax-chat-admin.php:852
+msgid "Fade-duration of most recent chat message (in milliseconds, decimals allowed)."
+msgstr "Διάρκεια ξεθωριάσματος του τελευταίου μηνύματος συνομιλίας (σε χιλιοστά του δευτερολέπτου, επιτρέπονται δεκαδικοί)."
+
+#: simple-ajax-chat-admin.php:775
+msgid "Maximum number of characters that should be allowed in the username."
+msgstr "Μέγιστος αριθμός χαρακτήρων που πρέπει να επιτρέπονται στο όνομα χρήστη."
+
+#: simple-ajax-chat-admin.php:670
+msgid "Default message"
+msgstr "Προεπιλεγμένο μήνυμα"
+
+#: simple-ajax-chat-admin.php:674
+msgid "Default &ldquo;welcome&rdquo; message that appears as the first chat comment."
+msgstr "Το προεπιλεγμένο \"welcome\" μήνυμα να εμφανίζεται ως το πρώτο σχόλιο συνομιλίας."
+
+#: simple-ajax-chat-admin.php:762
+msgid "Max characters"
+msgstr "Μέγιστος αριθμός χαρακτήρων"
+
+#: simple-ajax-chat-admin.php:766
+msgid "Maximum number of characters that should be allowed in each chat message."
+msgstr "Μέγιστος αριθμός χαρακτήρων που πρέπει να επιτρέπονται σε κάθε μήνυμα συνομιλίας."
+
+#: simple-ajax-chat-admin.php:771
+msgid "Username length"
+msgstr "Μήκος ονόματος χρήστη"
+
+#: simple-ajax-chat-admin.php:843
+msgid "The default is 3 seconds (3000 ms)."
+msgstr "Η προεπιλογή είναι 3 δευτερόλεπτα (3000 ms)."
+
+#: simple-ajax-chat-admin.php:657
+msgid "General options"
+msgstr "Γενικές επιλογές"
+
+#: simple-ajax-chat-admin.php:661
+msgid "Default name"
+msgstr "Προεπιλεγμένο όνομα"
+
+#: simple-ajax-chat-admin.php:665
+msgid "Default name for &ldquo;welcome&rdquo; message. Reset chat messages for new name to be displayed."
+msgstr "Προεπιλεγμένο όνομα για \"welcome\" μήνυμα. Επαναφορά των μηνυμάτων συνομιλίας για την εμφάνιση νέου ονόματος."
+
+#: simple-ajax-chat-admin.php:675
+msgid "Reset chat messages for new welcome message to be displayed."
+msgstr "Επαναφορά των μηνυμάτων συνομιλίας για την εμφάνιση νέου μηνύματος καλωσορίσματος."
+
+#: simple-ajax-chat-form.php:239
+msgid "Human verification: leave this field empty."
+msgstr "Επαλήθευση του αν ειστε άνθρωπος: αφήστε αυτό το πεδίο κενό."
+
+#: simple-ajax-chat-admin.php:612
+msgid "Check this box if you have shown support"
+msgstr "Επιλέξτε αυτό το πλαίσιο εάν έχετε υποστήριξη"
+
+#: simple-ajax-chat-admin.php:625
+msgid "(SAC) displays an Ajax-powered chat box anywhere on your site."
+msgstr "(SAC) εμφανίζει ένα πλαίσιο συνομιλίας που τροφοδοτείται με Ajax οπουδήποτε στον ιστότοπό σας."
+
+#: simple-ajax-chat-admin.php:631 simple-ajax-chat-admin.php:1012
+msgid "Manage Chat Messages"
+msgstr "Διαχείριση μηνυμάτων συνομιλίας"
+
+#: simple-ajax-chat-admin.php:603 simple-ajax-chat-admin.php:636
+msgid "give it a 5-star rating"
+msgstr "βαθμολογήστε με 5 αστέρια"
+
+#: simple-ajax-chat-admin.php:630 simple-ajax-chat-admin.php:1107
+msgid "Shortcode &amp; Template Tag"
+msgstr "Shortcode & Template Tag"
+
+#: simple-ajax-chat-admin.php:1182
+msgid "Delete all messages and reset the chat box? (this action cannot be undone)"
+msgstr ""
+"Διαγραφή όλων των μηνυμάτων και επαναφορά της συνομιλίας; (Αυτή η ενέργεια \n"
+" δε μπορεί να αναιρεθεί)"
+
+#: simple-ajax-chat-admin.php:635
+msgid "If you like this plugin, please"
+msgstr "Αν σας αρέσει αυτό το πρόσθετο, παρακαλώ"
+
+#: simple-ajax-chat-admin.php:862
+msgid "&ldquo;Fade-in&rdquo; background-color of new chat messages."
+msgstr "\"Ξεθώριασμα\" χρώματος φόντου (background-color) των νέων μηνυμάτων συνομιλίας."
+
+#: simple-ajax-chat-admin.php:1018
+msgid "You can customize the default message in the plugin settings."
+msgstr "Μπορείτε να προσαρμόσετε το προεπιλεγμένο μήνυμα στις ρυθμίσεις του πρόσθετου."
+
+#: simple-ajax-chat-admin.php:1190
+msgid "Restore default plugin settings? (this action cannot be undone)"
+msgstr "Επαναφορά προεπιλεγμένων ρυθμίσεων του πρόσθετου; (Αυτή η ενέργεια δε μπορεί να αναιρεθεί)"
+
+#: simple-ajax-chat-admin.php:632 simple-ajax-chat-admin.php:1141
+#: simple-ajax-chat.php:569
+msgid "Plugin Homepage"
+msgstr "Αρχική σελίδα πρόσθετου"
+
+#: simple-ajax-chat-admin.php:626
+msgid "Use the shortcode to display the chat box on any post or page, or use the template tag to display anywhere in your theme."
+msgstr "Χρησιμοποιήστε το shortcode για να εμφανίσετε το πλαίσιο συνομιλίας σε οποιοδήποτε άρθρο ή σελίδα ή χρησιμοποιήστε το template tag για να το εμφανίσετε οπουδήποτε στο θέμα εμφάνισής σας."
+
+#: simple-ajax-chat.php:116
+msgid "WordPress Admin Area"
+msgstr "Περιβάλλον Διαχείρισης WordPress"

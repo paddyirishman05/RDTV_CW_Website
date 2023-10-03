@@ -1,0 +1,910 @@
+# Translation of Plugins - TaxoPress is the WordPress Tag, Category, and Taxonomy Manager - Stable (latest release) in Danish
+# This file is distributed under the same license as the Plugins - TaxoPress is the WordPress Tag, Category, and Taxonomy Manager - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-04-15 09:26:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: da_DK\n"
+"Project-Id-Version: Plugins - TaxoPress is the WordPress Tag, Category, and Taxonomy Manager - Stable (latest release)\n"
+
+#: inc/autolinks-table.php:275 inc/autoterms-logs-table.php:240
+#: inc/autoterms-table.php:275 inc/class-tag-table.php:195
+#: inc/class.admin.manage.php:431 inc/post-tags-table.php:275
+#: inc/related-posts-table.php:276 inc/suggestterms-table.php:274
+#: inc/tag-clouds-table.php:276 inc/terms-table.php:158 inc/terms-table.php:403
+msgid "Delete"
+msgstr "Slet"
+
+#: inc/class-tag-table.php:41 inc/class-taxonomies-table.php:66
+#: inc/class.admin.clickterms.php:76 inc/class.widgets.php:238
+#: inc/class.widgets.php:270 inc/suggestterms.php:486 inc/tag-clouds.php:434
+#: inc/tag-clouds.php:470
+msgid "Name"
+msgstr "Navn"
+
+#: inc/class.admin.php:772
+msgid "Features"
+msgstr "Funktioner"
+
+#: inc/class.admin.manage.php:249
+msgid "Add Terms"
+msgstr "Tilføj termer"
+
+#: inc/class.admin.manage.php:272
+msgid "Term(s) to match:"
+msgstr "Term(er), der skal matche:"
+
+#: inc/class.admin.manage.php:280
+msgid "Term(s) to add:"
+msgstr "Term(er), der skal tilføjes:"
+
+#: inc/class.admin.manage.php:287
+msgid "Add"
+msgstr "Tilføj"
+
+#: inc/class.admin.manage.php:439
+msgid "Remove rarely used terms"
+msgstr "Fjern sjældent anvendte termer"
+
+#: inc/class.admin.manage.php:440
+msgid "This feature allows you to remove rarely used terms."
+msgstr "Denne funktion lader dig fjerne sjældent anvendte termer."
+
+#: inc/class.admin.manage.php:466
+msgid "Delete rarely used"
+msgstr "Slet sjældent anvendte"
+
+#: inc/class.admin.manage.php:549 inc/class.admin.manage.php:722
+msgid "No new term specified!"
+msgstr "Ny term ikke angivet!"
+
+#: inc/class.admin.manage.php:564 inc/class.admin.manage.php:737
+msgid "No new/old valid term specified!"
+msgstr "Ingen gyldig ny/gammel term angivet!"
+
+#: inc/class.admin.manage.php:784
+msgid "No term renamed."
+msgstr "Ingen term blev omdøbt."
+
+#: inc/class.admin.manage.php:786
+msgid "Renamed term(s) &laquo;%1$s&raquo; to &laquo;%2$s&raquo;"
+msgstr "Omdøbt(e) term(er) &laquo;%1$s&raquo; til &laquo;%2$s&raquo;"
+
+#: inc/class.admin.manage.php:574
+msgid "No valid new term."
+msgstr "Ingen gyldig ny term."
+
+#: inc/class.admin.manage.php:625
+msgid "No term merged."
+msgstr "Ingen termer flettet."
+
+#: inc/class.admin.manage.php:597 inc/class.admin.manage.php:627
+msgid "Merge term(s) &laquo;%1$s&raquo; to &laquo;%2$s&raquo;. %3$s objects edited."
+msgstr "Flet term(er) &laquo;%1$s&raquo; til &laquo;%2$s&raquo;. %3$s objekter redigererede."
+
+#: inc/class.admin.manage.php:648 inc/class.admin.manage.php:806
+msgid "No term specified!"
+msgstr "Intet termer anført!"
+
+#: inc/class.admin.manage.php:829 inc/class.admin.manage.php:940
+msgid "No term deleted."
+msgstr "Ingen termer slettet!"
+
+#: inc/class.admin.manage.php:831 inc/class.admin.manage.php:942
+msgid "%1s term(s) deleted."
+msgstr "%1s term(er) slettet."
+
+#: inc/class.admin.manage.php:849
+msgid "No new term(s) specified!"
+msgstr "Ingen ny(e) term(er) angivet!"
+
+#: inc/class.admin.manage.php:902
+msgid "No term added."
+msgstr "Ingen termer tilføjet."
+
+#: inc/class.admin.mass.php:31
+msgid "Mass Edit Terms"
+msgstr "Masseredigér termer"
+
+#: inc/class.admin.mass.php:83
+msgid "%1$s %2$s(s) terms updated with success !"
+msgstr "%1$s termer af typen %2$s opdateret!"
+
+#: inc/class.admin.mass.php:115
+msgid "Mass edit terms"
+msgstr "Masseredigér termer"
+
+#: inc/class.admin.mass.php:123 inc/related-posts-table.php:338
+#: inc/related-posts-table.php:355 inc/tag-clouds-table.php:345
+msgid "All"
+msgstr "Alle"
+
+#: inc/class.admin.mass.php:233
+msgid "Search"
+msgstr "Søg"
+
+#: inc/class.admin.mass.php:187
+msgid "Show all dates"
+msgstr "Vis alle datoer"
+
+#: inc/class.admin.mass.php:215
+msgid "Quantity&hellip;"
+msgstr "Mængde&hellip;"
+
+#: inc/autoterms-logs-table.php:172 inc/class.admin.mass.php:225
+#: inc/terms-table.php:215
+msgid "Filter"
+msgstr "Filter"
+
+#: inc/class.admin.mass.php:249
+msgid "Post title"
+msgstr "Titel på indlæg"
+
+#: inc/class.admin.mass.php:250
+msgid "Terms : %s"
+msgstr "Termer: %s"
+
+#: inc/autolinks-table.php:264 inc/autoterms-table.php:264
+#: inc/class-taxonomies-table.php:271 inc/class.admin.mass.php:263
+#: inc/post-tags-table.php:264 inc/related-posts-table.php:265
+#: inc/suggestterms-table.php:263 inc/tag-clouds-table.php:265
+#: inc/terms-table.php:383
+msgid "Edit"
+msgstr "Redigér"
+
+#: inc/class.admin.mass.php:280
+msgid "Update all &raquo;"
+msgstr "Opdatér alle &raquo;"
+
+#: inc/class.admin.mass.php:286
+msgid "No content to edit."
+msgstr "Intet indhold, der skal redigeres."
+
+#: inc/class.admin.mass.php:337
+msgid "Published posts"
+msgstr "Udgivede indlæg"
+
+#: inc/class.admin.mass.php:338
+msgid "Published <span class=\"count\">(%s)</span>"
+msgid_plural "Published <span class=\"count\">(%s)</span>"
+msgstr[0] "Udgivet <span class=\"count\">(%s)</span>"
+msgstr[1] "Udgivet <span class=\"count\">(%s)</span>"
+
+#: inc/class.admin.mass.php:342
+msgid "Scheduled posts"
+msgstr "Planlagte indlæg"
+
+#: inc/class.admin.mass.php:343
+msgid "Scheduled <span class=\"count\">(%s)</span>"
+msgid_plural "Scheduled <span class=\"count\">(%s)</span>"
+msgstr[0] "Planlagt <span class=\"count\">(%s)</span>"
+msgstr[1] "Planlagt <span class=\"count\">(%s)</span>"
+
+#: inc/class.admin.mass.php:347
+msgid "Pending posts"
+msgstr "Ventende indlæg"
+
+#: inc/class.admin.mass.php:348
+msgid "Pending Review <span class=\"count\">(%s)</span>"
+msgid_plural "Pending Review <span class=\"count\">(%s)</span>"
+msgstr[0] "Afventer gennemlæsning <span class=\"count\">(%s)</span>"
+msgstr[1] "Afventer gennemlæsning <span class=\"count\">(%s)</span>"
+
+#: inc/class.admin.mass.php:353
+msgid "Draft <span class=\"count\">(%s)</span>"
+msgid_plural "Drafts <span class=\"count\">(%s)</span>"
+msgstr[0] "Kladde <span class=\"count\">(%s)</span>"
+msgstr[1] "Kladder <span class=\"count\">(%s)</span>"
+
+#: inc/class.admin.mass.php:357
+msgid "Private posts"
+msgstr "Private indlæg"
+
+#: inc/class.admin.mass.php:358
+msgid "Private <span class=\"count\">(%s)</span>"
+msgid_plural "Private <span class=\"count\">(%s)</span>"
+msgstr[0] "Privat <span class=\"count\">(%s)</span>"
+msgstr[1] "Private <span class=\"count\">(%s)</span>"
+
+#: inc/class.admin.php:290
+msgid "Post tags"
+msgstr "Indlægstags"
+
+#: inc/class.admin.php:291
+msgid "Posts"
+msgstr "Indlæg"
+
+#: inc/class.admin.php:330
+msgid "This custom post type not have taxonomies."
+msgstr "Denne brugerdefinerede indlægstype har ikke taksonomier."
+
+#: inc/class.admin.php:386
+msgid "Change selection"
+msgstr "Ændr valg"
+
+#: inc/class.admin.php:558
+msgid "Options saved"
+msgstr "Indstillingerne gemt"
+
+#: inc/class.admin.php:609
+msgid "This feature requires at least 1 tag to work. Begin by adding tags!"
+msgstr "Denne funktion kræver mindst ét tag for at virke. Begynd med at tilføje tags!"
+
+#: inc/class.admin.php:611
+msgid "This feature works only with activated JavaScript. Activate it in your Web browser so you can!"
+msgstr "Denne funktion virker kun med JavaScript aktiveret. Aktivér den i din webbrowswer, så du kan bruge funktionen."
+
+#: inc/class.admin.php:768
+msgid "Administration"
+msgstr "Funktioner"
+
+#: inc/class.admin.php:770
+msgid "Auto link"
+msgstr "Autolink"
+
+#: inc/class.admin.php:774
+msgid "Embedded Tags"
+msgstr "Indlejrede tags"
+
+#: inc/class.admin.php:776
+msgid "Tags for Current Post"
+msgstr "Tags på aktuelt indlæg"
+
+#: inc/class.admin.php:778 inc/helper.options.admin.php:27
+#: inc/related-posts-table.php:15 inc/related-posts.php:72
+#: inc/related-posts.php:73 inc/related-posts.php:126
+msgid "Related Posts"
+msgstr "Lignende indlæg"
+
+#: inc/class.widgets.php:48
+msgid "Tag cloud"
+msgstr "Tags i sky-format"
+
+#: inc/class.admin.suggest.php:58
+msgid "OpenCalais"
+msgstr "OpenCalais"
+
+#: inc/class.admin.suggest.php:85
+msgid "Suggested tags"
+msgstr "Forslag til tags"
+
+#: inc/class.admin.suggest.php:208
+msgid "No results from OpenCalais service."
+msgstr "Ingen resultater fra tjenesten OpenCalais."
+
+#: inc/class.admin.suggest.php:295
+msgid "No results from dataTXT API."
+msgstr "Ingen resultater fra dataTXT API."
+
+#: inc/class.client.post_tags.php:106 inc/helper.options.default.php:33
+#: inc/post-tags-functions.php:152
+msgid "Tags: "
+msgstr "Tags: "
+
+#: inc/class.client.post_tags.php:111 inc/post-tags-functions.php:155
+msgid "<a href=\"%tag_link%\" title=\"%tag_name_attribute%\" %tag_rel%>%tag_name%</a>"
+msgstr "<a href=\"%tag_link%\" title=\"%tag_name_attribute%\" %tag_rel%>%tag_name%</a>"
+
+#: inc/class.client.post_tags.php:112 inc/post-tags-functions.php:156
+msgid "No tag for this post."
+msgstr "Ingen tags på dette indlæg."
+
+#: inc/class.client.related_posts.php:100 inc/helper.options.default.php:47
+msgid "<h4>Related posts</h4>"
+msgstr "<h4>Tilsvarende indlæg</h4>"
+
+#: inc/class.client.related_posts.php:101 inc/helper.options.default.php:46
+#: inc/related-posts-functions.php:155
+msgid "No related posts."
+msgstr "Ingen tilsvarende indlæg."
+
+#: inc/class.client.related_posts.php:103 inc/helper.options.default.php:48
+msgid "<a href=\"%post_permalink%\" title=\"%post_title% (%post_date%)\">%post_title%</a> (%post_comment%)"
+msgstr "<a href=\"%post_permalink%\" title=\"%post_title% (%post_date%)\">%post_title%</a> (%post_comment%)"
+
+#: inc/class.client.related_posts.php:424
+msgid "There is no excerpt because this is a protected post."
+msgstr "Der er intet uddrag, fordi dette er et kodeordsbeskyttet indlæg."
+
+#: inc/class.client.related_posts.php:480
+msgid "%d topic"
+msgid_plural "%d topics"
+msgstr[0] "%d emne"
+msgstr[1] "%d emner"
+
+#: inc/class.client.tagcloud.php:64 inc/class.client.tagcloud.php:269
+#: inc/helper.options.default.php:60
+msgid "<a href=\"%tag_link%\" id=\"tag-link-%tag_id%\" class=\"st-tags t%tag_scale%\" title=\"%tag_count% topics\" %tag_rel% style=\"%tag_size% %tag_color%\">%tag_name%</a>"
+msgstr "<a href=\"%tag_link%\" id=\"tag-link-%tag_id%\" class=\"st-tags t%tag_scale%\" title=\"%tag_count% topics\" %tag_rel% style=\"%tag_size% %tag_color%\">%tag_name%</a>"
+
+#: inc/class.client.tagcloud.php:66 inc/class.client.tagcloud.php:271
+#: inc/helper.options.default.php:57
+msgid "No tags."
+msgstr "Ingen tags"
+
+#: inc/class.client.tagcloud.php:67 inc/class.client.tagcloud.php:272
+#: inc/helper.options.default.php:58
+msgid "<h4>Tag Cloud</h4>"
+msgstr "<h4>Tags i sky-format</h4>"
+
+#: inc/class.client.tagcloud.php:556
+msgid "Invalid Taxonomy"
+msgstr "Ugyldig taksonomi (klassifikation)"
+
+#: inc/class.widgets.php:85
+msgid "Tags"
+msgstr "Tags"
+
+#: inc/class.widgets.php:216
+msgid "Title:"
+msgstr "Titel:"
+
+#: inc/class.widgets.php:225
+msgid "Max tags to display: (default: 45)"
+msgstr "Max. tags, der skal vises: (standard: 45)"
+
+#: inc/class.widgets.php:234
+msgid "Order by for DB selection tags:"
+msgstr "Angiv rækkefølge for DB-udvælgelse af tags:"
+
+#: inc/class-tag-table.php:42 inc/class.widgets.php:240 inc/tag-clouds.php:435
+#: inc/taxonomies.php:376 inc/terms-table.php:113 inc/terms-table.php:577
+msgid "Slug"
+msgstr "Kort titel"
+
+#: inc/class.widgets.php:242
+msgid "Term group"
+msgstr "Term-gruppe"
+
+#: inc/class.widgets.php:244
+msgid "Counter (default)"
+msgstr "Tæller (standard)"
+
+#: inc/class.widgets.php:253
+msgid "Order for DB selection tags:"
+msgstr "Angiv DB-rækkefølge for udvælgelse af tags:"
+
+#: inc/class.widgets.php:257 inc/class.widgets.php:285
+msgid "ASC"
+msgstr "Stig"
+
+#: inc/class.widgets.php:259 inc/class.widgets.php:287
+msgid "DESC (default)"
+msgstr "Faldende (standard)"
+
+#: inc/class.widgets.php:266
+msgid "Order by for display tags:"
+msgstr "Rækkefølge for visning af tags:"
+
+#: inc/class.admin.clickterms.php:76 inc/class.widgets.php:272
+#: inc/suggestterms.php:490 inc/tag-clouds.php:436 inc/tag-clouds.php:471
+msgid "Counter"
+msgstr "Tæller"
+
+#: inc/class.widgets.php:274
+msgid "Random (default)"
+msgstr "Tilfældigt (standard)"
+
+#: inc/class.widgets.php:281
+msgid "Order for display tags:"
+msgstr "Rækkefølge for visning af tags:"
+
+#: inc/class.widgets.php:294
+msgid "Font size mini: (default: 8)"
+msgstr "Mindste skriftstørrelse: (standard: 8)"
+
+#: inc/class.widgets.php:303
+msgid "Font size max: (default: 22)"
+msgstr "Største skriftstørrelse: (standard: 22)"
+
+#: inc/class.widgets.php:312
+msgid "Unit font size:"
+msgstr "Enhed for skriftstørrelse:"
+
+#: inc/class.widgets.php:316
+msgid "Point (default)"
+msgstr "Punkt (standard)"
+
+#: inc/class.widgets.php:318 inc/tag-clouds.php:591
+msgid "Pixel"
+msgstr "Pixel"
+
+#: inc/class.widgets.php:320 inc/tag-clouds.php:592
+msgid "Em"
+msgstr "Em"
+
+#: inc/class.widgets.php:322
+msgid "Pourcent"
+msgstr "Procent"
+
+#: inc/class.widgets.php:329
+msgid "Format:"
+msgstr "Format:"
+
+#: inc/class.widgets.php:333
+msgid "Flat (default)"
+msgstr "Simpel (standard)"
+
+#: inc/class.widgets.php:335 inc/tag-clouds-table.php:363
+#: inc/tag-clouds.php:385
+msgid "List (UL/LI)"
+msgstr "Liste (UL/LI)"
+
+#: inc/class.widgets.php:345
+msgid "Use auto color cloud:"
+msgstr "Brug oversigt med automatisk farvevalg:"
+
+#: inc/class.widgets.php:351
+msgid "Font color mini: (default: #CCCCCC)"
+msgstr "Skriftfarve for min.: (standard: #CCCCCC)"
+
+#: inc/class.widgets.php:360
+msgid "Font color max: (default: #000000)"
+msgstr "Skriftfarve for max.: (standard: #000000)"
+
+#: inc/class.widgets.php:369 inc/helper.options.admin.php:145
+#: inc/helper.options.admin.php:274
+msgid "Tag link format:"
+msgstr "Format for tag-link:"
+
+#: inc/class.widgets.php:379
+msgid "Advanced usage:"
+msgstr "Avanceret brug:"
+
+#: inc/class.widgets.php:389
+msgid "What to show"
+msgstr "Hvad skal vises"
+
+#: inc/helper.options.admin.php:399
+msgid "Auto links tags"
+msgstr "Autolink tags"
+
+#: inc/helper.options.admin.php:402
+msgid "Example: You have a tag called \"WordPress\" and your post content contains \"wordpress\", this feature will replace \"wordpress\" by a link to \"wordpress\" tags page. (http://myblog.net/tag/wordpress/)"
+msgstr "Eksempel: Du har et tag ved navn \"WordPress\", og indholdet i dit indlæg indeholder \"wordpress\". Denne funktion vil så erstatte \"wordpress\" med et link til \"wordpress\"'s tags-side.(http://myblog.net/tag/wordpress/)"
+
+#: inc/helper.options.admin.php:62
+msgid "Advanced Manage Terms"
+msgstr "Avanceret håndtering af termer"
+
+#: inc/helper.options.admin.php:388
+msgid "Related posts by terms"
+msgstr "Lignende indlæg ud fra termer"
+
+#: inc/helper.options.admin.php:215
+msgid "Tag cloud Shortcode"
+msgstr "Kortkoder for tags i sky-format"
+
+#: inc/helper.options.admin.php:218
+msgid "Enabling this will allow Wordpress to look for tag cloud shortcode <code>[st_tag_cloud]</code> or <code>[st-tag-cloud]</code> when displaying posts. WordPress replace this shortcode by a tag cloud."
+msgstr "Aktivering heraf lader WordPress se efter kortkoden for tags-skyer: <code>[st_tag_cloud]</code> eller <code>[st-tag-cloud]</code>, når den viser indlæg. WordPress erstatter denne kortkode med en tags-sky."
+
+#: inc/helper.options.admin.php:341
+msgid "<code>name-desc</code> &ndash; Inverse Alphabetical."
+msgstr "<code>name-desc</code> &ndash; Omvendt alfabetisk."
+
+#: inc/helper.options.admin.php:93 inc/helper.options.admin.php:342
+msgid "<code>random</code> &ndash; Random."
+msgstr "<code>random</code> &ndash; Tilfældig rækkefølge."
+
+#: inc/suggestterms.php:683
+msgid "OpenCalais API Key"
+msgstr "OpenCalais <span title=\"API key\">API-nøgle</span>"
+
+#: inc/helper.options.admin.php:415
+msgid "Maximum number of links per article:"
+msgstr "Max. antal links pr. artikel:"
+
+#: inc/helper.options.admin.php:418
+msgid "This setting determines the maximum number of links created by article. Default: 10."
+msgstr "Denne indstilling bestemmer det maksimale antal links, der kan skabes i en artikel. Standard: 10."
+
+#: inc/helper.options.admin.php:423
+msgid "Maximum number of links for the same tag:"
+msgstr "Max. antal links for det samme tag:"
+
+#: inc/helper.options.admin.php:426
+msgid "This setting determines the maximum number of links created by article for the same tag. Default: 1."
+msgstr "Denne indstilling bestemmer det maksimale antal links, der kan oprettes i en artikel, for samme tag. Standard: 1."
+
+#: inc/helper.options.admin.php:439
+msgid "Ignore case for auto link feature ?"
+msgstr "Ignorér forskel på store og små bogstaver i autolink-funktionen?"
+
+#: inc/helper.options.admin.php:442
+msgid "Example: If you ignore case, auto link feature will replace the word \"wordpress\" by the tag link \"WordPress\"."
+msgstr "Eksempel: Hvis du ignorerer forskellen på små og store bogstaver, vil autolink-funktionen erstatte ordet \"wordpress\" med tag-linket \"WordPress\"."
+
+#: inc/helper.options.admin.php:447
+msgid "Exclude some terms from tag link. For Ads Link subtition, etc."
+msgstr "<span title=\"Exclude some terms from tag link. For Ads Link subtition, etc.\">Udelad nogle termer fra tag-link. Bruges, når links erstattes i forbindelse med annoncer osv.</span>"
+
+#: inc/helper.options.admin.php:450
+msgid "Example: If you enter the term \"Paris\", the auto link tags feature will never replace this term by this link."
+msgstr "Eksempel: Hvis du indtaster termen \"Paris\", vil funktionen til at autolinke et tag aldrig erstatte denne term med dette link."
+
+#: inc/helper.options.admin.php:455
+msgid "Priority on hook the_content"
+msgstr "Prioritet for hooket the_content"
+
+#: inc/helper.options.admin.php:458
+msgid "For expert, possibility to change the priority of autolinks functions on the_content hook. Useful for fix a conflict with an another plugin. Default: 12."
+msgstr "For eksperter er der mulighed for at ændre prioriteten for autolinks-funktionen på hooket the_content. Kan bruges til at løse en konflikt med et andet plugin. Standard: 12."
+
+#: inc/helper.options.admin.php:463
+msgid "Enable autolinks into post content for theses views:"
+msgstr "Aktivér autolinks i indlægsindhold for disse visninger:"
+
+#: inc/helper.options.admin.php:466
+msgid "<code>no</code> &ndash; Nowhere"
+msgstr "<code>no</code> &ndash; Intetsteds"
+
+#: inc/helper.options.admin.php:242 inc/helper.options.admin.php:321
+#: inc/helper.options.admin.php:467
+msgid "<code>all</code> &ndash; On your blog and feeds."
+msgstr "<code>all</code> &ndash; På dine blogs og i dine feeds."
+
+#: inc/helper.options.admin.php:469
+msgid "<code>singular</code> &ndash; Only on your singular view (single post & page) (default)."
+msgstr "<code>singular</code> &ndash; Kun ved enkeltvisning (enkelt-indlæg & side (standard)."
+
+#: inc/helper.options.admin.php:476
+msgid "Try new engine replacement ?"
+msgstr "Prøv ny motorudskiftning?"
+
+#: inc/helper.options.admin.php:479
+msgid "An engine replacement alternative uses DOMDocument PHP class and theoretically offers better performance. If your server does not offer the functionality, the plugin will use the usual engine."
+msgstr "En motorudskiftningsalternativ bruger DOMDocument PHP-klasse og skulle i teorien give en bedre ydelse. Hvis din server ikke understøtter funktionen, vil pluginnet bruge den sædvanlige motor."
+
+#: inc/helper.options.admin.php:484
+msgid "Text to display into title attribute for links:"
+msgstr "Tekst, der skal vises i titelattributten for links:"
+
+#: inc/helper.options.admin.php:79
+msgid "<strong>&#8216;Order tags selection&#8217;</strong> is the first step during tag's cloud generation, corresponding to collect tags."
+msgstr "<strong>&#8216;Angiv rækkefølge for udvælgelse af tags&#8217;</strong> er det første skridt i genereringen af Tags i sky-format og svarer til at indsamle tags."
+
+#: inc/helper.options.admin.php:80
+msgid "<strong>&#8216;Order tags display&#8217;</strong> is the second. Once tags choosen, you can reorder them before display."
+msgstr "<strong>&#8216;Angiv rækkefølge for visning af tags&#8217;</strong> er den anden. Når du har valgt tags'ene, kan du ændre rækkefølgen før visning."
+
+#: inc/helper.options.admin.php:82
+msgid "<strong>Example:</strong> You want display randomly the 100 tags most popular.<br />"
+msgstr "<strong>Eksempel:</strong> Du ønsker at vise de 100 populæreste tags i tilfældig rækkefølge.<br />"
+
+#: inc/helper.options.admin.php:83
+msgid "You must set &#8216;Order tags selection&#8217; to <strong>count-desc</strong> for retrieve the 100 tags most popular and &#8216;Order tags display&#8217; to <strong>random</strong> for randomize cloud."
+msgstr "Du skal vælge &#8216;Order tags selection&#8217; to <strong>count-desc</strong> for retrieve the 100 tags most popular and &#8216;Order tags display&#8217; to <strong>random</strong> for randomize cloud."
+
+#: inc/helper.options.admin.php:88
+msgid "Order by for tags selection:"
+msgstr "Angiv rækkefølge for udvælgelse af tags:"
+
+#: inc/helper.options.admin.php:91
+msgid "<code>count</code> &ndash; Counter. (default)"
+msgstr "<code>count</code> &ndash; Tæller. (standard)"
+
+#: inc/helper.options.admin.php:92 inc/helper.options.admin.php:115
+msgid "<code>name</code> &ndash; Name."
+msgstr "<code>name</code> &ndash; Navn."
+
+#: inc/helper.options.admin.php:100
+msgid "Order tags selection:"
+msgstr "Angiv rækkefølge for udvælgelse af tags:"
+
+#: inc/helper.options.admin.php:103 inc/helper.options.admin.php:126
+msgid "<code>asc</code> &ndash; Ascending."
+msgstr "<code>asc</code> &ndash; Stigende."
+
+#: inc/helper.options.admin.php:104 inc/helper.options.admin.php:127
+msgid "<code>desc</code> &ndash; Descending."
+msgstr "<code>desc</code> &ndash; Faldende."
+
+#: inc/helper.options.admin.php:111
+msgid "Order by for tags display:"
+msgstr "Angiv rækkefølge for visning af tags:"
+
+#: inc/helper.options.admin.php:114
+msgid "<code>count</code> &ndash; Counter."
+msgstr "<code>count</code> &ndash; Tæller."
+
+#: inc/helper.options.admin.php:116
+msgid "<code>random</code> &ndash; Random. (default)"
+msgstr "<code>random</code> &ndash; Tilfældigt. (standard)"
+
+#: inc/helper.options.admin.php:123
+msgid "Order tags display:"
+msgstr "Angiv rækkefølge for visning af tags:"
+
+#: inc/helper.options.admin.php:134
+msgid "Tags cloud type format:"
+msgstr "Formatteringstype for Tags i sky-format:"
+
+#: inc/helper.options.admin.php:137
+msgid "<code>list</code> &ndash; Display a formatted list (ul/li)."
+msgstr "<code>list</code> &ndash; Vis en formateret liste (ul/li)."
+
+#: inc/helper.options.admin.php:138
+msgid "<code>flat</code> &ndash; Display inline (no list, just a div)"
+msgstr "<code>flat</code> &ndash; Vis som del af almindelig tekst (ingen liste, blot en div)"
+
+#: inc/helper.options.admin.php:153
+msgid "Maximum number of tags to display: (default: 45)"
+msgstr "Max. antal tags, der skal vises: (standard: 45)"
+
+#: inc/helper.options.admin.php:161
+msgid "Enter the text to show when there is no tag:"
+msgstr "Indtast teksten, der skal vises, når der ingen tags er:"
+
+#: inc/helper.options.admin.php:169 inc/helper.options.admin.php:372
+msgid "Enter the positioned title before the list, leave blank for no title:"
+msgstr "Angiv titlen, der skal stå ovenover listen; lad feltet stå tomt, hvis du ikke ønsker en titel"
+
+#: inc/helper.options.admin.php:177
+msgid "Most popular color:"
+msgstr "Farve for mest populære:"
+
+#: inc/helper.options.admin.php:180
+msgid "The colours are hexadecimal colours,  and need to have the full six digits (#eee is the shorthand version of #eeeeee)."
+msgstr "Farverne er hexadecimale farver og <em>skal</em> have præcis seks cifre (#eee er kortform for #eeeeee)."
+
+#: inc/helper.options.admin.php:183
+msgid "Least popular color:"
+msgstr "Farve for mindst populære:"
+
+#: inc/helper.options.admin.php:188
+msgid "Most popular font size:"
+msgstr "Skriftstørrelse for mest populære:"
+
+#: inc/helper.options.admin.php:191
+msgid "The two font sizes are the size of the largest and smallest tags."
+msgstr "De to skriftstørrelser er størrelsen for henholdsvis de største og de mindste tags."
+
+#: inc/helper.options.admin.php:194
+msgid "Least popular font size:"
+msgstr "Skriftstørrelse for mindst populære:"
+
+#: inc/helper.options.admin.php:199
+msgid "The units to display the font sizes with, on tag clouds:"
+msgstr "Enhederne for skriftstørrelserne, som bruges ved visning i Tags i sky-format:"
+
+#: inc/helper.options.admin.php:202
+msgid "The font size units option determines the units that the two font sizes use."
+msgstr "Skriftstørrelses enhederne bestemmer de enheder, som de to skriftstørrelser anvender."
+
+#: inc/helper.options.admin.php:207 inc/helper.options.admin.php:285
+#: inc/helper.options.admin.php:380
+msgid "<strong>Advanced usage</strong>:"
+msgstr "<strong>Avanceret brug</strong>:"
+
+#: inc/helper.options.admin.php:233
+msgid "Automatically display tags list into feeds"
+msgstr "Vis automatisk tags-liste i feeds"
+
+#: inc/helper.options.admin.php:238
+msgid "Automatically display tags list into post content:"
+msgstr "Vis automatisk tags-liste i indlæggenes indhold:"
+
+#: inc/helper.options.admin.php:241 inc/helper.options.admin.php:320
+msgid "<code>no</code> &ndash; Nowhere (default)"
+msgstr "<code>no</code> &ndash; Intetsteds (standard)"
+
+#: inc/helper.options.admin.php:243 inc/helper.options.admin.php:322
+msgid "<code>blogonly</code> &ndash; Only on your blog."
+msgstr "<code>blogonly</code> &ndash; Kun på din blog."
+
+#: inc/helper.options.admin.php:244 inc/helper.options.admin.php:323
+msgid "<code>homeonly</code> &ndash; Only on your home page."
+msgstr "<code>homeonly</code> &ndash; Kun på din hjemmeside."
+
+#: inc/helper.options.admin.php:245 inc/helper.options.admin.php:324
+msgid "<code>singularonly</code> &ndash; Only on your singular view (single & page)."
+msgstr "<code>singularonly</code> &ndash; Kun ved enkeltvisning (enkelt-indlæg eller -side)."
+
+#: inc/helper.options.admin.php:246 inc/helper.options.admin.php:325
+msgid "<code>singleonly</code> &ndash; Only on your single view."
+msgstr "<code>singleonly</code> &ndash; Kun ved enkelt-visning."
+
+#: inc/helper.options.admin.php:247 inc/helper.options.admin.php:326
+msgid "<code>pageonly</code> &ndash; Only on your page view."
+msgstr "<code>pageonly</code> &ndash; Kun når en side vises."
+
+#: inc/helper.options.admin.php:252
+msgid "Post tag separator string:"
+msgstr "Adskillelsesstreng for indlægstag"
+
+#: inc/helper.options.admin.php:255
+msgid "Text to display before tags list:"
+msgstr "Tekst, der skal vises før tags-liste:"
+
+#: inc/helper.options.admin.php:258
+msgid "Text to display after tags list:"
+msgstr "Tekst, der skal vises efter tags-liste:"
+
+#: inc/helper.options.admin.php:263
+msgid "Max tags display:"
+msgstr "Max. antal tags, der skal vises:"
+
+#: inc/helper.options.admin.php:266
+msgid "You must set zero (0) for display all tags."
+msgstr "Angiv nul (0) for at vise alle tags."
+
+#: inc/helper.options.admin.php:269
+msgid "Include categories in result ?"
+msgstr "Medtag kategorier i resultat?"
+
+#: inc/helper.options.admin.php:280
+msgid "Text to display if no tags found:"
+msgstr "Tekst, der skal vises, hvis der ingen tag findes:"
+
+#: inc/helper.options.admin.php:306
+msgid "Taxonomy:"
+msgstr "Taksonomi:"
+
+#: inc/helper.options.admin.php:309
+msgid "By default, related posts work with post tags, but you can use a custom taxonomy. Default value : post_tag"
+msgstr "Som standard bruger lignende indlæg indlægstags, men du kan også bruge en brugerdefineret taksonomi. Standardværdi: post_tag"
+
+#: inc/helper.options.admin.php:312
+msgid "Automatically display related posts into feeds"
+msgstr "Vis automatisk lignende indlæg i feeds"
+
+#: inc/helper.options.admin.php:316
+msgid "Automatically display related posts into post content"
+msgstr "Vis automatisk lignende indlæg i indlæggenes indhold"
+
+#: inc/helper.options.admin.php:332
+msgid "Related Posts Order:"
+msgstr "Rækkefølge for lignende indlæg:"
+
+#: inc/helper.options.admin.php:336
+msgid "<code>date-asc</code> &ndash; Older Entries."
+msgstr "<code>date-asc</code> &ndash; Ældre indlæg først."
+
+#: inc/helper.options.admin.php:337
+msgid "<code>date-desc</code> &ndash; Newer Entries."
+msgstr "<code>date-desc</code> &ndash; Nyere indlæg først."
+
+#: inc/helper.options.admin.php:338
+msgid "<code>count-asc</code> &ndash; Least common tags between posts"
+msgstr "<code>count-asc</code> &ndash; Indlæg med sjældneste tags først"
+
+#: inc/helper.options.admin.php:339
+msgid "<code>count-desc</code> &ndash; Most common tags between posts (default)"
+msgstr "<code>count-desc</code> &ndash; Indlæg med mest brugte tags (standard)"
+
+#: inc/helper.options.admin.php:340
+msgid "<code>name-asc</code> &ndash; Alphabetical."
+msgstr "<code>name-asc</code> &ndash; Alfabetisk."
+
+#: inc/helper.options.admin.php:348
+msgid "Post link format:"
+msgstr "Format for indlæggenes links:"
+
+#: inc/helper.options.admin.php:356
+msgid "Maximum number of related posts to display: (default: 5)"
+msgstr "Max. antal lignende indlæg, der skal vises: (standard: 5)"
+
+#: inc/helper.options.admin.php:364
+msgid "Enter the text to show when there is no related post:"
+msgstr "Vis teksten, der skal vises, når der ingen lignende indlæg findes:"
+
+#: inc/autolinks-functions.php:154 inc/helper.options.default.php:27
+msgid "Posts tagged with %s"
+msgstr "Indlæg tagget med %s"
+
+#: inc/helper.options.default.php:35
+msgid "No tags for this post."
+msgstr "Intet tag for dette indlæg."
+
+#: inc/helper.options.default.php:38
+msgid "<a href=\"%tag_link%\" title=\"%tag_name%\" %tag_rel%>%tag_name%</a>"
+msgstr "<a href=\"%tag_link%\" title=\"%tag_name%\" %tag_rel%>%tag_name%</a>"
+
+#: views/admin/page-settings.php:39
+msgid "Do you really want to restore the default options?"
+msgstr "Ønsker du virkelig at gendanne standardindstillingerne?"
+
+#: views/admin/page-settings.php:40
+msgid "Reset Options"
+msgstr "Indstillinger for Nulstilling"
+
+#: inc/class.admin.mass.php:336
+msgctxt "post"
+msgid "Published"
+msgstr "Udgivet"
+
+#: inc/class.admin.mass.php:341
+msgctxt "post"
+msgid "Scheduled"
+msgstr "Planlagt"
+
+#: inc/class.admin.mass.php:346
+msgctxt "post"
+msgid "Pending Review"
+msgstr "Afventer gennemsyn"
+
+#: inc/class.admin.mass.php:351
+msgctxt "post"
+msgid "Draft"
+msgstr "Kladde"
+
+#: inc/class.admin.mass.php:352
+msgctxt "manage posts header"
+msgid "Drafts"
+msgstr "Kladder"
+
+#: inc/class.admin.mass.php:356
+msgctxt "post"
+msgid "Private"
+msgstr "Privat"
+
+#: inc/class.admin.autocomplete.php:124
+msgid "Separate tags with commas"
+msgstr "Adskil tags med kommaer"
+
+#: inc/autoterms.php:74 inc/autoterms.php:75 inc/helper.options.admin.php:41
+msgid "Auto Terms"
+msgstr "Autotermer"
+
+#: inc/autoterms.php:412 inc/post-tags.php:291 inc/related-posts.php:290
+msgid "Options"
+msgstr "Indstillinger"
+
+#: views/admin/page-settings.php:37
+msgid "Update options &raquo;"
+msgstr "Opdatér indstillinger &raquo;"
+
+#: inc/ajax-request.php:89
+msgid "All done! %s terms added."
+msgstr "Gennemført! %s termer tilføjet."
+
+#: inc/class.admin.clickterms.php:220 inc/class.admin.suggest.php:334
+msgid "No terms in your WordPress database."
+msgstr "Ingen termer i din WordPress-database."
+
+#: inc/class.admin.clickterms.php:268 inc/class.admin.suggest.php:351
+msgid "No results from your WordPress database."
+msgstr "Ingen resultater fra din WordPress-database."
+
+#: inc/class.admin.manage.php:61
+msgid "Manage Terms"
+msgstr "Håndtér termer"
+
+#: inc/class.admin.manage.php:177
+msgid "Click terms list:"
+msgstr "Liste med klik-termer:"
+
+#: inc/related-posts.php:635
+msgid "Inverse Alphabetical"
+msgstr "Omvendt alfabetisk"
+
+#: inc/class.admin.clickterms.php:76 inc/class.widgets.php:246
+#: inc/related-posts.php:640 inc/suggestterms.php:495 inc/tag-clouds.php:437
+#: inc/tag-clouds.php:472
+msgid "Random"
+msgstr "Tilfældig"
+
+#: inc/class.admin.manage.php:311
+msgid "Term(s) to rename:"
+msgstr "Term(er), der skal omdøbes:"
+
+#: inc/class.admin.manage.php:319
+msgid "New term name(s):"
+msgstr "Nyt/Nye term-navn(e):"
+
+#: inc/class.admin.manage.php:326
+msgid "Rename"
+msgstr "Omdøb"
+
+#: inc/class.admin.manage.php:407
+msgid "Delete Terms"
+msgstr "Slet termer"
+
+#: inc/class.admin.manage.php:424
+msgid "Term(s) to delete:"
+msgstr "Term(er), der skal slettes:"

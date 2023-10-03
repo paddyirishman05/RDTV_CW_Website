@@ -1,0 +1,1324 @@
+# Translation of Themes - HitMag in Greek
+# This file is distributed under the same license as the Themes - HitMag package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-03-29 10:35:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: el_GR\n"
+"Project-Id-Version: Themes - HitMag\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "HitMag is a stylish and powerful theme crafted for magazines, newspapers or personal blogs. HitMag comes with a handful of options to customize your site the way you want. Free version has included a magazine homepage layout, 4 different style blog listing layouts and main color options. Not only that it comes with so many handful of features like author details box, Related posts after articles and control post metadata. All those features and options ensures that HitMag is not just another free WordPress theme but a powerful theme that fulfills all of the basic needs. See all the theme information at https://themezhut.com/themes/hitmag/"
+msgstr "Το HitMag είναι ένα κομψό και ισχυρό θέμα δημιουργημένο για περιοδικά, εφημερίδες ή προσωπικά ιστολόγια. Το HitMag έρχεται με μερικές επιλογές για να προσαρμόσετε τον ιστότοπό σας όπως θέλετε. Η δωρεάν έκδοση περιλαμβάνει μια διάταξη της αρχικής σελίδας του περιοδικού, 4 διαφορετικές μορφές διάταξης λίστας και βασικές επιλογές χρωμάτων. Όχι μόνο αυτά, αλλά και με τόσες πολλές δυνατότητες όπως το πλαίσιο στοιχείων του συγγραφέα, σχετικές αναρτήσεις μετά από άρθρα και μεταδεδομένα ελέγχου. Όλα αυτά τα χαρακτηριστικά και επιλογές διασφαλίζουν ότι το HitMag δεν είναι μόνο ένα άλλο δωρεάν θέμα WordPress, αλλά ένα ισχυρό θέμα που ικανοποιεί όλες τις βασικές ανάγκες. Δείτε όλες τις πληροφορίες στη διεύθυνση https://themezhut.com/themes/hitmag/"
+
+#. Theme Name of the theme
+#: inc/dashboard/theme-info.php:56
+#, gp-priority: high
+msgid "HitMag"
+msgstr "HitMag"
+
+#: inc/kirki/core/class-kirki-init.php:369
+msgid "Don't show this again"
+msgstr "Να μην εμφανιστεί ξανά"
+
+#: inc/kirki/core/class-kirki-init.php:368
+msgid "Install Plugin"
+msgstr "Εγκατάσταση πρόσθετου"
+
+#: inc/kirki/core/class-kirki-init.php:365
+msgid "Your theme uses a Font Awesome field for icons. To avoid issues with missing icons on your frontend we recommend you install the official Font Awesome plugin."
+msgstr "Το θέμα σας χρησιμοποιεί ένα πεδίο Font Awesome για εικονίδια. Για να αποφύγετε προβλήματα με τα εικονίδια που λείπουν, συνιστούμε να εγκαταστήσετε το επίσημο πρόσθετο Font Awesome."
+
+#: inc/kirki/controls/php/class-kirki-control-base.php:139
+msgid "Default Browser Font-Family"
+msgstr "Προεπιλεγμένη οικογένεια γραμματοσειράς φυλλομετρητή"
+
+#: inc/kirki/controls/php/class-kirki-control-base.php:138
+msgid "CSS Defaults"
+msgstr "CSS Defaults"
+
+#: inc/template-tags.php:64
+msgid "by %s"
+msgstr "από τον/την %s"
+
+#: inc/block-styles.php:26
+msgid "Widget title style"
+msgstr "Στυλ τίτλου μικροεφαρμογής"
+
+#: inc/customizer/customizer.php:657
+msgid "Color value"
+msgstr "Τιμή χρώματος"
+
+#: inc/customizer/customizer.php:656
+msgid "Select Color"
+msgstr "Επιλογή χρώματος"
+
+#: inc/customizer/customizer.php:655
+msgid "Select default color"
+msgstr "Επιλέξτε το προεπιλεγμένο χρώμα"
+
+#: inc/customizer/customizer.php:653
+msgid "Clear color"
+msgstr "Εκκαθάριση χρώματος"
+
+#: inc/customizer/customizer.php:202
+msgid "Display as Header Background Image"
+msgstr "Χρήση εικόνας ως φόντο κεφαλίδας"
+
+#: inc/customizer/customizer.php:364
+msgid "Display full content instead of excerpt."
+msgstr "Προβολή πλήρους κειμένου αντί του αποσπάσματος."
+
+#: inc/customizer/customizer.php:331
+msgid "Excerpt / Content"
+msgstr "Απόσπασμα/Περιεχόμενο"
+
+#: inc/widgets/block-posts-dual.php:60 inc/widgets/block-posts-dual.php:83
+#: inc/widgets/block-posts-grid.php:54 inc/widgets/sidebar-posts.php:53
+msgid "Ignore sticky posts."
+msgstr "Αγνόηση των καρφιτσωμένων άρθρων."
+
+#. Template Name of the theme
+msgid "Page Builder"
+msgstr "Page Builder"
+
+#. Template Name of the theme
+msgid "Page Builder Full Width"
+msgstr "Page Builder πλήρους πλάτους"
+
+#: inc/kirki/upgrade-notifications.php:30
+msgid "Important Upgrade Notice:"
+msgstr "Σημαντική ειδοποίηση αναβάθμισης"
+
+#. translators: The title.
+#: inc/kirki/modules/custom-sections/sections/class-kirki-sections-nested-section.php:64
+msgid "Customizing &#9656; %s"
+msgstr "Προσαρμογή &#9656; %s"
+
+#: inc/kirki/modules/custom-sections/sections/class-kirki-sections-nested-section.php:61
+msgid "Customizing"
+msgstr "Προσαρμογή"
+
+#. translators: %1$s represents the field ID where the error occurs. %2%s is
+#. buttonset/image.
+#: inc/kirki/field/class-kirki-field-radio.php:37
+msgid "Error in field %1$s. The \"mode\" argument has been deprecated since Kirki v0.8. Use the \"radio-%2$s\" type instead."
+msgstr "Σφάλμα στο πεδίο %1$s. Ο ορισμός \"mode\" είναι παροχημένος από την έκδοση Kirki v0.8. Αντι αυτού χρησιμοποιήστε το \"radio-%2$s\"."
+
+#: inc/kirki/field/class-kirki-field-color.php:52
+msgid "Do not use \"alpha\" as an argument in color controls. Use \"choices[alpha]\" instead."
+msgstr "Μην χρησιμοποιείτε \"alpha\" ως τιμή στα χειριστήρια χρωμάτων. Κάντε χρήση των \"choices[alpha]\" αντί αυτού."
+
+#: inc/kirki/deprecated/functions.php:19
+msgid "%1$s or %2$s"
+msgstr "%1$s ή %2$s"
+
+#: inc/kirki/core/class-kirki.php:237
+msgid "Kirki fields should not be added on customize_register. Please add them directly, or on init."
+msgstr "Τα πεδία Kirki θα πρέπει να προστεθούν στο customize_register. Παρακαλούεμ προσθέστε τα άμεσα ή κατά την εκκίνηση."
+
+#: inc/kirki/core/class-kirki-init.php:289
+msgid "We detected you're using Kirki_Init::get_variables(). Please use Kirki_Util::get_variables() instead."
+msgstr "Εντοπίσαμε ότι χρησιμοποιείτε Kirki_Init::get_variables(). Παρακαλούμε χρησιμοποιήστε Kirki_Util::get_variables() αντί αυτού."
+
+#. translators: The field ID where the error occurs.
+#: inc/kirki/core/class-kirki-field.php:498
+#: inc/kirki/core/class-kirki-field.php:509
+msgid "\"output\" invalid format in field %s. The \"output\" argument should be defined as an array of arrays."
+msgstr "Εσφαλμένη μορφή \"output\" στο πεδίο %s. Το όρισμα \"output\" θα πρέπει να ορίζεται ως πίνακας των πινάκων."
+
+#. translators: %1$s represents the field ID where the error occurs.
+#: inc/kirki/core/class-kirki-field.php:375
+msgid "\"partial_refresh\" invalid entry in field %s"
+msgstr "\"partial_refresh\" μη έγκυρη καταχώρηση στο πεδίο %s"
+
+#. translators: %1$s represents the field ID where the error occurs.
+#: inc/kirki/core/class-kirki-field.php:358
+msgid "Typo found in field %s - \"theme_mods\" vs \"theme_mod\""
+msgstr "Ένα τυπογραφικό λάθος βρέθηκε στο πεδίο %s - \"theme_mods\" αντί \"theme_mod\""
+
+#. translators: %1$s represents the field ID where the error occurs. %2$s is
+#. the URL in the documentation site.
+#: inc/kirki/core/class-kirki-field.php:257
+#: inc/kirki/core/class-kirki-field.php:267
+msgid "Config not defined for field %1$s - See %2$s for details on how to properly add fields."
+msgstr "Οι ρυθμίσεις δεν καθορίστηκαν για το πεδίο %1$s - Δείτε %2$s για λεπτομέρειες στο πως θα προσθέσετε πεδία σωστά."
+
+#. translators: %s represents the field ID where the error occurs.
+#: inc/kirki/core/class-kirki-field.php:248
+msgid "Typo found in field %s - setting instead of settings."
+msgstr "Βρέθηκε τυπογραφικό στο πεδίο %s - ρύθμιση αντί των ρυθμίσεων."
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:213
+msgid "Margin Bottom"
+msgstr "Κάτω Περιθώριο"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:205
+msgid "Margin Top"
+msgstr "Άνω Περιθώριο"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:195
+msgid "Line-Through"
+msgstr "Διαγράμμιση"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:194
+msgid "Overline"
+msgstr "Γραμμή από πάνω"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:193
+msgid "Underline"
+msgstr "Υπογράμμιση"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:189
+msgid "Text Decoration"
+msgstr "Διακόσμηση κειμένου"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:87
+msgid "Backup Font"
+msgstr "Εφεδρική γραμματοσειρά"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:83
+#: inc/kirki/controls/php/class-kirki-control-typography.php:88
+msgid "Select Font Family"
+msgstr "Επιλογή οικογένειας γραμματοσειράς"
+
+#: inc/kirki/controls/php/class-kirki-control-slider.php:67
+msgid "Reset"
+msgstr "Αρχικοποίηση"
+
+#. translators: %s represents the label of the row.
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:86
+msgid "Add new %s"
+msgstr "Προσθήκη Νέας %s"
+
+#: inc/kirki/controls/views/image.php:40
+#: inc/kirki/field/class-kirki-field-image.php:53
+msgid "Choose image"
+msgstr "Επιλογή εικόνας"
+
+#: inc/kirki/controls/views/image.php:38
+#: inc/kirki/field/class-kirki-field-image.php:51
+msgid "No image selected"
+msgstr "Δεν επιλέχθηκε εικόνα"
+
+#: inc/kirki/controls/views/image.php:35
+#: inc/kirki/field/class-kirki-field-image.php:48
+msgid "Change image"
+msgstr "Αλλαγή εικόνας"
+
+#: inc/kirki/controls/views/image.php:34 inc/kirki/controls/views/image.php:39
+#: inc/kirki/field/class-kirki-field-image.php:47
+#: inc/kirki/field/class-kirki-field-image.php:52
+msgid "Select image"
+msgstr "Επιλογή εικόνας"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:136
+msgid "Width"
+msgstr "Πλάτος"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:128
+#: inc/kirki/controls/php/class-kirki-control-typography.php:126
+msgid "Word Spacing"
+msgstr "Απόσταση Λέξεων"
+
+#: inc/kirki/controls/php/class-kirki-control-base.php:137
+msgid "Google Fonts"
+msgstr "Γραμματοσειρές Google"
+
+#: inc/kirki/controls/php/class-kirki-control-base.php:136
+msgid "Standard Fonts"
+msgstr "Τυπικές γραμματοσειρές"
+
+#: inc/customizer/customizer.php:654
+#: inc/kirki/controls/php/class-kirki-control-base.php:134
+#: inc/kirki/controls/views/image.php:36
+#: inc/kirki/field/class-kirki-field-image.php:49
+msgid "Default"
+msgstr "Προεπιλογή"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:106
+msgid "Auto"
+msgstr "Αυτόματα"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:63
+#: inc/kirki/controls/php/class-kirki-control-base.php:135
+msgid "Select File"
+msgstr "Επιλογή αρχείου"
+
+#: inc/customizer/custom-controls/class-upsell-customize.php:77
+msgid "Get HitMag Pro"
+msgstr "Αποκτήστε HitMag Pro"
+
+#: inc/customizer/custom-controls/class-upsell-customize.php:76
+msgid "Ready for more?"
+msgstr "Έτοιμοι για περισσότερα;"
+
+#: inc/customizer/customizer.php:565 inc/customizer/customizer.php:567
+msgid "Theme Details"
+msgstr "Λεπτομέρειες θέματος"
+
+#: inc/customizer/customizer.php:559
+msgid "Read the documentation"
+msgstr "Διαβάστε την τεκμηρίωση"
+
+#: inc/customizer/customizer.php:557
+msgid "Theme Setup Guide"
+msgstr "Οδηγός διαμόρφωση θέματος"
+
+#: footer.php:63
+msgid "Powered by %1$s and %2$s."
+msgstr "Υποστηρίζεται από%1$s και%2$s."
+
+#: template-parts/related-posts.php:10
+msgid "Related Posts"
+msgstr "Σχετικά Άρθρα"
+
+#. translators: %s: Name of current post.
+#: template-parts/content-single.php:39
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Συνέχεια ανάγνωσης %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-page.php:29 template-parts/content-single.php:44
+msgid "Pages:"
+msgstr "Σελίδες:"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Φαίνεται ότι δε μπορούμε να βρούμε αυτό που ψάχνετε. Ίσως η αναζήτηση να βοηθήσει."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Λυπούμαστε, αλλά τίποτα δε βρέθηκε βάσει των όρων αναζήτησης. Παρακαλούμε προσπαθήστε ξανά με διαφορετικές λέξεις-κλειδιά."
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Έτοιμοι για να δημοσιεύσετε το πρώτο σας άρθρο;  <a href=\"%1$s\">Ξεκινήστε εδώ</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Δε βρέθηκε τίποτα"
+
+#: template-parts/authorbox.php:11
+msgid "View all posts by %s &rarr;"
+msgstr "Δείτε όλα τα άρθρα του/της %s &rarr;"
+
+#: template-parts/authorbox.php:8
+msgid "About %s"
+msgstr "Σχετικά με %s"
+
+#: template-magazine.php:36
+msgid "Please go to Appearance &#8594; Widgets and add posts widgets to the \"Magazine Homepage\" widget area. You can use the Magazine Posts widgets to set up the theme like the demo website."
+msgstr "Μεταβείτε στην Εμφάνιση \t Μικροεφαρμογές και προσθέστε μικροεφαρμογές στην τοποθεσία \"Αρχική σελίδα περιοδικών\". Μπορείτε να χρησιμοποιήσετε τις μικροεφαρμογές άρθρων περιοδικού για να ρυθμίσετε το θέμα όπως το δικτυακό τόπο επίδειξης."
+
+#: single.php:30
+msgid "Previous Article"
+msgstr "Προηγούμενο άρθρο"
+
+#: single.php:28
+msgid "Next Article"
+msgstr "Επόμενο άρθρο"
+
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Αποτελέσματα αναζήτησης για: %s"
+
+#: inc/widgets/sidebar-posts.php:15
+msgid "Displays latest posts or posts from a choosen category.Use this widget in the main sidebars."
+msgstr "Εμφανίζει τις τελευταίες αναρτήσεις ή αναρτήσεις από μια επιλεγμένη κατηγορία .Χρησιμοποιήστε αυτή την μικροεφαρμογή στις κύριες πλευρικές γραμμές."
+
+#: inc/widgets/sidebar-posts.php:14
+msgid "HitMag: Sidebar Posts"
+msgstr "HitMag: Άρθρα πλευρικής στήλης"
+
+#: inc/widgets/popular-tags-comments.php:158
+msgid "No tags created."
+msgstr "Δεν έχουν δημιουργηθεί ετικέτες. "
+
+#: inc/widgets/popular-tags-comments.php:144
+msgid "No comments found."
+msgstr "Δεν βρέθηκαν σχόλια."
+
+#: inc/widgets/popular-tags-comments.php:85
+msgid "Tags"
+msgstr "Ετικέτες"
+
+#: inc/widgets/popular-tags-comments.php:84
+msgid "Comments"
+msgstr "Σχόλια"
+
+#: inc/widgets/popular-tags-comments.php:83
+msgid "Popular"
+msgstr "Δημοφιλέστερα"
+
+#: inc/widgets/popular-tags-comments.php:37
+msgid "Number of comments:"
+msgstr "Εμφάνιση αριθμού σχολίων:"
+
+#: inc/widgets/popular-tags-comments.php:33
+msgid "Number of popular posts:"
+msgstr "Αριθμός δημοφιλών αναρτήσεων:"
+
+#: inc/widgets/popular-tags-comments.php:16
+msgid "Displays popular posts, comments, tags in a tabbed pane."
+msgstr "Εμφανίζει δημοφιλείς αναρτήσεις, σχόλια, ετικέτες σε ένα παράθυρο με καρτέλες."
+
+#: inc/widgets/popular-tags-comments.php:15
+msgid "HitMag: Popular Posts, Tags, Comments"
+msgstr "HitMag: Δημοφιλή άρθρα, ετικέτες, σχόλια"
+
+#: inc/widgets/block-posts-single.php:14
+msgid "HitMag: Magazine Posts (Style 1)"
+msgstr "HitMag: Άρθρα περιοδικού (Στυλ 1)"
+
+#: inc/widgets/block-posts-grid.php:45
+msgid "Select a post category:"
+msgstr "Επιλέξτε μια κατηγορία:"
+
+#: inc/widgets/block-posts-grid.php:14 inc/widgets/block-posts-single.php:15
+msgid "Displays latest posts or posts from a choosen category."
+msgstr "Εμφανίζει τις τελευταίες αναρτήσεις ή αναρτήσεις από μια επιλεγμένη κατηγορία."
+
+#: inc/widgets/block-posts-grid.php:13
+msgid "HitMag: Magazine Posts ( Style 3 )"
+msgstr "HitMag: Άρθρα περιοδικού (Στυλ 3)"
+
+#: inc/widgets/block-posts-dual.php:68
+msgid "Second Set of Posts"
+msgstr "Δεύτερο σετ άρθρων"
+
+#: inc/widgets/block-posts-dual.php:63 inc/widgets/block-posts-dual.php:86
+#: inc/widgets/block-posts-grid.php:57 inc/widgets/block-posts-single.php:45
+msgid "View All Text:"
+msgstr "Προβολή όλων των κειμένων:"
+
+#: inc/widgets/block-posts-dual.php:55 inc/widgets/block-posts-dual.php:78
+#: inc/widgets/block-posts-grid.php:49 inc/widgets/sidebar-posts.php:48
+msgid "Number of posts:"
+msgstr "Αριθμός αναρτήσεων:"
+
+#: inc/widgets/block-posts-dual.php:51 inc/widgets/block-posts-dual.php:74
+#: inc/widgets/block-posts-single.php:41 inc/widgets/sidebar-posts.php:44
+msgid "Select a post category"
+msgstr "Επιλέξτε μια κατηγορία:"
+
+#: inc/widgets/block-posts-dual.php:47 inc/widgets/block-posts-dual.php:70
+#: inc/widgets/block-posts-grid.php:41 inc/widgets/block-posts-single.php:37
+#: inc/widgets/sidebar-posts.php:40
+msgid "Title:"
+msgstr "Τίτλος:"
+
+#: inc/widgets/block-posts-dual.php:45
+msgid "First Set of Posts"
+msgstr "Πρώτο σετ άρθρων"
+
+#: inc/widgets/block-posts-dual.php:34 inc/widgets/block-posts-dual.php:39
+#: inc/widgets/block-posts-grid.php:34 inc/widgets/block-posts-single.php:31
+msgid "View All"
+msgstr "Προβολή όλων"
+
+#: inc/widgets/block-posts-dual.php:30 inc/widgets/block-posts-dual.php:35
+#: inc/widgets/block-posts-grid.php:30 inc/widgets/block-posts-single.php:29
+#: inc/widgets/sidebar-posts.php:30
+msgid "Latest Posts"
+msgstr "Πρόσφατα άρθρα"
+
+#: inc/widgets/block-posts-dual.php:14
+msgid "Displays posts in a two column layout."
+msgstr "Εμφανίζει αναρτήσεις σε διάταξη σε δύο στήλες."
+
+#: inc/widgets/block-posts-dual.php:13
+msgid "HitMag: Magazine Posts (Style 2)"
+msgstr "HitMag: Άρθρα περιοδικού (Στυλ 2)"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:153
+msgid " / "
+msgstr " / "
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:125 template-parts/content-page.php:43
+msgid "Edit %s"
+msgstr "Επεξεργασία %s"
+
+#: inc/template-tags.php:114
+msgid "Tagged"
+msgstr "Με ετικέτα"
+
+#: inc/template-tags.php:84
+msgid "1 Comment"
+msgstr "1 Σχόλιο"
+
+#. translators: %d: number of comments
+#: inc/template-tags.php:82
+msgid "%d Comments."
+msgstr "%d σχόλια."
+
+#: inc/template-tags.php:79
+msgid "Leave a Comment"
+msgstr "Αφήστε ένα σχόλιο"
+
+#: inc/dashboard/theme-info.php:170
+msgid "Create a page."
+msgstr "Δημιουργία νέας σελίδας"
+
+#: inc/dashboard/theme-info.php:167
+msgid "Then from the \"Page Attributes\" dialog box select the Template-\"Magazine Homepage\""
+msgstr "Στη συνέχεια, από το παράθυρο διαλόγου \"Χαρακτηριστικά σελίδας\" επιλέξτε το Πρότυπο- \"Αρχική σελίδα περιοδικού\""
+
+#: inc/dashboard/theme-info.php:166
+msgid "First create a page to display on front page. Give any title for that page. ( eg: Home )"
+msgstr "Αρχικά δημιουργήστε μια σελίδα που θα εμφανίζεται στην πρώτη σελίδα. Δώστε τίτλο για τη συγκεκριμένη σελίδα. (π.χ.: Αρχική)"
+
+#: inc/dashboard/theme-info.php:163
+msgid "Create a page that has \"Magazine Homepage\" page template."
+msgstr "Δημιουργήστε μια σελίδα που έχει το πρότυπο σελίδας \"Αρχική σελίδα περιοδικού\"."
+
+#: inc/dashboard/theme-info.php:161
+msgid "Change front page template"
+msgstr "Αλλάξτε το πρότυπο της αρχικής σελίδας"
+
+#: inc/dashboard/theme-info.php:157
+msgid "Go to the edit screen of the front page. Then select the Template - \"Magazine Homepage\" from \"Page Attributes\" dialog box."
+msgstr "Μεταβείτε στην οθόνη επεξεργασίας της αρχικής σελίδας. Στη συνέχεια, επιλέξτε το Πρότυπο - \"Αρχική σελίδα περιοδικών\" από το παράθυρο διαλόγου \"Χαρακτηριστικά σελίδας\"."
+
+#: inc/dashboard/theme-info.php:155
+msgid "Select the \"Magazine Homepage\" page template for the front page."
+msgstr "Επιλέξτε το πρότυπο σελίδας \"Αρχική σελίδα περιοδικών\" για την πρώτη σελίδα."
+
+#: inc/dashboard/theme-info.php:144
+msgid "Select front page."
+msgstr "Επιλέξτε την αρχική σελίδα."
+
+#: inc/dashboard/theme-info.php:141
+msgid "Select the page that has \"Magazine Homepage\" template as the front page ."
+msgstr "Επιλέξτε τη σελίδα που έχει το πρότυπο \"Αρχική σελίδα περιοδικών\" ως την πρώτη σελίδα."
+
+#: inc/dashboard/theme-info.php:138
+msgid "Select \"A Static page\" option for the setting \"Front Page Displays\""
+msgstr "Αλλάξτε το \"Η πρώτη σελίδα δείχνει\" σε \"Μια στατική σελίδα\""
+
+#: inc/dashboard/theme-info.php:127
+msgid "Go to Widgets Area"
+msgstr "Πηγαίνετε στην περιοχή μικροεφαρμογών"
+
+#: inc/dashboard/theme-info.php:124
+msgid "Congratulations...! You have activated a magazine front page successfully. Now start adding posts widgets to \"Magazine Homepage\" widget area."
+msgstr "Συγχαρητήρια...! Έχετε ενεργοποιήσει επιτυχώς μια πρώτη σελίδα του περιοδικού. Τώρα ξεκινήστε να προσθέτετε τα widgets των άρθρων στην περιοχή widget \"Αρχική σελίδα περιοδικών\"."
+
+#: inc/dashboard/theme-info.php:97
+msgid "Theme Preview"
+msgstr "Προεπισκόπηση θέματος"
+
+#: inc/dashboard/theme-info.php:96
+msgid "See the theme preview of free version."
+msgstr "Δείτε την προεπισκόπηση θέματος της δωρεάν έκδοσης."
+
+#: inc/dashboard/theme-info.php:95
+msgid "Theme Demo"
+msgstr "Demo Θέματος"
+
+#: inc/dashboard/theme-info.php:93
+msgid "Theme Details."
+msgstr "Λεπτομέρειες θέματος."
+
+#: inc/dashboard/theme-info.php:92
+msgid "Know all the details about HitMag theme."
+msgstr "Γνωρίστε όλες τις λεπτομέρειες σχετικά με το θέμα HitMag."
+
+#: inc/customizer/customizer.php:87 inc/dashboard/theme-info.php:91
+msgid "Theme Info"
+msgstr "Πληροφορίες Θέματος"
+
+#: inc/dashboard/theme-info.php:89
+msgid "Read the documentation."
+msgstr "Διαβάστε την τεκμηρίωση."
+
+#: inc/dashboard/theme-info.php:88
+msgid "Need to learn all about HitMag? Read the theme documentation carefully."
+msgstr "Πρέπει να μάθετε τα πάντα για το HitMag; Διαβάστε προσεκτικά την τεκμηρίωση θεμάτων."
+
+#: inc/dashboard/theme-info.php:87
+msgid "Theme Documentation"
+msgstr "Τεκμηρίωση θέματος"
+
+#: inc/dashboard/theme-info.php:85
+msgid "Go to customizer"
+msgstr "Πηγαίνετε στον Προσαρμογέα"
+
+#: inc/dashboard/theme-info.php:84
+msgid "All the HitMag theme settings are located at the customizer. Start customizing your website with customizer."
+msgstr "Όλες οι ρυθμίσεις του θέματος HitMag βρίσκονται στο εργαλείο προσαρμογής. Ξεκινήστε την προσαρμογή του ιστότοπού σας με το εργαλείο προσαρμογής."
+
+#: inc/dashboard/theme-info.php:83
+msgid "Theme Customizer"
+msgstr "Προσαρμογέας θέματος"
+
+#: inc/dashboard/theme-info.php:50
+msgid "Welcome to HitMag"
+msgstr "Καλώς ήλθατε στο HitMag"
+
+#: inc/dashboard/theme-info.php:37 inc/dashboard/theme-info.php:39
+msgid "HitMag Theme"
+msgstr "Θέμα HitMag"
+
+#: inc/dashboard/theme-info.php:19
+msgid "Get Started with HitMag"
+msgstr "Πρώτα βήματα με το HitMag"
+
+#: inc/dashboard/theme-info.php:18
+msgid "Welcome to HitMag! To get started with HitMag please visit the theme Welcome page."
+msgstr "Καλώς ήλθατε στο HitMag! Για να ξεκινήσετε με το HitMag, επισκεφθείτε τη σελίδα καλωσορίσματος."
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:121
+msgid "Select a Page"
+msgstr "Επιλέξτε μία Σελίδα"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:180
+#: inc/kirki/controls/php/class-kirki-control-typography.php:196
+msgid "Initial"
+msgstr "Αρχικός"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:179
+msgid "Lowercase"
+msgstr "Πεζά"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:178
+msgid "Uppercase"
+msgstr "Κεφαλαία"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:177
+msgid "Capitalize"
+msgstr "Πρόταση"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:176
+#: inc/kirki/controls/php/class-kirki-control-typography.php:192
+msgid "None"
+msgstr "Κανένα"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:173
+msgid "Text Transform"
+msgstr "Μετασχηματισμός κειμένου"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:134
+msgid "Text Align"
+msgstr "Στοίχιση κειμένου"
+
+#. translators: %s represents the number of rows we're limiting the repeater to
+#. allow.
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:227
+msgid "Limit: %s rows"
+msgstr "Όριο: γραμμές%s"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:77
+msgid "row"
+msgstr "γραμμή"
+
+#: inc/kirki/controls/php/class-kirki-control-dimension.php:41
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:138
+msgid "Invalid Value"
+msgstr "Μη έγκυρη τιμή"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:220
+msgid "Ultra-Bold 900 Italic"
+msgstr "Ultra-Bold Italic 900"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:218
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:219
+msgid "Ultra-Bold 900"
+msgstr "Εξαιρετικά Bold 900"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:217
+msgid "Extra-Bold 800 Italic"
+msgstr "Extra-Bold Italic 800"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:215
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:216
+msgid "Extra-Bold 800"
+msgstr "Extra-Bold 800"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:214
+msgid "Bold 700 Italic"
+msgstr "Bold Italic 700"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:213
+msgid "Bold 700"
+msgstr "Bold 700"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:212
+msgid "Semi-Bold 600 Italic"
+msgstr "Ημι-Bold Italic 600"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:210
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:211
+msgid "Semi-Bold 600"
+msgstr "Ημι-Bold 600"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:209
+msgid "Medium 500 Italic"
+msgstr "Μεσαίο 500 Πλάγια"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:208
+msgid "Medium 500"
+msgstr "Μεσαίο 500"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:207
+msgid "Normal 400 Italic"
+msgstr "Normal 400 Italic"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:205
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:206
+msgid "Normal 400"
+msgstr "Normal 400"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:204
+msgid "Book 300 Italic"
+msgstr "Book 300 Italic"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:203
+msgid "Book 300"
+msgstr "Book 300"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:202
+msgid "Light 200 Italic"
+msgstr "Light 200 Italic"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:201
+msgid "Light 200"
+msgstr "Light 200"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:200
+msgid "Ultra-Light 100 Italic"
+msgstr "Ultra-Light 100 Italic"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:198
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:199
+msgid "Ultra-Light 100"
+msgstr "Ultra-Light 100"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:135
+msgid "Spacing"
+msgstr "Απόσταση"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:137
+msgid "Height"
+msgstr "Ύψος"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:134
+msgid "Size"
+msgstr "Μέγεθος"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:93
+msgid "Variant"
+msgstr "Παραλλαγή"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:62
+#: inc/kirki/controls/php/class-kirki-control-base.php:133
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:386
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:418
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:443
+#: inc/kirki/controls/views/image.php:37
+#: inc/kirki/field/class-kirki-field-image.php:50
+msgid "Remove"
+msgstr "Αφαίρεση"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:59
+#: inc/kirki/controls/php/class-kirki-control-base.php:132
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:408
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:413
+msgid "No File Selected"
+msgstr "Δεν επιλέχθηκε αρχείο"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:419
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:421
+msgid "Change File"
+msgstr "Αλλαγή αρχείου"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:419
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:423
+msgid "Add File"
+msgstr "Προσθήκη αρχείου"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:376
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:381
+msgid "No Image Selected"
+msgstr "Δεν επιλέχθηκε κάποια εικόνα"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:387
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:389
+msgid "Change Image"
+msgstr "Αλλαγή εικόνας"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:387
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:391
+msgid "Add Image"
+msgstr "Προσθήκη εικόνας"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:221
+msgid "Color"
+msgstr "Χρώμα"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:163
+msgid "Justify"
+msgstr "Στοίχιση"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:133
+#: inc/kirki/controls/php/class-kirki-control-typography.php:151
+msgid "Center"
+msgstr "Κέντρο"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:132
+#: inc/kirki/controls/php/class-kirki-control-typography.php:157
+#: inc/kirki/field/class-kirki-field-spacing.php:35
+msgid "Right"
+msgstr "Δεξιά"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:131
+#: inc/kirki/controls/php/class-kirki-control-typography.php:145
+#: inc/kirki/field/class-kirki-field-spacing.php:34
+msgid "Left"
+msgstr "Aριστερά"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:130
+#: inc/kirki/field/class-kirki-field-spacing.php:33
+msgid "Bottom"
+msgstr "Κάτω"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:129
+#: inc/kirki/field/class-kirki-field-spacing.php:32
+msgid "Top"
+msgstr "Επάνω"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:127
+#: inc/kirki/controls/php/class-kirki-control-typography.php:118
+msgid "Letter Spacing"
+msgstr "Απόσταση χαρακτήρων"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:126
+msgid "Font Style"
+msgstr "Στυλ Γραμματοσειράς"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:125
+#: inc/kirki/controls/php/class-kirki-control-typography.php:110
+msgid "Line Height"
+msgstr "Ύψος γραμμής"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:124
+msgid "Font Weight"
+msgstr "Βάρος Γραμματοσειράς"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:123
+#: inc/kirki/controls/php/class-kirki-control-typography.php:102
+msgid "Font Size"
+msgstr "Μέγεθος Γραμματοσειράς"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:82
+msgid "Font Family"
+msgstr "Οικογένεια γραμματοσειράς"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:81
+msgid "Background Position"
+msgstr "Θέση φόντου"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:91
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:122
+msgid "Center Bottom"
+msgstr "Κέντρο κάτω"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:90
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:121
+msgid "Center Center"
+msgstr "Κέντρο"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:89
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:120
+msgid "Center Top"
+msgstr "Κέντρο πάνω"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:88
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:119
+msgid "Right Bottom"
+msgstr "Δεξιά κάτω"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:87
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:118
+msgid "Right Center"
+msgstr "Δεξιά κέντρο"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:86
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:117
+msgid "Right Top"
+msgstr "Δεξιά πάνω"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:85
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:116
+msgid "Left Bottom"
+msgstr "Αριστερά κάτω"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:84
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:115
+msgid "Left Center"
+msgstr "Αριστερά κέντρο"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:83
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:114
+msgid "Left Top"
+msgstr "Αριστερά πάνω"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:113
+msgid "Background Attachment"
+msgstr "Επισύναψη φόντου"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:116
+msgid "Scroll"
+msgstr "Κύλιση"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:119
+msgid "Fixed"
+msgstr "Σταθερό"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:97
+msgid "Background Size"
+msgstr "Μέγεθος Φόντου"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:103
+msgid "Contain"
+msgstr "Περιέχει"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:100
+msgid "Cover"
+msgstr "Eξώφυλλο"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:70
+msgid "Background Repeat"
+msgstr "Επανάληψη φόντου"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:139
+#: inc/kirki/controls/php/class-kirki-control-typography.php:181
+#: inc/kirki/controls/php/class-kirki-control-typography.php:197
+msgid "Inherit"
+msgstr "Κληρονομημένο"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:75
+msgid "Repeat Vertically"
+msgstr "Επανάληψη κάθετα"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:74
+msgid "Repeat Horizontally"
+msgstr "Επανάληψη οριζόντια"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:73
+msgid "Repeat All"
+msgstr "Επανάληψη όλων"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:72
+msgid "No Repeat"
+msgstr "Χωρίς επανάληψη"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:54
+msgid "Background Image"
+msgstr "Εικόνα φόντου"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:48
+msgid "Background Color"
+msgstr "Χρώμα υπόβαθρου"
+
+#: inc/customizer/customizer.php:110
+msgid "Theme Primary Color"
+msgstr "Κύριο  χρώμα θέματος"
+
+#: inc/customizer/customizer.php:528
+msgid "Tags list after the post."
+msgstr "Λίστα ετικετών μετά το άρθρο."
+
+#: inc/customizer/customizer.php:515
+msgid "Related posts after the post."
+msgstr "Σχετικές αναρτήσεις μετά το άρθρο."
+
+#: inc/customizer/customizer.php:502
+msgid "Author details box after the post."
+msgstr "Πλαίσιο με πληροφορίες για τον συντάκτη μετά το άρθρο."
+
+#: inc/customizer/customizer.php:489
+msgid "Posts navigation after the post."
+msgstr "Πλοήγηση άρθρων μετά το κείμενο."
+
+#: inc/customizer/customizer.php:468
+msgid "Use lightbox feature."
+msgstr "Χρησιμοποιήστε τη δυνατότητα lightbox."
+
+#: inc/customizer/customizer.php:452
+msgid "Link featured image to full size image."
+msgstr "Σύνδεση της χαρακτηριστικής εικόνας με την εικόνα σε πλήρη μέγεθος"
+
+#: inc/customizer/customizer.php:439
+msgid "Featured image inside the single post."
+msgstr "Επιλεγμένη Εικόνα μέσα σε μεμονωμένο άρθρο."
+
+#: inc/customizer/customizer.php:429
+msgid "Categories List"
+msgstr "Λίστα κατηγοριών"
+
+#: inc/customizer/customizer.php:424
+msgid "What post meta to display in single post?"
+msgstr "Ποια μεταδεδομένα του άρθρου να εμφανίζονται σε μεμονωμένη ανάρτηση;"
+
+#: inc/customizer/customizer.php:394 template-parts/content.php:56
+msgid "Read More"
+msgstr "Διάβασε περισσότερα"
+
+#: inc/customizer/customizer.php:392
+msgid "Read more button text."
+msgstr "Κείμενο κουμπιού Διαβάστε Περισσότερα."
+
+#: inc/customizer/customizer.php:379
+msgid "Show read more button."
+msgstr "Εμφάνιση κουμπιού \"Διαβάστε περισσότερα\""
+
+#: inc/customizer/customizer.php:344
+msgid "Excerpt Length"
+msgstr "Μήκος αποσπάσματος"
+
+#: inc/customizer/customizer.php:324 inc/customizer/customizer.php:432
+msgid "Comments Link"
+msgstr "Σύνδεσμος σχολίων"
+
+#: inc/customizer/customizer.php:323 inc/customizer/customizer.php:431
+msgid "Author"
+msgstr "Συγγραφέας"
+
+#: inc/customizer/customizer.php:322 inc/customizer/customizer.php:430
+msgid "Date"
+msgstr "Ημερομηνία"
+
+#: inc/customizer/customizer.php:321
+msgid "Category List"
+msgstr "Λίστα κατηγοριών"
+
+#: inc/customizer/customizer.php:316
+msgid "What post meta to display?"
+msgstr "Ποια μεταδεδομένα να εμφανίζονται;"
+
+#: inc/customizer/customizer.php:308
+msgid "Large posts with featured images on the top."
+msgstr "Μεγάλα άρθρα με εμφανισμένες εικόνες στην κορυφή."
+
+#: inc/customizer/customizer.php:307
+msgid "Large Posts"
+msgstr "Μεγάλα άρθρα"
+
+#: inc/customizer/customizer.php:304
+msgid "Posts with featured images on the left side."
+msgstr "Άρθρα με χαρακτηριστικές εικόνες στην αριστερή πλευρά."
+
+#: inc/customizer/customizer.php:303
+msgid "List Posts"
+msgstr "Λίστα άρθρων"
+
+#: inc/customizer/customizer.php:300
+msgid "3 posts in a row."
+msgstr "3 άρθρα στη σειρά."
+
+#: inc/customizer/customizer.php:299
+msgid "3 Columns Grid"
+msgstr "Πλέγμα 3 στήλων"
+
+#: inc/customizer/customizer.php:296
+msgid "2 posts in a row."
+msgstr "2 άρθρα στη σειρά."
+
+#: inc/customizer/customizer.php:295
+msgid "2 Columns Grid"
+msgstr "Πλέγμα 2 στήλων"
+
+#: inc/customizer/customizer.php:288
+msgid "Posts Listing Layout"
+msgstr "Διάταξη λίστας άρθρων"
+
+#: inc/customizer/customizer.php:272 inc/customizer/customizer.php:408
+#: inc/customizer/customizer.php:541
+msgid "Content and Sidebar Alignment"
+msgstr "Διάταξη περιεχομένου και πλευρικής γραμμής"
+
+#: inc/customizer/customizer.php:254
+msgid "Select the category for slider posts"
+msgstr "Επιλέξτε την κατηγορία για τα άρθρα του slider"
+
+#: inc/customizer/customizer.php:241
+msgid "Featured Slider"
+msgstr "Slider προτεινόμενων"
+
+#: inc/customizer/customizer.php:233
+msgid "Learn How to create a magazine homepage"
+msgstr "Μάθετε πώς μπορείτε να δημιουργήσετε μια αρχική σελίδα περιοδικού"
+
+#: inc/customizer/customizer.php:231
+msgid "Create a magazine homepage."
+msgstr "Δημιουργήστε μια αρχική σελίδα του περιοδικού."
+
+#: inc/customizer/customizer.php:223
+msgid "Slider displays on magazine homepage only."
+msgstr "Το slider εμφανίζεται μόνο στην αρχική σελίδα περιοδικού. "
+
+#: inc/customizer/customizer.php:221
+msgid "Notice"
+msgstr "Σημείωση"
+
+#: inc/customizer/customizer.php:210
+msgid "Link header image to homepage."
+msgstr "Κάνε τη εικόνα της κεφαλίδας να οδηγεί στην αρχική σελίδα."
+
+#: inc/customizer/customizer.php:199
+msgid "After Main Navigation"
+msgstr "Μετά την κύρια πλοήγηση"
+
+#: inc/customizer/customizer.php:196
+msgid "Before site title and logo"
+msgstr "Πριν από τον τίτλο και το λογότυπο του ιστοτόπου"
+
+#: inc/customizer/customizer.php:193
+msgid "After site title and logo"
+msgstr "Μετά τον τίτλο και το λογότυπο του ιστοτόπου"
+
+#: inc/customizer/customizer.php:187
+msgid "Header Image Position"
+msgstr "Θέση εικόνας κεφαλίδας"
+
+#: inc/customizer/customizer.php:171
+msgid "Show date on topbar."
+msgstr "Εμφάνιση ημερομηνίας στην πάνω γραμμή."
+
+#: inc/customizer/customizer.php:162
+msgid "Show search icon on Main Navigation."
+msgstr "Εμφάνιση εικονιδίου αναζήτησης στην κύρια πλοήγηση."
+
+#: inc/customizer/customizer.php:155 inc/customizer/customizer.php:337
+#: inc/customizer/customizer.php:385 inc/customizer/customizer.php:445
+#: inc/customizer/customizer.php:495 inc/customizer/customizer.php:508
+#: inc/customizer/customizer.php:521 inc/customizer/customizer.php:534
+msgid "Hide"
+msgstr "Απόκρυψη"
+
+#: inc/customizer/customizer.php:154 inc/customizer/customizer.php:336
+#: inc/customizer/customizer.php:384 inc/customizer/customizer.php:444
+#: inc/customizer/customizer.php:494 inc/customizer/customizer.php:507
+#: inc/customizer/customizer.php:520 inc/customizer/customizer.php:533
+msgid "Show"
+msgstr "Εμφάνιση"
+
+#: inc/customizer/customizer.php:149
+msgid "Top Bar Show/Hide"
+msgstr "Εμφάνιση/Απόκρυψη της πάνω μπάρας"
+
+#: inc/customizer/customizer.php:140
+msgid "Footer Copyright Text."
+msgstr "Κείμενο πνευματικών δικαιωμάτων Υποσέλιδου"
+
+#: inc/customizer/customizer.php:133 inc/customizer/customizer.php:247
+#: inc/kirki/controls/php/class-kirki-control-switch.php:56
+#: inc/kirki/field/class-kirki-field-switch.php:40
+msgid "Off"
+msgstr "Κλειστό"
+
+#: inc/customizer/customizer.php:132 inc/customizer/customizer.php:246
+#: inc/kirki/controls/php/class-kirki-control-switch.php:52
+#: inc/kirki/field/class-kirki-field-switch.php:39
+msgid "On"
+msgstr "Ενεργό"
+
+#: inc/customizer/customizer.php:127
+msgid "Boxed Layout"
+msgstr "Στενή διάταξη"
+
+#: inc/customizer/customizer.php:82
+msgid "These opitons affect only to pages."
+msgstr "Αυτές οι επιλογές επηρεάζουν μόνο τις σελίδες."
+
+#: inc/customizer/customizer.php:81
+msgid "Page options"
+msgstr "Επιλογές σελίδας"
+
+#: inc/customizer/customizer.php:76
+msgid "These options affect only to single post articles."
+msgstr "Αυτές οι επιλογές επηρεάζουν μόνο τα μεμονωμένα άρθρα."
+
+#: inc/customizer/customizer.php:75
+msgid "Post options"
+msgstr "Επιλογές άρθρου"
+
+#: inc/customizer/customizer.php:69
+msgid "These options affect to blog posts listing page and archives like category and tags."
+msgstr "Αυτές οι επιλογές επηρεάζουν τη σελίδα καταχωρήσεων αναρτήσεων ιστολογίου και τα αρχεία όπως η κατηγορία και οι ετικέτες."
+
+#: inc/customizer/customizer.php:68
+msgid "Blog options"
+msgstr "Επιλογές ιστολογίου"
+
+#: inc/customizer/customizer.php:62
+msgid "Slider Settings"
+msgstr "Ρυθμίσεις Slider"
+
+#: inc/customizer/customizer.php:55
+msgid "Header Image Options"
+msgstr "Επιλογές εικόνας κεφαλίδας "
+
+#: inc/customizer/customizer.php:49
+msgid "Header Settings"
+msgstr "Ρυθμίσεις κεφαλίδας"
+
+#: inc/customizer/customizer.php:43
+msgid "Top Bar"
+msgstr "Μπάρα κορυφής"
+
+#: inc/customizer/customizer.php:37
+msgid "General Settings"
+msgstr "Γενικές ρυθμίσεις"
+
+#: inc/customizer/customizer.php:28
+msgid "Header options"
+msgstr "Επιλογές κεφαλίδας"
+
+#: inc/customizer/custom-controls/control-category-dropdown.php:16
+msgid "&mdash; Show All Posts &mdash;"
+msgstr "&mdash; Εμφάνιση όλων των άρθρων &mdash;"
+
+#: inc/class-meta-boxes.php:130
+msgid "Full Width Content Centered."
+msgstr "Πλήρες πλάτος κεντραρισμένο."
+
+#: inc/class-meta-boxes.php:127
+msgid "Full Width"
+msgstr "Πλήρους πλάτους"
+
+#: inc/class-meta-boxes.php:124
+msgid "Left Sidebar"
+msgstr "Αριστερή πλευρική στήλη"
+
+#: inc/class-meta-boxes.php:121
+msgid "Right Sidebar"
+msgstr "Δεξιά πλευρική στήλη"
+
+#: inc/class-meta-boxes.php:118
+msgid "Default Layout"
+msgstr "Προκαθορισμένη διάταξη"
+
+#: inc/class-meta-boxes.php:38
+msgid "Select Layout"
+msgstr "Επέλεξε εμφάνιση"
+
+#: header.php:40
+msgid "Skip to content"
+msgstr "Μεταπηδήστε στο περιεχόμενο"
+
+#: functions.php:274
+msgid "Footer Right Sidebar"
+msgstr "Δεξιά πλευρική μπάρα υποσέλιδου"
+
+#: functions.php:265
+msgid "Footer Mid Sidebar"
+msgstr "Κεντρική περιοχή υποσέλιδου"
+
+#: functions.php:256
+msgid "Footer Left Sidebar"
+msgstr "Αριστερή πλευρική μπάρα υποσέλιδου"
+
+#: functions.php:249
+msgid "You can add advertisement widget to this widget area."
+msgstr "Μπορείτε να προσθέσετε μικροεφαρμογή διαφήμισης σε αυτήν την περιοχή."
+
+#: functions.php:247
+msgid "Header Advertisement Area"
+msgstr "Περιοχή διαφήμισης κεφαλίδας"
+
+#: functions.php:240
+msgid "Appearas on Magazine Homepage template only. Add magazine posts widgets to this widget area."
+msgstr "Εμφανίζεται μόνο στο πρότυπο αρχικής σελίδας του περιοδικού. Προσθέστε μικροεφαρμογές άρθρων περιοδικού σε αυτήν την περιοχή μικροεφαρμογών."
+
+#. Template Name of the theme
+#: functions.php:238 inc/dashboard/theme-info.php:59
+msgid "Magazine Homepage"
+msgstr "Αρχική σελίδα περιοδικού"
+
+#: functions.php:231
+msgid "Add widgets here."
+msgstr "Προσθέστε εδώ μικροεφαρμογές."
+
+#: functions.php:229
+msgid "Main Sidebar"
+msgstr "Κύρια πλευρική στήλη"
+
+#: functions.php:191
+msgid "Social Links Menu"
+msgstr "Μενού συνδέσμων Κοινωνικών Δικτύων"
+
+#: functions.php:54
+msgid "Social Media Menu"
+msgstr "Μενού μέσων κοινωνικής δυκτύωσης"
+
+#: functions.php:53 functions.php:182 header.php:51
+msgid "Top Menu"
+msgstr "Πάνω μενού"
+
+#: functions.php:52 functions.php:173 header.php:135
+msgid "Main Menu"
+msgstr "Κύριο μενού"
+
+#: footer.php:57
+msgid "Copyright &#169; %1$s %2$s."
+msgstr "Πνευματικά δικαιώματα &#169; %1$s %2$s."
+
+#: comments.php:95
+msgid "Comments are closed."
+msgstr "Τα σχόλια είναι απενεργοποιημένα."
+
+#: comments.php:60 comments.php:82
+msgid "Newer Comments"
+msgstr "Νεότερα σχόλια"
+
+#: comments.php:59 comments.php:81
+msgid "Older Comments"
+msgstr "Παλιότερα σχόλια"
+
+#: comments.php:56 comments.php:78
+msgid "Comment navigation"
+msgstr "Πλοήγηση σχολίων"
+
+#: comments.php:38
+msgctxt "comments title"
+msgid "%1$s Comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Comments on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s σχόλιο σχετικά με το &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s σχόλια σχετικά με το &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:33
+msgctxt "comments title"
+msgid "One Comment on &ldquo;%s&rdquo;"
+msgstr "Ένα σχόλιο σχετικά με το &ldquo;%s&rdquo;"
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Φαίνεται ότι δε βρέθηκε τίποτα σε αυτή την τοποθεσία. Μήπως να δοκιμάζατε μια αναζήτηση;"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ωχ! Αυτή η σελίδα δε μπορεί να βρεθεί."
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "http://themezhut.com"
+msgstr "http://themezhut.com"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "ThemezHut"
+msgstr "ThemezHut"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "http://themezhut.com/themes/hitmag/"
+msgstr "http://themezhut.com/themes/hitmag/"

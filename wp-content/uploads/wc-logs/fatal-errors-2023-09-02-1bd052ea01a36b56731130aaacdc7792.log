@@ -1,0 +1,7 @@
+2023-09-02T16:39:27+00:00 CRITICAL Uncaught TypeError: Argument 2 passed to WC_Stripe_API::detach_payment_method_from_customer() must be of the type string, null given, called in /home/1076073.cloudwaysapps.com/utztkqraym/public_html/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-stripe-customer.php on line 472 and defined in /home/1076073.cloudwaysapps.com/utztkqraym/public_html/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-stripe-api.php:327
+Stack trace:
+#0 /home/1076073.cloudwaysapps.com/utztkqraym/public_html/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-stripe-customer.php(472): WC_Stripe_API::detach_payment_method_from_customer()
+#1 /home/1076073.cloudwaysapps.com/utztkqraym/public_html/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-stripe-intent-controller.php(132): WC_Stripe_Customer->delete_source()
+#2 /home/1076073.cloudwaysapps.com/utztkqraym/public_html/wp-includes/class-wp-hook.php(310): WC_Stripe_Intent_Controller->verify_intent()
+#3 /home/1076073.cloudwaysapps in /home/1076073.cloudwaysapps.com/utztkqraym/public_html/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-stripe-api.php on line 327
+

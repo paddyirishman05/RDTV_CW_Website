@@ -1,0 +1,163 @@
+# Translation of Plugins - Wise Chat - Stable (latest release) in Polish
+# This file is distributed under the same license as the Plugins - Wise Chat - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-02-16 06:52:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.7\n"
+"Language: pl\n"
+"Project-Id-Version: Plugins - Wise Chat - Stable (latest release)\n"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:46
+msgid "Insert an emoticon"
+msgstr "Wstaw emotikonę"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:45
+msgid "Attach a file"
+msgstr "Załącz plik"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:44
+msgid "Upload a picture"
+msgstr "Wyślij zdjęcie"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:43
+msgid "Text color"
+msgstr "Kolor tekstu"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:42
+msgid "Mute sounds"
+msgstr "Wycisz dźwięki"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:41
+msgid "Reset"
+msgstr "Resetuj"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:40
+msgid "Save"
+msgstr "Zapisz"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:39
+msgid "Name"
+msgstr "Nazwa użytkownika"
+
+#: src/WiseChat.php:226
+msgid "Send"
+msgstr "Wyślij"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:47
+msgid "Use Shift+ENTER in order to move to the next line."
+msgstr "Naciśnij Shift+ENTER aby przenieść kursor do nowej linii"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:28
+msgid "Unsupported type of file."
+msgstr "Nieobsługiwany typ pliku."
+
+#: src/WiseChat.php:231
+msgid "yesterday"
+msgstr "wczoraj"
+
+#: src/WiseChat.php:230
+msgid "min. ago"
+msgstr "min. temu"
+
+#: src/WiseChat.php:229
+msgid "sec. ago"
+msgstr "s. temu"
+
+#: src/WiseChat.php:225
+msgid "Sending ..."
+msgstr "Wysyłanie ..."
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:63
+msgid "The chat is full now. Try again later."
+msgstr "Liczba użytkowników czatu osiągnęła górny limit. Spróbuj później."
+
+#: src/endpoints/maintenance/WiseChatMaintenanceAuth.php:129
+msgid "You are not allowed to enter the chat."
+msgstr "Nie masz uprawnień do wejścia do czatu."
+
+#: src/endpoints/maintenance/WiseChatMaintenanceAuth.php:125
+msgid "Only logged in users are allowed to enter the chat"
+msgstr "Tylko zalogowani użytkownicy mogą wejść do czatu"
+
+#: src/admin/WiseChatEmoticonsTab.php:85
+msgid "Full Size"
+msgstr "Pełny rozmiar"
+
+#: src/admin/WiseChatEmoticonsTab.php:83
+msgid "Medium Large"
+msgstr "Średnio duży"
+
+#: src/admin/WiseChatEmoticonsTab.php:82
+msgid "Medium"
+msgstr "Średni"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceAuth.php:137
+msgid "The chat is closed now"
+msgstr "Czat jest teraz zamknięty"
+
+#: src/WiseChat.php:232
+msgid "Insert into message"
+msgstr "Wstaw do wiadomości"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:37
+#: src/WiseChat.php:125 src/WiseChat.php:239
+msgid "Enter your username"
+msgstr "Wprowadź swoje imię"
+
+#: src/WiseChat.php:240
+msgid "Log in"
+msgstr "Zaloguj się"
+
+#: src/services/user/WiseChatAuthentication.php:238
+msgid "This name is already occupied"
+msgstr "To imię jest już zajęte"
+
+#: src/services/user/WiseChatAuthentication.php:228
+msgid "Only letters, number, spaces, hyphens and underscores are allowed"
+msgstr "Dozwolone są tylko litery, liczby, spacje, myślniki i podkreślniki"
+
+#: src/services/WiseChatImagesService.php:242
+#: src/services/WiseChatImagesService.php:266
+msgid "Unsupported type of file"
+msgstr "Nieobsługiwany rodzaj pliku"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:29
+msgid "The size of the file exceeds allowed limit."
+msgstr "Rozmiar pliku przekracza dozwolony limit."
+
+#. Author of the plugin
+msgid "Kainex"
+msgstr "Kainex"
+
+#. Description of the plugin
+msgid "Fully-featured chat plugin for WordPress. It requires no server, supports multiple channels, bad words filtering, themes, appearance settings, filters, bans and more."
+msgstr "Profesjonalny plugin czatu dla WordPress. Nie wymaga serwera, obsługuje wiele kanałów, moderację, szablony, ustawienia wyglądu, filtry, banowanie i więcej."
+
+#. Plugin Name of the plugin
+msgid "Wise Chat"
+msgstr "Wise Chat"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceI18n.php:57
+msgid "Are you sure you want to report the message as spam?"
+msgstr "Czy na pewno chcesz zgłosić wiadomość jako spam?"
+
+#: src/endpoints/maintenance/WiseChatMaintenanceAuth.php:133
+#: src/endpoints/WiseChatEndpoint.php:277
+msgid "You are blocked from using the chat"
+msgstr "Zablokowano twoją możliwość uczestnictwa w czacie"
+
+#: src/admin/WiseChatEmoticonsTab.php:81
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: src/admin/WiseChatEmoticonsTab.php:84
+msgid "Large"
+msgstr "Duże"
+
+#: src/WiseChat.php:228
+msgid "Customize"
+msgstr "Dostosuj"

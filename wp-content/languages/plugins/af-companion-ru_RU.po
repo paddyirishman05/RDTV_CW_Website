@@ -1,0 +1,548 @@
+# Translation of Plugins - Starter Sites Importer for WordPress: Build Websites Faster with AF Companion - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - Starter Sites Importer for WordPress: Build Websites Faster with AF Companion - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-09-18 09:08:45+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.7\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Starter Sites Importer for WordPress: Build Websites Faster with AF Companion - Development (trunk)\n"
+
+#: inc/import-packages/import-packages.php:124
+msgid "success"
+msgstr "успешно"
+
+#: inc/class-aftc-main.php:426
+msgid " Import"
+msgstr " Импорт"
+
+#: inc/class-aftc-main.php:435
+msgid "Configuring, please wait!"
+msgstr "Настройка, подождите!"
+
+#: inc/class-aftc-main.php:439
+msgid "Following plugins are required to import demo"
+msgstr "Следующие плагины необходимы для импорта демо"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/af-companion/"
+msgstr "https://wordpress.org/plugins/af-companion/"
+
+#: inc/import-packages/import-packages.php:44
+msgid "No plugin specified."
+msgstr "Не указан плагин."
+
+#: inc/class-aftc-main.php:490
+msgid "Required plugins are ready for the process. Click the button to import starter demo site."
+msgstr "Необходимые плагины готовы к процессу. Нажмите кнопку, чтобы импортировать начальный демонстрационный сайт."
+
+#: inc/import-packages/import-packages.php:57
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr "Извините, вам не разрешено устанавливать плагины на этот сайт."
+
+#: inc/import-packages/import-packages.php:104
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr "Невозможно подключиться к файловой системе. Пожалуйста, подтвердите свои учетные данные."
+
+#: inc/class-aftc-main.php:197 inc/class-aftc-main.php:198
+msgid "Blog"
+msgstr "Блог"
+
+#: inc/class-aftc-main.php:151 inc/class-aftc-main.php:152
+msgid "Documentation"
+msgstr "Документация"
+
+#: inc/class-aftc-main.php:188 inc/class-aftc-main.php:189
+msgid "Videos"
+msgstr "Видео"
+
+#: inc/class-aftc-main.php:160 inc/class-aftc-main.php:161
+msgid "Free Themes"
+msgstr "Бесплатные темы"
+
+#: inc/class-aftc-main.php:178 inc/class-aftc-main.php:179
+msgid "Plugins"
+msgstr "Плагины"
+
+#: inc/class-aftc-main.php:169 inc/class-aftc-main.php:170
+msgid "Pro Themes"
+msgstr "Темы Pro"
+
+#: inc/class-aftc-main.php:730
+msgid "%1$sThat's it, all done!%2$sThe demo import has finished. Please check your page and make sure that everything has imported correctly. For more other beautiful WordPress products please visit %3$sAF themes%4$s. %5$s"
+msgstr "%1$sВсе готово!%2$sИмпорт демо-версии завершен. Пожалуйста, проверьте свою страницу и убедитесь, что все импортировано правильно. Чтобы узнать больше о других красивых продуктах WordPress, посетите %3$sAF темы%4$s. %5$s"
+
+#: inc/class-aftc-main.php:231
+msgid "One Click Demo Import"
+msgstr "One Click Demo Import"
+
+#. Plugin Name of the plugin
+#: inc/class-aftc-helpers.php:392 inc/class-aftc-helpers.php:393
+#: inc/class-aftc-main.php:97 inc/class-aftc-main.php:98
+msgid "AF Companion"
+msgstr "AF Companion"
+
+#: inc/class-aftc-main.php:369
+msgid "All"
+msgstr "Все"
+
+#: inc/class-aftc-main.php:589
+msgid "Are you sure?"
+msgstr "Уверены ли вы?"
+
+#: inc/class-aftc-main.php:590
+msgid "Cancel"
+msgstr "Отмена"
+
+#: inc/importer/class-wxr-importer.php:1681
+msgid "Failed to import %s %s"
+msgstr "Не удалось импортировать %s %s"
+
+#: inc/class-aftc-main.php:486 inc/class-aftc-main.php:499
+#: inc/class-aftc-main.php:508
+msgid "Import"
+msgstr "Импорт"
+
+#: inc/class-aftc-main.php:338 inc/class-aftc-main.php:352
+msgid "Import Demo"
+msgstr "Импорт Демо"
+
+#: inc/class-aftc-widget-importer.php:232
+msgid "Imported"
+msgstr "Импортировано"
+
+#: inc/importer/class-wxr-importer.php:1036
+msgid "Invalid file type"
+msgstr "Недействительный тип файла"
+
+#: inc/class-aftc-main.php:522
+msgid "Preview"
+msgstr "Просмотреть"
+
+#: inc/importer/class-wxr-importer.php:1776
+msgid "Remote file is incorrect size"
+msgstr "Удаленный файл имеет неправильный размер"
+
+#: inc/importer/class-wxr-importer.php:1787
+msgid "Remote file is too large, limit is %s"
+msgstr "Удаленный файл слишком велик, ограничение составляет %s"
+
+#: inc/class-aftc-main.php:381
+msgid "Search demos..."
+msgstr "Найти демо..."
+
+#: inc/class-aftc-widget-importer.php:138
+msgid "Site does not support widget"
+msgstr "Сайт не поддерживает виджет"
+
+#: inc/importer/class-wxr-importer.php:504
+msgid "The file does not exist, please try again."
+msgstr "Файл не существует, попробуйте еще раз."
+
+#: inc/class-aftc-main.php:517
+msgid "Upgrade to Pro"
+msgstr "Обновление до Pro версии"
+
+#: inc/class-aftc-helpers.php:557 inc/class-aftc-helpers.php:578
+#: inc/class-aftc-helpers.php:596 inc/class-aftc-helpers.php:604
+msgid "Upload files"
+msgstr "Загрузить файлы"
+
+#: inc/class-aftc-widget-importer.php:173
+msgid "Widget already exists"
+msgstr "Виджет уже существует"
+
+#: inc/importer/class-wxr-importer.php:1781
+msgid "Zero size file downloaded"
+msgstr "Загружен файл с нулевым размером"
+
+#. Author URI of the plugin
+msgid "https://www.afthemes.com"
+msgstr "https://www.afthemes.com"
+
+#: inc/class-aftc-helpers.php:109
+msgid "\"import_file_url\" or \"local_import_file\" for %s%s%s are not defined!"
+msgstr "\"import_file_url\" или \"local_import_file\" для %s%s%s не определены!"
+
+#: inc/class-aftc-main.php:740
+msgid "%1$sThe demo import has finished, but there were some import errors.%2$sMore details about the errors can be found in this %3$s%5$slog file%6$s%4$s%7$s"
+msgstr "%1$sИмпорт демо-версии завершен, но есть некоторые ошибки импорта.%2$sДополнительные сведения об ошибках можно найти в этом %3$s%5$sфайле журнала%6$s%4$s%7$s"
+
+#: inc/importer/class-wxr-importer.php:763
+msgid "%s \"%s\" already exists."
+msgstr "%s \"%s\" уже существует."
+
+#: inc/class-aftc-main.php:242
+msgid "%sWarning: your server is using %sPHP safe mode%s. This means that you might experience server timeout errors.%s"
+msgstr "%sWarning: ваш сервер использует %sPHP safe mode%s. Это означает, что вы можете столкнуться с ошибками тайм-аута сервера.%s"
+
+#: inc/class-aftc-helpers.php:518
+msgid "%sYour user role isn't high enough. You don't have permission to import demo data.%s"
+msgstr "%sНе хватает прав. У вас нет разрешения на импорт демо-данных.%s"
+
+#: inc/class-aftc-helpers.php:480
+msgid "AF Companion - "
+msgstr "AF Companion - "
+
+#: inc/class-aftc-main.php:269
+msgid "All demo settings will get imported"
+msgstr "Все демо настройки будут импортированы"
+
+#: inc/class-aftc-helpers.php:234
+msgid "An error occurred while fetching %s%s%s file from the server!%sReason: %s - %s."
+msgstr "Произошла ошибка при получении файла %s%s%s с сервера!%sПричина: %s - %s."
+
+#: inc/class-aftc-helpers.php:356
+msgid "An error occurred while reading a file from your server! Tried reading file from path: %s%s."
+msgstr "Произошла ошибка при чтении файла с вашего сервера! Попытка чтения файла из: %s%s."
+
+#: inc/class-aftc-helpers.php:405
+msgid "An error occurred while retrieving reading/writing permissions to your server (could not retrieve WP filesystem credentials)!"
+msgstr "Произошла ошибка при получении разрешений на чтение / запись на ваш сервер (не удалось получить учетные данные файловой системы WP)!"
+
+#: inc/class-aftc-helpers.php:275 inc/class-aftc-helpers.php:320
+msgid "An error occurred while writing file to your server! Tried to write a file to: %s%s."
+msgstr "Произошла ошибка при записи файла на ваш сервер! Попытка записать файл в: %s%s."
+
+#: inc/class-aftc-main.php:258
+msgid "Before you begin, make sure all the required plugins are activated."
+msgstr "Прежде чем начать, убедитесь, что все необходимые плагины активированы."
+
+#: inc/importer/class-wxr-importer.php:665
+msgid "Cannot import auto-draft posts"
+msgstr "Невозможно импортировать авто черновик записи"
+
+#: inc/class-aftc-main.php:325
+msgid "Choose a JSON file for Redux import:"
+msgstr "Выберите файл JSON для импорта Redux:"
+
+#: inc/importer/class-wxr-importer.php:1977
+msgid "Comment %d was imported with author %d, but could not be found"
+msgstr "Комментарий %d был импортирован автором %d, но не найден"
+
+#: inc/importer/class-wxr-importer.php:1959
+msgid "Comment %d was imported with parent %d, but could not be found"
+msgstr "Комментарий %d был импортирован с родительским элементом %d, но не найден"
+
+#: inc/class-aftc-main.php:932
+msgid "Completed AJAX call number: "
+msgstr "Номер завершенного вызова AJAX: "
+
+#: inc/class-aftc-main.php:300
+msgid "Content import"
+msgstr "Импорт содержимого"
+
+#: inc/importer/class-wxr-importer.php:1841
+msgid "Could not find the author for \"%s\" (post #%d)"
+msgstr "Не удалось найти автора \"%s\" (post #%d)"
+
+#: inc/importer/class-wxr-importer.php:1973
+msgid "Could not find the author for comment #%d"
+msgstr "Не удалось найти автора комментария #%d"
+
+#: inc/importer/class-wxr-importer.php:1955
+msgid "Could not find the comment parent for comment #%d"
+msgstr "Не удалось найти родительский комментарий для комментария #%d"
+
+#: inc/importer/class-wxr-importer.php:1928
+msgid "Could not find the menu object for \"%s\" (post #%d)"
+msgstr "Не удалось найти объект меню для \"%s\" (post #%d)"
+
+#: inc/importer/class-wxr-importer.php:1822
+msgid "Could not find the post parent for \"%s\" (post #%d)"
+msgstr "Не удалось найти родительскую запись для \"%s\" (post #%d)"
+
+#: inc/importer/class-wxr-importer.php:1883
+msgid "Could not update \"%s\" (post #%d) with mapped data"
+msgstr "Не удалось обновить \"%s\" (post #%d) сопоставленными данными"
+
+#: inc/importer/class-wxr-importer.php:1994
+msgid "Could not update comment #%d with mapped data"
+msgstr "Не удалось обновить комментарий #%d с сопоставленными данными"
+
+#: inc/class-aftc-main.php:316
+msgid "Customizer import"
+msgstr "Импорт настройки темы"
+
+#: inc/class-aftc-main.php:667 inc/class-aftc-main.php:678
+msgid "Downloaded files"
+msgstr "Загруженные файлы"
+
+#: inc/class-aftc-main.php:330
+msgid "Enter the Redux option name:"
+msgstr "Введите имя опции Redux:"
+
+#: inc/importer/class-wxr-importer.php:855
+msgid "Failed to import \"%s\" (%s)"
+msgstr "Не удалось импортировать \"%s\" (%s)"
+
+#: inc/importer/class-wxr-importer.php:753
+msgid "Failed to import \"%s\": Invalid post type %s"
+msgstr "Не удалось импортировать \"%s\": неверный тип записи %s"
+
+#: inc/importer/class-wxr-importer.php:1519
+msgid "Failed to import user \"%s\""
+msgstr "Не удалось импортировать пользователя \"%s\""
+
+#: inc/class-aftc-helpers.php:625
+msgid "Files info:%1$sSite URL = %2$s%1$sData file = %3$s%1$sWidget file = %4$s%1$sCustomizer file = %5$s"
+msgstr "Информация о файлах:%1$sSite URL = %2$s%1$sData file = %3$s%1$sWidget file = %4$s%1$sCustomizer file = %5$s"
+
+#: inc/importer/class-wxr-importer.php:887
+#: inc/importer/class-wxr-importer.php:1705
+msgid "Imported \"%s\" (%s)"
+msgstr "Импортировано \"%s\" (%s)"
+
+#: inc/importer/class-wxr-importer.php:1540
+msgid "Imported user \"%s\""
+msgstr "Импортирован пользователь \"%s\""
+
+#: inc/class-aftc-main.php:797
+msgid "Importing content"
+msgstr "Импорт содержимого"
+
+#: inc/class-aftc-main.php:535
+msgid "Importing, please wait!"
+msgstr "Импортирование, подождите!"
+
+#: inc/importer/class-wxr-importer.php:564
+msgid "Invalid author mapping"
+msgstr "Неверное сопоставление автора"
+
+#: inc/class-aftc-main.php:296
+msgid "Manual demo files upload"
+msgstr "Загрузка демо файлов вручную"
+
+#: inc/class-aftc-main.php:651
+msgid "Manually uploaded files"
+msgstr "Файлы, загруженные вручную"
+
+#: inc/class-aftc-main.php:795
+msgid "Max execution time after content import = "
+msgstr "Макс. время выполнения после импорта контента = "
+
+#: inc/class-aftc-main.php:266
+msgid "No existing posts, pages, categories, images, custom post types or any other data will be deleted or modified."
+msgstr "Никакие существующие записи, страницы, рубрики, изображения, пользовательские типы записей или любые другие данные не будут удалены или изменены."
+
+#: inc/class-aftc-main.php:265
+msgid "No other data will be deleted"
+msgstr "Никакие другие данные не будут удалены"
+
+#: inc/class-aftc-main.php:588
+msgid "No preview image defined for this import."
+msgstr "Для этого импорта не определено изображение для предварительного просмотра."
+
+#: inc/class-aftc-main.php:408
+msgid "No preview image."
+msgstr "Нет изображения для предварительного просмотра."
+
+#: inc/class-aftc-widget-importer.php:291
+msgid "No results for widget import!"
+msgstr "Нет результатов для импорта виджетов!"
+
+#: inc/class-aftc-helpers.php:629 inc/class-aftc-helpers.php:630
+msgid "not defined!"
+msgstr "не определено!"
+
+#: inc/class-aftc-main.php:274
+msgid "Please click on the Import button only once and wait, it can take a couple of minutes."
+msgstr "Нажмите кнопку «Импорт» только один раз и подождите, это может занять пару минут."
+
+#: inc/importer/class-wxr-importer.php:892
+msgid "Post %d remapped to %d"
+msgstr "Сообщение %d переназначено на %d"
+
+#: inc/class-aftc-helpers.php:555
+msgid "Please upload XML file for content import. If you want to import widgets or customizer settings only, please use Widget Importer & Exporter or the Customizer Export/Import plugin."
+msgstr "Пожалуйста, загрузите файл XML для импорта контента. Если вы хотите импортировать только виджеты или настройки настройщика, используйте Widget Importer & Exporter или подключаемый плагин Customizer Export/Import."
+
+#: inc/importer/class-wxr-importer.php:1933
+msgid "Post %d was imported with object \"%d\" of type \"%s\", but could not be found"
+msgstr "Запись %d было импортировано с объектом \"%d\" типа \"%s\", но не найдено"
+
+#: inc/importer/class-wxr-importer.php:1846
+msgid "Post %d was imported with author \"%s\", but could not be found"
+msgstr "Запись %d было импортировано с автором \"%s\", но не найдено"
+
+#: inc/importer/class-wxr-importer.php:1827
+msgid "Post %d was imported with parent %d, but could not be found"
+msgstr "Запись %d было импортировано с родительским элементом %d, но не может быть найдено"
+
+#: inc/importer/class-wxr-importer.php:1872
+msgid "Post %d was marked for post-processing, but none was required."
+msgstr "Запись %d было помечена для постобработки, но это не требовалось."
+
+#: inc/class-aftc-main.php:270
+msgid "Posts, pages, images, widgets, menus and other theme settings will get imported."
+msgstr "Запись, страницы, изображения, виджеты, меню и другие настройки темы будут импортированы."
+
+#: inc/class-aftc-main.php:273
+msgid "Ready in a couple of minutes"
+msgstr "Готов за пару минут"
+
+#: inc/importer/class-wxr-importer.php:1763
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr "Удаленный сервер вернул %1$d %2$s для %3$s"
+
+#: inc/class-aftc-main.php:547
+msgid "Return to Importer"
+msgstr "Вернуться к импортеру"
+
+#: inc/importer/class-wxr-importer.php:1809
+msgid "Running post-processing for post %d"
+msgstr "Запуск постобработки для записи %d"
+
+#: inc/class-aftc-main.php:592
+msgid "Selected demo for the import"
+msgstr "Выбранное демо для импорта"
+
+#: inc/class-aftc-main.php:232
+msgid "Setup Your Site in a Single Click"
+msgstr "Настройте свой сайт в один клик"
+
+#: inc/importer/class-wxr-importer.php:841
+msgid "Skipping attachment \"%s\", fetching attachments disabled"
+msgstr "Пропуск вложения \"%s\", получение вложений отключено"
+
+#: inc/class-aftc-main.php:550
+msgid "Switch back to theme predefined imports!"
+msgstr "Вернитесь к предустановленному импорту тем!"
+
+#: inc/class-aftc-main.php:544
+msgid "Switch to manual import!"
+msgstr "Переключитесь на ручной импорт!"
+
+#: inc/importer/class-wxr-importer.php:1710
+msgid "Term %d remapped to %d"
+msgstr "Термин %d переназначен на %d"
+
+#: af-companion.php:27
+msgid "The %2$sAF Companion%3$s plugin requires %2$sPHP 5.3.2+%3$s to run properly. Please contact your hosting company and ask them to update the PHP version of your site to at least PHP 5.3.2.%4$s Your current version of PHP: %2$s%1$s%3$s"
+msgstr "Для нормальной работы плагина %2$sAF Companion%3$s требуется %2$sPHP 5.3.2+%3$s. Пожалуйста, свяжитесь с вашей хостинг-компанией и попросите ее обновить версию PHP на вашем сайте как минимум до PHP 5.3.2.%4$s Ваша текущая версия PHP: %2$s%1$s%3$s"
+
+#: inc/class-aftc-main.php:674
+msgid "The import files for: %s were successfully downloaded!"
+msgstr "Файлы импорта для: %s были успешно загружены!"
+
+#: inc/class-aftc-helpers.php:602
+msgid "The import files were successfully uploaded!"
+msgstr "Файлы импорта были успешно загружены!"
+
+#: inc/class-aftc-main.php:289
+msgid "There are no predefined import files available in this theme. Please upload the import files manually!"
+msgstr "В этой теме нет предопределенных файлов импорта. Пожалуйста, загрузите файлы импорта вручную!"
+
+#: inc/importer/class-wxr-importer.php:166
+#: inc/importer/class-wxr-importer.php:282
+#: inc/importer/class-wxr-importer.php:355
+msgid "This WXR file (version %s) is newer than the importer (version %s) and may not be supported. Please consider updating."
+msgstr "Этот файл WXR (версия %s) новее импортера (версия %s) и может не поддерживаться. Пожалуйста, рассмотрите возможность обновления."
+
+#: inc/class-aftc-main.php:318
+msgid "Upload a DAT file"
+msgstr "Загрузить DAT-файл"
+
+#: inc/class-aftc-main.php:310
+msgid "Upload a WIE or JSON file"
+msgstr "Загрузите файл WIE или JSON"
+
+#: inc/class-aftc-main.php:302
+msgid "Upload a XML file"
+msgstr "Загрузить XML-файл"
+
+#: inc/class-aftc-helpers.php:212
+msgid "URL for %s%s%s file is not defined!"
+msgstr "URL для файла %s%s%s не определен!"
+
+#: inc/importer/class-wxr-importer.php:1544
+msgid "User %d remapped to %d"
+msgstr "Пользователь %d переназначен на %d"
+
+#: inc/class-aftc-main.php:308
+msgid "Widget import"
+msgstr "Импорт виджета"
+
+#: inc/class-aftc-widget-importer.php:76
+msgid "Widget import data could not be read. Please try a different file."
+msgstr "Не удалось прочитать данные импорта виджета. Попробуйте другой файл."
+
+#: inc/class-aftc-widget-importer.php:44
+msgid "Widget import file could not be found."
+msgstr "Не удалось найти файл импорта виджета."
+
+#: inc/class-aftc-main.php:591
+msgid "Yes, import!"
+msgstr "Да, импортировать!"
+
+#: inc/class-aftc-helpers.php:413
+msgid "Your WordPress login credentials don't allow to use WP_Filesystem!"
+msgstr "Ваши учетные данные для входа в WordPress не позволяют использовать WP_Filesystem!"
+
+#: inc/class-aftc-customizer-importer.php:38
+msgid "The customizer import file is missing! File path: %s"
+msgstr "Файл импорта Настройка темы отсутствует! Путь к файлу: %s"
+
+#: inc/class-aftc-customizer-importer.php:58
+msgid "The customizer import file is not in a correct format. Please make sure to use the correct customizer import file."
+msgstr "Файл импорта Настройка темы имеет неправильный формат. Убедитесь, что вы используете правильный файл импорта Настройка темы."
+
+#: inc/class-aftc-helpers.php:381
+msgid "This WordPress page does not have %sdirect%s write file access. This plugin needs it in order to save the demo import xml file to the upload directory of your site. You can change this setting with these instructions: %s."
+msgstr "Эта страница WordPress не имеет %sdirect%sдоступа к записи файлов. Это необходимо, чтобы сохранить файл xml демо импорта в директорию upload вашего сайта. Вы можете изменить эту настройку с помощью следующих инструкций: %s."
+
+#: inc/importer/class-wxr-importer.php:130
+msgid "Could not open the file for parsing"
+msgstr "Не удалось открыть файл для разбора"
+
+#: inc/class-aftc-main.php:142 inc/class-aftc-main.php:143
+msgid "Import Demo Data"
+msgstr "Импортировать демо-данные"
+
+#: inc/class-aftc-helpers.php:574
+msgid "Widget file was not uploaded. Error: %s"
+msgstr "Файл виджета не загружен. Ошибка: %s"
+
+#: inc/class-aftc-helpers.php:592
+msgid "Customizer file was not uploaded. Error: %s"
+msgstr "Файл настройки темы не загружен. Ошибка: %s"
+
+#: inc/class-aftc-helpers.php:621
+msgid "Initial max execution time = %s"
+msgstr "Начальное максимальное время выполнения = %s"
+
+#: inc/class-aftc-main.php:683
+msgid "No import files specified!"
+msgstr "Файлы для импорта не указаны!"
+
+#: inc/class-aftc-main.php:837 inc/class-aftc-main.php:849
+msgid "Importing widgets"
+msgstr "Импорт виджетов"
+
+#: inc/class-aftc-widget-importer.php:116
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr "Боковая панель (Сайдбар) не существует в теме (перемещение виджета в неактивное состояние)"
+
+#: inc/class-aftc-widget-importer.php:236
+msgid "Imported to Inactive"
+msgstr "Импортировано в неактивный"
+
+#: inc/class-aftc-widget-importer.php:242
+msgid "No Title"
+msgstr "Нет заголовка"
+
+#: inc/class-aftc-main.php:872 inc/class-aftc-main.php:880
+msgid "Importing customizer settings"
+msgstr "Импорт настроек темы"
+
+#: inc/class-aftc-main.php:878
+msgid "Customizer settings import finished!"
+msgstr "Импорт настроек темы завершен!"
+
+#. Author of the plugin
+#: inc/class-aftc-main.php:228
+msgid "AF themes"
+msgstr "AF themes"

@@ -1,0 +1,14 @@
+2023-08-26T20:44:18+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in /home/1076073.cloudwaysapps.com/utztkqraym/public_html/wp-content/themes/general-news/functions.php on line 50
+
+2023-08-26T20:44:18+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in /home/1076073.cloudwaysapps.com/utztkqraym/public_html/wp-content/themes/general-news/functions.php on line 50
+
+2023-08-26T21:07:00+00:00 CRITICAL Uncaught Error: Call to a member function enqueue_styles() on null in /home/1076073.cloudwaysapps.com/utztkqraym/public_html/wp-content/plugins/header-footer-elementor/inc/class-header-footer-elementor.php:385
+Stack trace:
+#0 /home/1076073.cloudwaysapps.com/utztkqraym/public_html/wp-includes/class-wp-hook.php(310): Header_Footer_Elementor->enqueue_scripts()
+#1 /home/1076073.cloudwaysapps.com/utztkqraym/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#2 /home/1076073.cloudwaysapps.com/utztkqraym/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /home/1076073.cloudwaysapps.com/utztkqraym/public_html/wp-includes/script-loader.php(2225): do_action()
+#4 /home/1076073.cloudwaysapps.com/utztkqraym/public_html/wp-includes/class-wp-customize-manager.php(457): wp_enqueue_scripts()
+#5 /home/1076073.cloudwaysapps.com/utztkqraym/public_html/wp-includes/class-wp-customize-manager.php(554): WP_Customize_Manager->wp_die()
+#6 /home/1076073.cloudwaysapps.com/utztkqraym/public_html/wp-inc in /home/1076073.cloudwaysapps.com/utztkqraym/public_html/wp-content/plugins/header-footer-elementor/inc/class-header-footer-elementor.php on line 385
+

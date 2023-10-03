@@ -1,0 +1,1579 @@
+# Translation of Plugins - TaxoPress is the WordPress Tag, Category, and Taxonomy Manager - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - TaxoPress is the WordPress Tag, Category, and Taxonomy Manager - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-05-17 14:25:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - TaxoPress is the WordPress Tag, Category, and Taxonomy Manager - Stable (latest release)\n"
+
+#: inc/terms-table.php:277
+msgid "No terms found."
+msgstr "Значения не найдены."
+
+#: inc/terms-table.php:638
+msgid "Cancel"
+msgstr "Отмена"
+
+#: inc/terms.php:115
+msgid "Item not updated."
+msgstr "Элемент не обновлен."
+
+#: inc/terms-table.php:611
+msgid "Quick Edit"
+msgstr "Быстрое редактирование"
+
+#: inc/terms-table.php:623
+msgctxt "term name"
+msgid "Taxonomy"
+msgstr "Таксономия"
+
+#: inc/post-tags.php:72
+msgid "Current Post"
+msgstr "Текущая запись"
+
+#: inc/terms-table.php:14
+msgid "Term"
+msgstr "Термин"
+
+#: inc/class-taxonomies-table.php:281 inc/terms-table.php:432
+msgid "View"
+msgstr "Показать"
+
+#: inc/terms.php:248
+msgid "Search Terms"
+msgstr "Критерии поиска"
+
+#: inc/functions.inc.php:362 inc/terms-table.php:15 inc/terms.php:171
+#: inc/terms.php:172 inc/terms.php:223
+msgid "Terms"
+msgstr "Термины"
+
+#: inc/autoterms.php:183
+msgid "Delete All Logs"
+msgstr "Удалить все журналы"
+
+#: inc/autoterms.php:180
+msgid "Disable Logs"
+msgstr "Отключить журналы"
+
+#: inc/class.admin.suggest.php:140
+msgid "Invalid request."
+msgstr "Неверный запрос."
+
+#: inc/autoterms-logs-table.php:550 inc/terms-table.php:639
+msgid "Update"
+msgstr "Обновить"
+
+#: inc/autoterms.php:178
+msgid "Enable Logs"
+msgstr "Включить журналы"
+
+#: inc/autoterms.php:931 inc/autoterms.php:966
+msgid "1 month ago"
+msgstr "1 месяц назад"
+
+#: inc/autoterms.php:940 inc/autoterms.php:974
+msgid "1 year ago"
+msgstr "1 год назад"
+
+#: inc/autoterms.php:238 inc/autoterms.php:348
+msgid "Logs"
+msgstr "Журналы"
+
+#: inc/autoterms-logs-table.php:146 inc/autoterms-logs-table.php:191
+#: inc/autoterms-table.php:69
+msgid "Source"
+msgstr "Источник"
+
+#: inc/autoterms-logs-table.php:194
+msgid "Date"
+msgstr "Дата"
+
+#: inc/autoterms-logs-table.php:188
+msgid "Post"
+msgstr "Запись"
+
+#: inc/autoterms-logs-table.php:128 inc/autoterms-logs-table.php:189
+#: inc/terms-table.php:199
+msgid "Post type"
+msgstr "Тип записи"
+
+#: inc/post-tags.php:291 inc/related-posts.php:285
+msgid "Display"
+msgstr "Отображать"
+
+#: inc/tag-clouds.php:291
+msgid "Design"
+msgstr "Оформление"
+
+#: inc/class.admin.suggest.php:59
+msgid "Refresh"
+msgstr "Обновить"
+
+#: inc/tag-clouds.php:296
+msgid "Display Format"
+msgstr "Формат отображения"
+
+#: inc/class.admin.manage.php:83
+msgid "Permission denied!"
+msgstr "Доступ запрещен!"
+
+#: inc/autoterms.php:407
+msgid "Sources"
+msgstr "Источники"
+
+#: includes-core/TaxopressCoreAdmin.php:123
+msgid "Request Support"
+msgstr "Запросить поддержку"
+
+#: inc/autoterms.php:422
+msgid "Schedule"
+msgstr "Запланировать"
+
+#: inc/autolinks.php:899 inc/autoterms.php:1056 inc/post-tags.php:639
+#: inc/related-posts.php:763 inc/suggestterms.php:717 inc/tag-clouds.php:731
+#: includes-core/TaxopressCoreAdmin.php:109
+#: includes-core/TaxopressCoreAdmin.php:162
+#: includes-core/TaxopressCoreAdmin.php:186
+#: includes-core/TaxopressCoreAdmin.php:210
+msgid "Upgrade to Pro"
+msgstr "Обновить до Pro-версии"
+
+#: includes-core/TaxopressCoreAdmin.php:132
+msgid "View Knowledge Base"
+msgstr "Просмотр базы знаний"
+
+#: review-request/review.php:282
+msgid "1 week"
+msgstr "1 неделя"
+
+#: review-request/review.php:298
+msgid "3 months"
+msgstr "3 месяца"
+
+#: inc/autoterms.php:812
+msgid "Hashtags"
+msgstr "Хэштеги"
+
+#: review-request/review.php:365
+msgid "Maybe later"
+msgstr "Возможно позже"
+
+#: review-request/review.php:367
+msgid "I already did"
+msgstr "Я уже сделал"
+
+#. translators: Used for autofill
+#: inc/taxonomies.php:1326
+msgid "%s list"
+msgstr "Список %s"
+
+#. translators: Used for autofill
+#: inc/taxonomies.php:1308
+msgid "%s list navigation"
+msgstr "%s навигация по списку"
+
+#. translators: Used for autofill
+#: inc/taxonomies.php:1361
+msgid "Back to %s"
+msgstr "Назад к %s"
+
+#: inc/taxonomies.php:1338
+msgid "Not Found"
+msgstr "Ничего не найдено"
+
+#: inc/taxonomies.php:1497
+msgid "Query Var"
+msgstr "Переменная запроса"
+
+#. translators: Used for autofill
+#: inc/taxonomies.php:1290
+msgid "No %s"
+msgstr "Нет %s"
+
+#: inc/taxonomies.php:1447
+msgid "Public"
+msgstr "Публичный"
+
+#: inc/related-posts.php:579 inc/tag-clouds.php:415
+#: review-request/review.php:290
+msgid "1 month"
+msgstr "1 месяц"
+
+#: inc/related-posts.php:587 inc/tag-clouds.php:417
+msgid "1 year"
+msgstr "1 год"
+
+#: inc/related-posts.php:575 inc/tag-clouds.php:414
+msgid "2 weeks"
+msgstr "2 недели"
+
+#: inc/related-posts.php:567 inc/tag-clouds.php:412
+msgid "24 hours"
+msgstr "24 часа"
+
+#: inc/related-posts.php:583 inc/tag-clouds.php:416
+msgid "6 months"
+msgstr "6 месяцев"
+
+#: inc/related-posts.php:571 inc/tag-clouds.php:413
+msgid "7 days"
+msgstr "7 дней"
+
+#. translators: Used for autofill
+#: inc/taxonomies-functions.php:1557 inc/taxonomies-functions.php:1575
+#: inc/taxonomies-functions.php:1598 inc/taxonomies-functions.php:1617
+#: inc/taxonomies.php:1115
+msgid "Add new %s"
+msgstr "Добавить новое %s"
+
+#: inc/taxonomies.php:1110
+msgid "Add New Item"
+msgstr "Добавить новый элемент"
+
+#. translators: Used for autofill
+#: inc/taxonomies-functions.php:1578 inc/taxonomies-functions.php:1625
+#: inc/taxonomies.php:1237
+msgid "Add or remove %s"
+msgstr "Добавить или удалить %s"
+
+#. translators: Used for autofill
+#: inc/taxonomies-functions.php:1562 inc/taxonomies-functions.php:1570
+#: inc/taxonomies-functions.php:1605 inc/taxonomies-functions.php:1623
+#: inc/taxonomies-functions.php:2312 inc/taxonomies.php:1046
+msgid "All %s"
+msgstr "Все %s"
+
+#: inc/taxonomies.php:1041
+msgid "All Items"
+msgstr "Все элементы"
+
+#: inc/related-posts.php:378 inc/tag-clouds.php:334
+msgid "All post types"
+msgstr "Все типы сообщений"
+
+#: inc/taxonomies.php:194 inc/terms-table.php:217
+msgid "All Taxonomies"
+msgstr "Все таксономии"
+
+#: inc/related-posts.php:631
+msgid "Alphabetical"
+msgstr "По алфавиту"
+
+#: inc/class.admin.clickterms.php:89 inc/suggestterms.php:515
+#: inc/tag-clouds.php:453 inc/tag-clouds.php:488
+msgid "Ascending"
+msgstr "Возрастающий"
+
+#: inc/post-tags-table.php:68 inc/related-posts-table.php:69
+msgid "Automatic display"
+msgstr "Автоматически отображать"
+
+#. translators: Used for autofill
+#: inc/taxonomies-functions.php:1579 inc/taxonomies-functions.php:1626
+#: inc/taxonomies.php:1256
+msgid "Choose from the most used %s"
+msgstr "Выбрать из часто используемых %s"
+
+#: inc/tag-clouds-table.php:362 inc/tag-clouds.php:384
+msgid "Cloud"
+msgstr "Облако"
+
+#: inc/class.admin.clickterms.php:89 inc/suggestterms.php:519
+#: inc/tag-clouds.php:454 inc/tag-clouds.php:489
+msgid "Descending"
+msgstr "Убывающий"
+
+#: inc/tag-clouds-table.php:69 inc/tag-clouds.php:394
+msgid "Display format"
+msgstr "Отображаемый формат"
+
+#. translators: Used for autofill
+#: inc/taxonomies-functions.php:1558 inc/taxonomies-functions.php:1573
+#: inc/taxonomies-functions.php:1599 inc/taxonomies-functions.php:1615
+#: inc/taxonomies.php:1063
+msgid "Edit %s"
+msgstr "Изменить %s"
+
+#: inc/taxonomies.php:1058
+msgid "Edit Item"
+msgstr "Изменить элемент"
+
+#: inc/class.admin.mass.php:361
+msgctxt "post"
+msgid "Inherit"
+msgstr "Наследовать"
+
+#: inc/class.admin.php:811
+msgid "Legacy"
+msgstr "Устаревшие"
+
+#: inc/class.client.php:129 inc/class.client.php:131 inc/class.client.php:153
+msgid "Media Tags"
+msgstr "Метки медиафайла"
+
+#: inc/taxonomies.php:1025
+msgid "Menu Name"
+msgstr "Название меню"
+
+#: inc/taxonomies-functions.php:1559 inc/taxonomies-functions.php:1600
+msgid "New %s"
+msgstr "Новое %s"
+
+#. translators: Used for autofill
+#: inc/taxonomies.php:1273 inc/taxonomies.php:1343
+msgid "No %s found"
+msgstr "Нет найденных %s"
+
+#: inc/taxonomies-functions.php:1564 inc/taxonomies-functions.php:1607
+msgid "No %s found."
+msgstr "%s не найдено."
+
+#: inc/autoterms.php:944 inc/autoterms.php:978 inc/related-posts.php:591
+#: inc/tag-clouds.php:418
+msgid "No limit"
+msgstr "Без ограничений"
+
+#: inc/taxonomies.php:1285
+msgid "No terms"
+msgstr "Нет категорий"
+
+#. translators: Used for autofill
+#: inc/taxonomies-functions.php:1571 inc/taxonomies-functions.php:1613
+#: inc/taxonomies.php:1149
+msgid "Parent %s"
+msgstr "Родитель %s"
+
+#. translators: Used for autofill
+#: inc/taxonomies-functions.php:1572 inc/taxonomies-functions.php:1614
+#: inc/taxonomies.php:1166
+msgid "Parent %s:"
+msgstr "Родитель %s:"
+
+#: inc/taxonomies.php:1144
+msgid "Parent Item"
+msgstr "Родительский элемент"
+
+#: inc/tag-clouds.php:593
+msgid "Percent"
+msgstr "Процент"
+
+#: inc/taxonomies.php:350
+msgid "Permalinks"
+msgstr "Постоянные ссылки"
+
+#: inc/taxonomies.php:468
+msgid "Plural Label"
+msgstr "Подпись множественного числа"
+
+#: inc/tag-clouds.php:590
+msgid "Point"
+msgstr "Точка"
+
+#. translators: Used for autofill
+#: inc/taxonomies-functions.php:1569 inc/taxonomies-functions.php:1622
+#: inc/taxonomies.php:1200
+msgid "Popular %s"
+msgstr "Популярные %s"
+
+#: inc/taxonomies.php:195 inc/terms-table.php:218
+msgid "Public Taxonomies"
+msgstr "Таксономии"
+
+#: inc/related-posts-table.php:14
+msgid "Related Post"
+msgstr "Похожие записи"
+
+#: inc/taxonomies.php:365
+msgid "REST API"
+msgstr "REST API"
+
+#: inc/taxonomies.php:782
+msgid "Rewrite"
+msgstr "Переписать"
+
+#. translators: Used for autofill
+#: inc/taxonomies-functions.php:1563 inc/taxonomies-functions.php:1568
+#: inc/taxonomies-functions.php:1606 inc/taxonomies-functions.php:1621
+#: inc/taxonomies.php:1183
+msgid "Search %s"
+msgstr "Поиск %s"
+
+#. translators: Used for autofill
+#: inc/taxonomies-functions.php:1577 inc/taxonomies-functions.php:1624
+#: inc/taxonomies.php:1219
+msgid "Separate %s with commas"
+msgstr "Разделять %s запятыми"
+
+#: inc/post-tags-table.php:69 inc/related-posts-table.php:70
+#: inc/tag-clouds-table.php:70
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: inc/taxonomies.php:409 inc/taxonomies.php:667
+msgid "Taxonomy Slug"
+msgstr "Ярлык таксономии"
+
+#: inc/taxonomies.php:383
+msgid "Templates"
+msgstr "Шаблоны"
+
+#: inc/taxonomies-functions.php:1574 inc/taxonomies-functions.php:1616
+msgid "Update %s"
+msgstr "Обновить %s"
+
+#. translators: Used for autofill
+#: inc/taxonomies-functions.php:1560 inc/taxonomies-functions.php:1561
+#: inc/taxonomies-functions.php:1601 inc/taxonomies-functions.php:1604
+#: inc/taxonomies.php:1080
+msgid "View %s"
+msgstr "Просмотр %s"
+
+#: inc/taxonomies.php:1075
+msgid "View Item"
+msgstr "Просмотр элемента"
+
+#: inc/taxonomies-functions.php:1966
+msgid "Invalid taxonomy."
+msgstr "Неверная таксономия."
+
+#: inc/related-posts-table.php:68 inc/related-posts.php:403
+#: inc/tag-clouds-table.php:68 inc/tag-clouds.php:349
+msgid "Post Type"
+msgstr "Тип записи"
+
+#: inc/autoterms-logs-table.php:164 inc/autoterms-logs-table.php:195
+#: inc/class.admin.php:531
+msgid "Settings"
+msgstr "Настройки"
+
+#: inc/taxonomies.php:1662
+msgid "Add Taxonomy"
+msgstr "Добавить таксономию"
+
+#: inc/taxonomies.php:328
+msgid "Edit Taxonomy"
+msgstr "Править таксономию"
+
+#: inc/class.admin.manage.php:296
+msgid "Merge"
+msgstr "Объединить"
+
+#: inc/post-tags.php:691 inc/related-posts.php:814 inc/tag-clouds.php:779
+msgid "Shortcode: "
+msgstr "Шорткод: "
+
+#: inc/class-taxonomies-table.php:69
+msgid "Active"
+msgstr "Активна"
+
+#: inc/autolinks.php:126 inc/post-tags.php:126 inc/related-posts.php:128
+#: inc/suggestterms.php:127 inc/tag-clouds.php:128 inc/taxonomies.php:155
+msgid "Add New"
+msgstr "Добавить новую"
+
+#: inc/autolinks.php:699
+msgid "code"
+msgstr "код"
+
+#: inc/autolinks.php:301
+msgid "Control"
+msgstr "Управление"
+
+#: inc/class-tag-table.php:43 inc/class-taxonomies-table.php:71
+#: inc/terms-table.php:117
+msgid "Count"
+msgstr "Счётчик"
+
+#: inc/autolinks.php:308
+msgid "Exceptions"
+msgstr "Исключения"
+
+#: inc/autolinks.php:689 inc/related-posts.php:337
+msgid "H1"
+msgstr "H1"
+
+#: inc/autolinks.php:690 inc/related-posts.php:341
+msgid "H2"
+msgstr "H2"
+
+#: inc/autolinks.php:691 inc/related-posts.php:345
+msgid "H3"
+msgstr "H3"
+
+#: inc/autolinks.php:749 inc/autolinks.php:781 inc/autolinks.php:847
+#: inc/autoterms.php:600 inc/autoterms.php:614 inc/autoterms.php:645
+#: inc/autoterms.php:659 inc/autoterms.php:689 inc/autoterms.php:746
+#: inc/autoterms.php:771 inc/autoterms.php:796 inc/autoterms.php:871
+#: inc/post-tags.php:546 inc/related-posts.php:458 inc/related-posts.php:671
+#: inc/suggestterms.php:444 inc/suggestterms.php:555 inc/suggestterms.php:569
+#: inc/suggestterms.php:598 inc/suggestterms.php:656 inc/tag-clouds.php:516
+#: inc/tag-clouds.php:539 inc/tag-clouds.php:612 inc/taxonomies.php:492
+#: inc/taxonomies.php:611 inc/taxonomies.php:626 inc/taxonomies.php:767
+#: inc/taxonomies.php:803 inc/taxonomies.php:828 inc/taxonomies.php:863
+#: inc/taxonomies.php:887 inc/taxonomies.php:911 inc/taxonomies.php:936
+#: inc/taxonomies.php:960 inc/taxonomies.php:985 inc/taxonomies.php:1377
+#: inc/taxonomies.php:1432 inc/taxonomies.php:1457 inc/taxonomies.php:1482
+msgid "False"
+msgstr "False"
+
+#: inc/autolinks.php:692 inc/related-posts.php:349
+msgid "H4"
+msgstr "H4"
+
+#: inc/autolinks.php:693 inc/related-posts.php:354
+msgid "H5"
+msgstr "H5"
+
+#: inc/autolinks.php:694 inc/related-posts.php:358
+msgid "H6"
+msgstr "H6"
+
+#: inc/autolinks-table.php:343 inc/post-tags-table.php:342
+#: inc/post-tags.php:422 inc/related-posts-table.php:382
+#: inc/related-posts.php:504
+msgid "Homepage"
+msgstr "Главная страница"
+
+#: inc/autolinks.php:94 inc/autoterms.php:105 inc/autoterms.php:112
+#: inc/post-tags.php:94 inc/related-posts.php:95 inc/suggestterms.php:94
+#: inc/tag-clouds.php:95 inc/taxonomies.php:122 inc/terms.php:194
+msgid "Number of items per page"
+msgstr "Количество элементов на странице"
+
+#: inc/autolinks.php:993 inc/autoterms.php:1149 inc/post-tags.php:752
+#: inc/related-posts.php:875 inc/suggestterms.php:797 inc/tag-clouds.php:842
+#: inc/taxonomies.php:1694
+msgid "Okay"
+msgstr "Хорошо"
+
+#: inc/autolinks-table.php:372 inc/autolinks.php:435 inc/autoterms.php:503
+msgid "Post Content"
+msgstr "Содержимое записи"
+
+#: inc/autolinks-table.php:373 inc/autolinks.php:440 inc/autoterms.php:507
+msgid "Post Title"
+msgstr "Заголовок записи"
+
+#: inc/autolinks.php:294 inc/autoterms.php:559
+#: inc/class-taxonomies-table.php:70 inc/suggestterms.php:400
+#: inc/taxonomies.php:345 inc/terms-table.php:115
+msgid "Post Types"
+msgstr "Типы записей"
+
+#: inc/autolinks-table.php:346 inc/post-tags-table.php:345
+#: inc/related-posts-table.php:385
+msgid "RSS feed"
+msgstr "RSS лента"
+
+#. translators: %s: search keywords
+#: inc/autolinks.php:134 inc/autoterms.php:193 inc/autoterms.php:248
+#: inc/post-tags.php:134 inc/related-posts.php:136 inc/suggestterms.php:138
+#: inc/tag-clouds.php:136 inc/taxonomies.php:163 inc/terms.php:232
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Результаты поиска для &#8220;%s&#8221;"
+
+#: inc/autolinks-functions.php:257 inc/autoterms-functions.php:333
+#: inc/post-tags-functions.php:189 inc/related-posts-functions.php:230
+#: inc/suggestterms-functions.php:246 inc/tag-clouds-functions.php:238
+msgid "Settings updated successfully."
+msgstr "Настройки успешно обновлены."
+
+#: inc/class-tag-table.php:12
+msgid "Tag Cloud"
+msgstr "Облако меток"
+
+#: inc/class-taxonomies-table.php:15 inc/functions.inc.php:356
+#: inc/taxonomies.php:99 inc/taxonomies.php:100 inc/taxonomies.php:153
+msgid "Taxonomies"
+msgstr "Таксономии"
+
+#: inc/autolinks-table.php:67 inc/autolinks.php:388
+#: inc/autoterms-logs-table.php:137 inc/autoterms-logs-table.php:190
+#: inc/autoterms-table.php:67 inc/autoterms.php:493
+#: inc/class-taxonomies-table.php:14 inc/class.admin.clickterms.php:55
+#: inc/post-tags-table.php:67 inc/post-tags.php:373
+#: inc/related-posts-table.php:67 inc/related-posts.php:440
+#: inc/suggestterms-table.php:67 inc/tag-clouds-table.php:67
+#: inc/tag-clouds.php:377 inc/terms-table.php:114 inc/terms-table.php:208
+msgid "Taxonomy"
+msgstr "Таксономия"
+
+#: inc/class-taxonomies-table.php:350
+msgid "WordPress core"
+msgstr "Ядро WordPress"
+
+#: inc/autolinks.php:322 inc/autoterms.php:427 inc/post-tags.php:305
+#: inc/related-posts.php:295 inc/taxonomies.php:370
+msgid "Advanced"
+msgstr "Дополнительно"
+
+#: inc/class-taxonomies-table.php:68 inc/taxonomies.php:525
+msgid "Description"
+msgstr "Описание"
+
+#: inc/autolinks.php:287 inc/autoterms.php:402 inc/post-tags.php:284
+#: inc/related-posts.php:280 inc/suggestterms.php:285 inc/tag-clouds.php:281
+#: inc/taxonomies.php:340
+msgid "General"
+msgstr "Общие"
+
+#: inc/autolinks.php:999 inc/autoterms.php:1156
+#: inc/class-taxonomies-table.php:372 inc/post-tags-table.php:355
+#: inc/post-tags.php:758 inc/related-posts-table.php:395
+#: inc/related-posts.php:882 inc/suggestterms.php:805 inc/tag-clouds.php:849
+#: inc/taxonomies.php:1701
+msgid "No"
+msgstr "Нет"
+
+#: inc/autolinks-table.php:356 inc/autoterms-logs-table.php:428
+#: inc/autoterms-table.php:356 inc/related-posts.php:333
+#: inc/suggestterms-table.php:355
+msgid "None"
+msgstr "Нет"
+
+#: inc/autolinks-table.php:66 inc/autolinks.php:341 inc/autoterms-table.php:66
+#: inc/autoterms.php:445 inc/post-tags-table.php:66 inc/post-tags.php:324
+#: inc/related-posts-table.php:66 inc/related-posts.php:313
+#: inc/suggestterms-table.php:66 inc/suggestterms.php:316
+#: inc/tag-clouds-table.php:66 inc/tag-clouds.php:316 inc/terms-table.php:112
+msgid "Title"
+msgstr "Заголовок"
+
+#: inc/autolinks.php:1000 inc/autoterms.php:1158
+#: inc/class-taxonomies-table.php:374 inc/post-tags.php:759
+#: inc/related-posts.php:884 inc/suggestterms.php:807 inc/tag-clouds.php:851
+#: inc/taxonomies.php:1703
+msgid "Yes"
+msgstr "Да"
+
+#. Author URI of the plugin
+msgid "https://taxopress.com"
+msgstr "https://taxopress.com"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/simple-tags/"
+msgstr "https://wordpress.org/plugins/simple-tags/"
+
+#: inc/autolinks.php:753 inc/autolinks.php:786 inc/autolinks.php:851
+#: inc/autoterms.php:605 inc/autoterms.php:618 inc/autoterms.php:650
+#: inc/autoterms.php:663 inc/autoterms.php:694 inc/autoterms.php:751
+#: inc/autoterms.php:776 inc/autoterms.php:801 inc/autoterms.php:876
+#: inc/post-tags.php:551 inc/related-posts.php:463 inc/related-posts.php:676
+#: inc/suggestterms.php:449 inc/suggestterms.php:559 inc/suggestterms.php:574
+#: inc/suggestterms.php:603 inc/suggestterms.php:661 inc/tag-clouds.php:521
+#: inc/tag-clouds.php:544 inc/tag-clouds.php:616 inc/taxonomies.php:497
+#: inc/taxonomies.php:616 inc/taxonomies.php:630 inc/taxonomies.php:771
+#: inc/taxonomies.php:807 inc/taxonomies.php:833 inc/taxonomies.php:867
+#: inc/taxonomies.php:891 inc/taxonomies.php:915 inc/taxonomies.php:941
+#: inc/taxonomies.php:965 inc/taxonomies.php:990 inc/taxonomies.php:1381
+#: inc/taxonomies.php:1436 inc/taxonomies.php:1461 inc/taxonomies.php:1486
+msgid "True"
+msgstr "True"
+
+#: inc/class.client.related_posts.php:101 inc/helper.options.default.php:48
+#: inc/related-posts-functions.php:155
+msgid "No related posts."
+msgstr "Нет связанных записей."
+
+#: inc/class.client.related_posts.php:100 inc/helper.options.default.php:49
+msgid "<h4>Related posts</h4>"
+msgstr "<h4>Связанные записи</h4>"
+
+#: inc/class.client.related_posts.php:103 inc/helper.options.default.php:50
+msgid "<a href=\"%post_permalink%\" title=\"%post_title% (%post_date%)\">%post_title%</a> (%post_comment%)"
+msgstr "<a href=\"%post_permalink%\" title=\"%post_title% (%post_date%)\">%post_title%</a> (%post_comment%)"
+
+#: inc/class.client.tagcloud.php:66 inc/class.client.tagcloud.php:273
+#: inc/helper.options.default.php:59
+msgid "No tags."
+msgstr "Нет меток."
+
+#: inc/class.client.tagcloud.php:67 inc/class.client.tagcloud.php:274
+#: inc/helper.options.default.php:60
+msgid "<h4>Tag Cloud</h4>"
+msgstr "<h4>Облако меток</h4>"
+
+#: inc/class.client.tagcloud.php:64 inc/class.client.tagcloud.php:271
+#: inc/helper.options.default.php:62
+msgid "<a href=\"%tag_link%\" id=\"tag-link-%tag_id%\" class=\"st-tags t%tag_scale%\" title=\"%tag_count% topics\" %tag_rel% style=\"%tag_size% %tag_color%\">%tag_name%</a>"
+msgstr "<a href=\"%tag_link%\" id=\"tag-link-%tag_id%\" class=\"st-tags t%tag_scale%\" title=\"%tag_count% topics\" %tag_rel% style=\"%tag_size% %tag_color%\">%tag_name%</a>"
+
+#: inc/class.client.post_tags.php:112 inc/post-tags-functions.php:156
+msgid "No tag for this post."
+msgstr "В записи нет меток."
+
+#: inc/helper.options.default.php:40
+msgid "<a href=\"%tag_link%\" title=\"%tag_name%\" %tag_rel%>%tag_name%</a>"
+msgstr "<a href=\"%tag_link%\" title=\"%tag_name%\" %tag_rel%>%tag_name%</a>"
+
+#: inc/autolinks-functions.php:160 inc/helper.options.default.php:29
+msgid "Posts tagged with %s"
+msgstr "Записи, помеченные с  %s"
+
+#: inc/class.client.tagcloud.php:558
+msgid "Invalid Taxonomy"
+msgstr "Недопустимая таксономия"
+
+#: inc/helper.options.admin.php:354
+msgid "Example: You have a tag called \"WordPress\" and your post content contains \"wordpress\", this feature will replace \"wordpress\" by a link to \"wordpress\" tags page. (http://myblog.net/tag/wordpress/)"
+msgstr "Например: Вы имеете метку с названием \"WordPress\" и ваша содержимое вашей записи имеет слово \"wordpress\", эта функция заменит \"wordpress\" на ссылку страницы метки \"wordpress\" . (http://myblog.net/tag/wordpress/)"
+
+#: inc/helper.options.admin.php:181 inc/helper.options.admin.php:272
+msgid "<code>no</code> &ndash; Nowhere (default)"
+msgstr "<code>no</code> &ndash; Нигде (по умолчанию)"
+
+#: inc/helper.options.admin.php:182 inc/helper.options.admin.php:273
+#: inc/helper.options.admin.php:419
+msgid "<code>all</code> &ndash; On your blog and feeds."
+msgstr "<code>all</code> &ndash; На вашем блоге и в RSS ленте."
+
+#: inc/helper.options.admin.php:184 inc/helper.options.admin.php:275
+msgid "<code>homeonly</code> &ndash; Only on your home page."
+msgstr "<code>homeonly</code> &ndash; Только на домашней странице."
+
+#: inc/helper.options.admin.php:186 inc/helper.options.admin.php:277
+msgid "<code>singleonly</code> &ndash; Only on your single view."
+msgstr "<code>singleonly</code> &ndash; Только в одиночном просмотре."
+
+#: inc/helper.options.admin.php:187 inc/helper.options.admin.php:278
+msgid "<code>pageonly</code> &ndash; Only on your page view."
+msgstr "<code>pageonly</code> &ndash; Только при просмотре страницы."
+
+#: inc/helper.options.admin.php:193
+msgid "Post tag separator string:"
+msgstr "Разделитель в строке меток записи:"
+
+#: inc/helper.options.admin.php:198
+msgid "Text to display before tags list:"
+msgstr "Текст для показа до списка меток:"
+
+#: inc/helper.options.admin.php:203
+msgid "Text to display after tags list:"
+msgstr "Текст для показа после списка меток:"
+
+#: inc/helper.options.admin.php:212
+msgid "You must set zero (0) for display all tags."
+msgstr "Вы должны установить значение в ноль (0) чтобы показать все метки."
+
+#: inc/class.widgets.php:369 inc/helper.options.admin.php:79
+#: inc/helper.options.admin.php:222
+msgid "Tag link format:"
+msgstr "Формат ссылки метки:"
+
+#: inc/helper.options.admin.php:229
+msgid "Text to display if no tags found:"
+msgstr "Текст для показа, если метки не найдены:"
+
+#: inc/helper.options.admin.php:145 inc/helper.options.admin.php:235
+#: inc/helper.options.admin.php:332
+msgid "<strong>Advanced usage</strong>:"
+msgstr "<strong>Расширенное использование</strong>:"
+
+#: inc/helper.options.admin.php:268
+msgid "Automatically display related posts into post content"
+msgstr "Автоматически добавлять связанные записи в содержимое записей"
+
+#: inc/helper.options.admin.php:284
+msgid "Related Posts Order:"
+msgstr "Порядок связанных записей:"
+
+#: inc/helper.options.admin.php:288
+msgid "<code>date-asc</code> &ndash; Older Entries."
+msgstr "<code>date-asc</code> &ndash; Старые записи."
+
+#: inc/helper.options.admin.php:289
+msgid "<code>date-desc</code> &ndash; Newer Entries."
+msgstr "<code>date-desc</code> &ndash; Новые записи."
+
+#: inc/helper.options.admin.php:293
+msgid "<code>name-desc</code> &ndash; Inverse Alphabetical."
+msgstr "<code>name-desc</code> &ndash; Алфавит в обратном порядкеl."
+
+#: inc/helper.options.admin.php:27 inc/helper.options.admin.php:294
+msgid "<code>random</code> &ndash; Random."
+msgstr "<code>random</code> &ndash; Случайно."
+
+#: inc/helper.options.admin.php:300
+msgid "Post link format:"
+msgstr "Формат ссылки записи:"
+
+#: inc/helper.options.admin.php:308
+msgid "Maximum number of related posts to display: (default: 5)"
+msgstr "Максимальное число связанных записей для отображения: (по умолчанию: 5)"
+
+#: inc/helper.options.admin.php:316
+msgid "Enter the text to show when there is no related post:"
+msgstr "Введите текст, показываемый если нет связанных записей:"
+
+#: inc/helper.options.admin.php:103 inc/helper.options.admin.php:324
+msgid "Enter the positioned title before the list, leave blank for no title:"
+msgstr "Введите заголовок, показываемый перед списком. Оставьте пустым если заголовок не нужен:"
+
+#: inc/helper.options.admin.php:71
+msgid "<code>list</code> &ndash; Display a formatted list (ul/li)."
+msgstr "<code>list</code> &ndash; Показать форматированный список (ul/li)."
+
+#: inc/helper.options.admin.php:72
+msgid "<code>flat</code> &ndash; Display inline (no list, just a div)"
+msgstr "<code>flat</code> &ndash; Встроить (не список, просто div)"
+
+#: inc/helper.options.admin.php:13
+msgid "<strong>&#8216;Order tags selection&#8217;</strong> is the first step during tag's cloud generation, corresponding to collect tags."
+msgstr "<strong>&#8216;Порядок выбора меток&#8217;</strong> это первый шаг во время генерации облака меток, в соответствии с выбранными метками."
+
+#: inc/helper.options.admin.php:14
+msgid "<strong>&#8216;Order tags display&#8217;</strong> is the second. Once tags choosen, you can reorder them before display."
+msgstr "<strong>&#8216;Порядок отображения меток&#8217;</strong> это второй шаг. После выбора меток, вы можете пересортировать их перед показом."
+
+#: inc/helper.options.admin.php:16
+msgid "<strong>Example:</strong> You want display randomly the 100 tags most popular.<br />"
+msgstr "<strong>Пример:</strong> Вы хотите показать случайно 100 наиболее популярных меток.<br />"
+
+#: inc/helper.options.admin.php:17
+msgid "You must set &#8216;Order tags selection&#8217; to <strong>count-desc</strong> for retrieve the 100 tags most popular and &#8216;Order tags display&#8217; to <strong>random</strong> for randomize cloud."
+msgstr "Вы должны установить &#8216;Порядок выбора меток&#8217; на <strong>count-desc</strong> для получения 100 наиболее популярных меток и &#8216;Порядок отображения меток&#8217; на <strong>random</strong> для случайной сортировки облака."
+
+#: inc/helper.options.admin.php:34
+msgid "Order tags selection:"
+msgstr "Порядок выбора меток:"
+
+#: inc/helper.options.admin.php:57
+msgid "Order tags display:"
+msgstr "Порядок отображения меток:"
+
+#: inc/helper.options.admin.php:50
+msgid "<code>random</code> &ndash; Random. (default)"
+msgstr "<code>random</code> &ndash; Случайно. (по умолчанию)"
+
+#: inc/helper.options.admin.php:68
+msgid "Tags cloud type format:"
+msgstr "Формат облака меток:"
+
+#: inc/helper.options.admin.php:87
+msgid "Maximum number of tags to display: (default: 45)"
+msgstr "Максимальное кол-во меток для отображения: (по умолчанию: 45)"
+
+#: inc/helper.options.admin.php:95
+msgid "Enter the text to show when there is no tag:"
+msgstr "Введите текст, показываемый когда нет меток:"
+
+#: inc/helper.options.admin.php:111
+msgid "Most popular color:"
+msgstr "Цвет наиболее популярных:"
+
+#: inc/helper.options.admin.php:114
+msgid "The colours are hexadecimal colours,  and need to have the full six digits (#eee is the shorthand version of #eeeeee)."
+msgstr "Цвета в шестнадцатеричном формате, вы должны ввести все шесть знаков (#eee это короткая версия от #eeeeee)."
+
+#: inc/helper.options.admin.php:118
+msgid "Least popular color:"
+msgstr "Цвет наименее популярных:"
+
+#: inc/helper.options.admin.php:124
+msgid "Most popular font size:"
+msgstr "Размер шрифта наиболее популярных:"
+
+#: inc/helper.options.admin.php:127
+msgid "The two font sizes are the size of the largest and smallest tags."
+msgstr "Два размера шрифта - это размеры самых больших и маленьких меток."
+
+#: inc/helper.options.admin.php:131
+msgid "Least popular font size:"
+msgstr "Размер шрифта наименее популярных:"
+
+#: inc/helper.options.admin.php:137
+msgid "The units to display the font sizes with, on tag clouds:"
+msgstr "Единицы измерения для отображения шрифта в облаке меток:"
+
+#: inc/helper.options.admin.php:140
+msgid "The font size units option determines the units that the two font sizes use."
+msgstr "Опция единиц измерения размеров шрифта задает единицы, используемые для двух размеров шрифта."
+
+#: inc/class.admin.php:584
+msgid "Options saved"
+msgstr "Настройки сохранены"
+
+#: inc/class.admin.php:590
+msgid "TaxoPress options resetted to default options!"
+msgstr "Настройки Simple Tags восстановлены по умолчанию!"
+
+#: views/admin/page-settings.php:39
+msgid "Do you really want to restore the default options?"
+msgstr "Вы действительно хотите восстановить настройки по умолчанию?"
+
+#: views/admin/page-settings.php:40
+msgid "Reset Options"
+msgstr "Сбросить настройки"
+
+#: inc/autolinks-table.php:275 inc/autoterms-logs-table.php:240
+#: inc/autoterms-table.php:275 inc/class-tag-table.php:195
+#: inc/post-tags-table.php:275 inc/related-posts-table.php:276
+#: inc/suggestterms-table.php:274 inc/tag-clouds-table.php:276
+#: inc/terms-table.php:164 inc/terms-table.php:424
+msgid "Delete"
+msgstr "Удалить"
+
+#: inc/class.admin.manage.php:213
+msgid "Add"
+msgstr "Добавить"
+
+#: inc/class.admin.mass.php:123 inc/related-posts-table.php:338
+#: inc/related-posts-table.php:355 inc/tag-clouds-table.php:345
+msgid "All"
+msgstr "Все"
+
+#: inc/class.admin.mass.php:286
+msgid "No content to edit."
+msgstr "Нет контента для редактирования."
+
+#: inc/class.admin.php:799
+msgid "Administration"
+msgstr "Администрирование"
+
+#: inc/class.admin.php:805
+msgid "Embedded Tags"
+msgstr "Встраиваемые метки"
+
+#: inc/class.admin.php:807
+msgid "Tags for Current Post"
+msgstr "Метки для текущей записи"
+
+#: inc/class.admin.php:809 inc/functions.inc.php:380
+#: inc/related-posts-table.php:15 inc/related-posts.php:72
+#: inc/related-posts.php:73 inc/related-posts.php:126
+msgid "Related Posts"
+msgstr "Связанные записи"
+
+#: inc/class.widgets.php:48
+msgid "Tag cloud"
+msgstr "Облако меток"
+
+#: inc/class.widgets.php:216
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: inc/class.widgets.php:274
+msgid "Random (default)"
+msgstr "Случайно (по умолчанию)"
+
+#: inc/class.widgets.php:294
+msgid "Font size mini: (default: 8)"
+msgstr "Минимальный размер шрифта: (по умолчанию: 8)"
+
+#: inc/class.widgets.php:303
+msgid "Font size max: (default: 22)"
+msgstr "Максимальный размер шрифта: (по умолчанию: 22)"
+
+#: inc/class.widgets.php:312
+msgid "Unit font size:"
+msgstr "Единица размера шрифта:"
+
+#: inc/class.widgets.php:316
+msgid "Point (default)"
+msgstr "Точки (по умолчанию)"
+
+#: inc/class.widgets.php:318 inc/tag-clouds.php:591
+msgid "Pixel"
+msgstr "Пиксели"
+
+#: inc/class.widgets.php:320 inc/tag-clouds.php:592
+msgid "Em"
+msgstr "Em"
+
+#: inc/class.widgets.php:322
+msgid "Pourcent"
+msgstr "Проценты"
+
+#: inc/class.widgets.php:329
+msgid "Format:"
+msgstr "Формат:"
+
+#: inc/class.widgets.php:333
+msgid "Flat (default)"
+msgstr "Flat (по умолчанию)"
+
+#: inc/class.widgets.php:335 inc/tag-clouds-table.php:363
+#: inc/tag-clouds.php:385
+msgid "List (UL/LI)"
+msgstr "Список (UL/LI)"
+
+#: inc/class.widgets.php:351
+msgid "Font color mini: (default: #CCCCCC)"
+msgstr "Цвет шрифта минимальных: (по умолчанию: #CCCCCC)"
+
+#: inc/class.widgets.php:360
+msgid "Font color max: (default: #000000)"
+msgstr "Цвет шрифта максимальных (по умолчанию: #000000)"
+
+#: inc/helper.options.default.php:37
+msgid "No tags for this post."
+msgstr "В записи нет меток."
+
+#: inc/class.client.post_tags.php:111 inc/post-tags-functions.php:155
+msgid "<a href=\"%tag_link%\" title=\"%tag_name_attribute%\" %tag_rel%>%tag_name%</a>"
+msgstr "<a href=\"%tag_link%\" title=\"%tag_name_attribute%\" %tag_rel%>%tag_name%</a>"
+
+#: inc/class.admin.mass.php:337
+msgid "Published posts"
+msgstr "Опубликованные записи"
+
+#: inc/class.admin.mass.php:342
+msgid "Scheduled posts"
+msgstr "Запланированные записи"
+
+#: inc/class.admin.mass.php:347
+msgid "Pending posts"
+msgstr "Ожидающие записи"
+
+#: inc/class.admin.mass.php:357
+msgid "Private posts"
+msgstr "Личные записи"
+
+#: inc/class.admin.mass.php:187
+msgid "Show all dates"
+msgstr "Показать за все время"
+
+#: inc/class.admin.mass.php:280
+msgid "Update all &raquo;"
+msgstr "Обновить все &raquo;"
+
+#: inc/class.widgets.php:85
+msgid "Tags"
+msgstr "Метки"
+
+#: inc/class.admin.mass.php:233
+msgid "Search"
+msgstr "Поиск"
+
+#: inc/class-tag-table.php:41 inc/class-taxonomies-table.php:66
+#: inc/class.admin.clickterms.php:76 inc/class.widgets.php:238
+#: inc/class.widgets.php:270 inc/suggestterms.php:486 inc/tag-clouds.php:434
+#: inc/tag-clouds.php:470
+msgid "Name"
+msgstr "Имя"
+
+#: inc/class.admin.php:803
+msgid "Features"
+msgstr "Особенности"
+
+#: inc/class.admin.mass.php:249
+msgid "Post title"
+msgstr "Заголовок записи"
+
+#: inc/helper.options.admin.php:256
+msgid "Taxonomy:"
+msgstr "Таксономия:"
+
+#: inc/class.admin.php:296
+msgid "Posts"
+msgstr "Записи"
+
+#: inc/helper.options.admin.php:292
+msgid "<code>name-asc</code> &ndash; Alphabetical."
+msgstr "<code>name-asc</code> &ndash; Алфавитный."
+
+#: inc/helper.options.admin.php:291
+msgid "<code>count-desc</code> &ndash; Most common tags between posts (default)"
+msgstr "<code>count-desc</code> &ndash; Наиболее распространенные теги между постами (по умолчанию)"
+
+#: inc/helper.options.admin.php:290
+msgid "<code>count-asc</code> &ndash; Least common tags between posts"
+msgstr "<code>count-asc</code> &ndash; Наименее распространенные теги между постами"
+
+#: inc/helper.options.admin.php:263
+msgid "Automatically display related posts into feeds"
+msgstr "Автоматически добавлять связанные записи в ленты"
+
+#: inc/helper.options.admin.php:259
+msgid "By default, related posts work with post tags, but you can use a custom taxonomy. Default value : post_tag"
+msgstr "По умолчанию связанные записи работают с тегами записей, но вы можете использовать пользовательскую таксономию. Значение по умолчанию: post_tag"
+
+#: inc/helper.options.admin.php:216
+msgid "Include categories in result ?"
+msgstr "Включить категории в результат?"
+
+#: inc/helper.options.admin.php:209
+msgid "Max tags display:"
+msgstr "Макс отображение меток:"
+
+#: inc/helper.options.admin.php:185 inc/helper.options.admin.php:276
+msgid "<code>singularonly</code> &ndash; Only on your singular view (single & page)."
+msgstr "<code>singularonly</code> &ndash; Только в одиночном просмотре (запись и страница)."
+
+#: inc/helper.options.admin.php:183 inc/helper.options.admin.php:274
+msgid "<code>blogonly</code> &ndash; Only on your blog."
+msgstr "<code>blogonly</code> &ndash; Только на странице блога."
+
+#: inc/helper.options.admin.php:178
+msgid "Automatically display tags list into post content:"
+msgstr "Автоматически отображать список меток в содержимом записей:"
+
+#: inc/helper.options.admin.php:172
+msgid "Automatically display tags list into feeds"
+msgstr "Автоматически отображать список меток в лентах"
+
+#: inc/helper.options.admin.php:48
+msgid "<code>count</code> &ndash; Counter."
+msgstr "<code>count</code> &ndash; Счетчик."
+
+#: inc/helper.options.admin.php:45
+msgid "Order by for tags display:"
+msgstr "Порядок отображения меток:"
+
+#: inc/helper.options.admin.php:38 inc/helper.options.admin.php:61
+msgid "<code>desc</code> &ndash; Descending."
+msgstr "<code>desc</code> &ndash; По убыванию."
+
+#: inc/helper.options.admin.php:37 inc/helper.options.admin.php:60
+msgid "<code>asc</code> &ndash; Ascending."
+msgstr "<code>asc</code> &ndash; По возрастанию."
+
+#: inc/helper.options.admin.php:26 inc/helper.options.admin.php:49
+msgid "<code>name</code> &ndash; Name."
+msgstr "<code>name</code> &ndash; Название."
+
+#: inc/helper.options.admin.php:25
+msgid "<code>count</code> &ndash; Counter. (default)"
+msgstr "<code>count</code> &ndash; Счетчик. (по умолчанию)"
+
+#: inc/helper.options.admin.php:22
+msgid "Order by for tags selection:"
+msgstr "Порядок выбора меток:"
+
+#: inc/helper.options.admin.php:436
+msgid "Text to display into title attribute for links:"
+msgstr "Текст для отображения в атрибуте заголовка для ссылок:"
+
+#: inc/helper.options.admin.php:431
+msgid "An engine replacement alternative uses DOMDocument PHP class and theoretically offers better performance. If your server does not offer the functionality, the plugin will use the usual engine."
+msgstr "Альтернативная замена движка использует класс PHP DOMDocument и теоретически обеспечивает лучшую производительность. Если ваш сервер не предлагает такой функциональности, плагин будет использовать обычный движок."
+
+#: inc/helper.options.admin.php:428
+msgid "Try new engine replacement ?"
+msgstr "Попробуйте новую замену движка?"
+
+#: inc/helper.options.admin.php:421
+msgid "<code>singular</code> &ndash; Only on your singular view (single post & page) (default)."
+msgstr "<code>singular</code> &ndash; Только в вашем одиночном представлении (один пост и страница) (по умолчанию)."
+
+#: inc/helper.options.admin.php:418
+msgid "<code>no</code> &ndash; Nowhere"
+msgstr "<code>no</code> &ndash; Нигде"
+
+#: inc/helper.options.admin.php:415
+msgid "Enable autolinks into post content for theses views:"
+msgstr "Включить автосвязь с контентом записи для просмотра тезисов:"
+
+#: inc/helper.options.admin.php:410
+msgid "For expert, possibility to change the priority of autolinks functions on the_content hook. Useful for fix a conflict with an another plugin. Default: 12."
+msgstr "Для эксперта, возможность изменения приоритета функций автосвязи на the_content hook. Полезно для исправления конфликта с другим плагином. По умолчанию: 12."
+
+#: inc/helper.options.admin.php:407
+msgid "Priority on hook the_content"
+msgstr "Приоритет над hook the_content"
+
+#: inc/helper.options.admin.php:402
+msgid "Example: If you enter the term \"Paris\", the auto link tags feature will never replace this term by this link."
+msgstr "Пример: Если вы введите термин \"Париж\", функция автосвязи тегов никогда не заменит этот термин по этой ссылке."
+
+#: inc/helper.options.admin.php:399
+msgid "Exclude some terms from tag link. For Ads Link subtition, etc."
+msgstr "Исключите некоторые термины из ссылки тегов. Для рекламных ссылок и т.д."
+
+#: inc/helper.options.admin.php:394
+msgid "Example: If you ignore case, auto link feature will replace the word \"wordpress\" by the tag link \"WordPress\"."
+msgstr "Например: Если вы игнорируете регистр, функция авто связи заменит слово \"wordpress\" ссылкой на метку \"WordPress\"."
+
+#: inc/helper.options.admin.php:391
+msgid "Ignore case for auto link feature ?"
+msgstr "Игнорировать регистр в функции автосвязи?"
+
+#: inc/helper.options.admin.php:378
+msgid "This setting determines the maximum number of links created by article for the same tag. Default: 1."
+msgstr "Эта настройка определяет максимальное количество ссылок, создаваемых статьей для одного и того же тега. По умолчанию: 1."
+
+#: inc/helper.options.admin.php:375
+msgid "Maximum number of links for the same tag:"
+msgstr "Макс количество ссылок на один и тот же тег:"
+
+#: inc/helper.options.admin.php:370
+msgid "This setting determines the maximum number of links created by article. Default: 10."
+msgstr "Этот параметр определяет максимальное количество ссылок, созданных статьей. По умолчанию: 10."
+
+#: inc/helper.options.admin.php:367
+msgid "Maximum number of links per article:"
+msgstr "Максимальное количество ссылок на статью:"
+
+#: inc/suggestterms.php:683
+msgid "OpenCalais API Key"
+msgstr "OpenCalais API Key"
+
+#: inc/helper.options.admin.php:156
+msgid "Enabling this will allow Wordpress to look for tag cloud shortcode <code>[st_tag_cloud]</code> or <code>[st-tag-cloud]</code> when displaying posts. WordPress replace this shortcode by a tag cloud."
+msgstr "Включение этого позволит WordPress искать шорткод облака тегов <code>[st_tag_cloud]</code> или <code>[st-tag-cloud]</code> при отображении сообщений. WordPress заменяет этот шорткод облаком тегов."
+
+#: inc/helper.options.admin.php:153
+msgid "Tag cloud Shortcode"
+msgstr "Шорткод облака тегов"
+
+#: inc/helper.options.admin.php:340
+msgid "Related posts by terms"
+msgstr "Похожие посты по терминам"
+
+#: inc/helper.options.admin.php:351
+msgid "Auto links tags"
+msgstr "Автосвязь тегов"
+
+#: inc/class.widgets.php:389
+msgid "What to show"
+msgstr "Что показывать"
+
+#: inc/class.widgets.php:379
+msgid "Advanced usage:"
+msgstr "Расширенное использование:"
+
+#: inc/class.widgets.php:345
+msgid "Use auto color cloud:"
+msgstr "Использовать авто раскраску облака:"
+
+#: inc/class.widgets.php:281
+msgid "Order for display tags:"
+msgstr "Порядок отображения меток:"
+
+#: inc/class.admin.clickterms.php:76 inc/class.widgets.php:272
+#: inc/suggestterms.php:490 inc/tag-clouds.php:436 inc/tag-clouds.php:471
+msgid "Counter"
+msgstr "Счетчик"
+
+#: inc/class.widgets.php:266
+msgid "Order by for display tags:"
+msgstr "Порядок отображения меток:"
+
+#: inc/class.widgets.php:259 inc/class.widgets.php:287
+msgid "DESC (default)"
+msgstr "УМЕН (по умолчанию)"
+
+#: inc/class.widgets.php:257 inc/class.widgets.php:285
+msgid "ASC"
+msgstr "УВЕЛ"
+
+#: inc/class.widgets.php:253
+msgid "Order for DB selection tags:"
+msgstr "Порядок DB меток:"
+
+#: inc/class.widgets.php:244
+msgid "Counter (default)"
+msgstr "Счетчик (по умолчанию)"
+
+#: inc/class.widgets.php:242
+msgid "Term group"
+msgstr "Группа терминов"
+
+#: inc/class.widgets.php:234
+msgid "Order by for DB selection tags:"
+msgstr "Порядок DB меток:"
+
+#: inc/class.widgets.php:225
+msgid "Max tags to display: (default: 45)"
+msgstr "Максимальное кол-во меток для отображения: (по умолчанию: 45)"
+
+#: inc/class.client.related_posts.php:482
+msgid "%d topic"
+msgid_plural "%d topics"
+msgstr[0] "%d постов"
+msgstr[1] "%d постов"
+msgstr[2] "%d постов"
+
+#: inc/class.client.post_tags.php:106 inc/helper.options.default.php:35
+#: inc/post-tags-functions.php:152
+msgid "Tags: "
+msgstr "Метки: "
+
+#: inc/class.admin.suggest.php:295
+msgid "No results from dataTXT API."
+msgstr "Нет результатов от dataTXT API."
+
+#: inc/class.admin.suggest.php:208
+msgid "No results from OpenCalais service."
+msgstr "Нет результатов от сервиса OpenCalais."
+
+#: inc/class.admin.suggest.php:169
+msgid "OpenCalais need an API key to work. You can register on service website to obtain a key and set it on TaxoPress options."
+msgstr "Для работы OpenCalais необходим API ключ. Вы можете зарегистрироваться на сайте сервиса, чтобы получить ключ и указать его в настройках Simple Tags."
+
+#: inc/class.admin.suggest.php:85
+msgid "Suggested tags"
+msgstr "Предлагаемые теги"
+
+#: inc/class.admin.suggest.php:58
+msgid "OpenCalais"
+msgstr "OpenCalais"
+
+#: inc/class.admin.php:801
+msgid "Auto link"
+msgstr "Авто ссылка"
+
+#: inc/class.admin.php:638
+msgid "This feature works only with activated JavaScript. Activate it in your Web browser so you can!"
+msgstr "Эта функция работает только с активированным JavaScript. Активируйте его в своем браузере!"
+
+#: inc/class.admin.php:636
+msgid "This feature requires at least 1 tag to work. Begin by adding tags!"
+msgstr "Эта функция требует не менее 1 тега для работы. Начните с добавления тегов!"
+
+#: inc/class.admin.php:392
+msgid "Change selection"
+msgstr "Изменение выбора"
+
+#: inc/class.admin.php:335
+msgid "This custom post type not have taxonomies."
+msgstr "Этот пользовательский тип поста не имеет таксономий."
+
+#: inc/class.admin.php:295
+msgid "Post tags"
+msgstr "Метки записи"
+
+#: inc/class.admin.mass.php:356
+msgctxt "post"
+msgid "Private"
+msgstr "Приватный"
+
+#: inc/class.admin.mass.php:353
+msgid "Draft <span class=\"count\">(%s)</span>"
+msgid_plural "Drafts <span class=\"count\">(%s)</span>"
+msgstr[0] "Черновики <span class=\"count\">(%s)</span>"
+msgstr[1] "Черновики <span class=\"count\">(%s)</span>"
+msgstr[2] "Черновики <span class=\"count\">(%s)</span>"
+
+#: inc/class.admin.mass.php:352
+msgctxt "manage posts header"
+msgid "Drafts"
+msgstr "Черновики"
+
+#: inc/class.admin.mass.php:351
+msgctxt "post"
+msgid "Draft"
+msgstr "Черновик"
+
+#: inc/class.admin.mass.php:348
+msgid "Pending Review <span class=\"count\">(%s)</span>"
+msgid_plural "Pending Review <span class=\"count\">(%s)</span>"
+msgstr[0] "В ожидании <span class=\"count\">(%s)</span>"
+msgstr[1] "В ожидании <span class=\"count\">(%s)</span>"
+msgstr[2] "В ожидании <span class=\"count\">(%s)</span>"
+
+#: inc/class.admin.mass.php:346
+msgctxt "post"
+msgid "Pending Review"
+msgstr "Ожидает оценки"
+
+#: inc/class.admin.mass.php:343
+msgid "Scheduled <span class=\"count\">(%s)</span>"
+msgid_plural "Scheduled <span class=\"count\">(%s)</span>"
+msgstr[0] "Запланированные <span class=\"count\">(%s)</span>"
+msgstr[1] "Запланированные <span class=\"count\">(%s)</span>"
+msgstr[2] "Запланированные <span class=\"count\">(%s)</span>"
+
+#: inc/class.admin.mass.php:341
+msgctxt "post"
+msgid "Scheduled"
+msgstr "Запланировано"
+
+#: inc/class.admin.mass.php:336
+msgctxt "post"
+msgid "Published"
+msgstr "Опубликовано"
+
+#: inc/class.admin.mass.php:250
+msgid "Terms : %s"
+msgstr "Термины : %s"
+
+#: inc/class.admin.mass.php:215
+msgid "Quantity&hellip;"
+msgstr "Количество&hellip;"
+
+#: inc/class.admin.mass.php:115
+msgid "Mass edit terms"
+msgstr "Массовое редактирование терминов"
+
+#: inc/class.admin.mass.php:83
+msgid "%1$s %2$s(s) terms updated with success !"
+msgstr "%1$s %2$s термины успешно обновлены !"
+
+#: inc/class.admin.mass.php:31 inc/functions.inc.php:404
+msgid "Mass Edit Terms"
+msgstr "Массовое редактирование терминов"
+
+#: inc/class.admin.manage.php:774
+msgid "No term added."
+msgstr "Термин не добавлены."
+
+#: inc/class.admin.manage.php:721
+msgid "No new term(s) specified!"
+msgstr "Новые термины не указаны!"
+
+#: inc/class.admin.manage.php:702 inc/class.admin.manage.php:815
+msgid "%1s term(s) deleted."
+msgstr "%1s термин удален."
+
+#: inc/class.admin.manage.php:700 inc/class.admin.manage.php:813
+msgid "No term deleted."
+msgstr "Ни один термин не удален."
+
+#: inc/class.admin.manage.php:517 inc/class.admin.manage.php:677
+msgid "No term specified!"
+msgstr "Ни один термин не определен!"
+
+#: inc/class.admin.manage.php:465 inc/class.admin.manage.php:495
+msgid "Merge term(s) &laquo;%1$s&raquo; to &laquo;%2$s&raquo;. %3$s objects edited."
+msgstr "Объединить термины &laquo;%1$s&raquo; с &laquo;%2$s&raquo;. %3$s объектов отредактировано."
+
+#: inc/class.admin.manage.php:493
+msgid "No term merged."
+msgstr "Ни один термин не объединен."
+
+#: inc/class.admin.manage.php:442
+msgid "No valid new term."
+msgstr "Нет действительного нового термина."
+
+#: inc/class.admin.manage.php:656
+msgid "Renamed term(s) &laquo;%1$s&raquo; to &laquo;%2$s&raquo;"
+msgstr "Переименован термин &laquo;%1$s&raquo; в &laquo;%2$s&raquo;"
+
+#: inc/class.admin.manage.php:654
+msgid "No term renamed."
+msgstr "Ни один термин не переименован."
+
+#: inc/class.admin.manage.php:432 inc/class.admin.manage.php:607
+msgid "No new/old valid term specified!"
+msgstr "Ни один новый/старый действительный термин не указан!"
+
+#: inc/class.admin.manage.php:417 inc/class.admin.manage.php:592
+msgid "No new term specified!"
+msgstr "Новые термины не определены!"
+
+#: inc/class.admin.manage.php:338
+msgid "Delete rarely used"
+msgstr "Удалить редко используемые"
+
+#: inc/class.admin.manage.php:306
+msgid "This feature allows you to remove rarely used terms."
+msgstr "Эта функция позволяет удалять редко используемые термины."
+
+#: inc/class.admin.manage.php:304
+msgid "Remove rarely used terms"
+msgstr "Удалить редко используемые термины"
+
+#: inc/class.admin.manage.php:206
+msgid "Term(s) to add:"
+msgstr "Термины для добавления:"
+
+#: inc/class.admin.manage.php:198
+msgid "Term(s) to match:"
+msgstr "Термины для сопоставления:"
+
+#: inc/class.admin.manage.php:167
+msgid "Add Terms"
+msgstr "Добавить термины"
+
+#: inc/autolinks-table.php:264 inc/autoterms-table.php:264
+#: inc/class-taxonomies-table.php:271 inc/class.admin.mass.php:263
+#: inc/post-tags-table.php:264 inc/related-posts-table.php:265
+#: inc/suggestterms-table.php:263 inc/tag-clouds-table.php:265
+#: inc/terms-table.php:388
+msgid "Edit"
+msgstr "Изменить"
+
+#: inc/class.admin.mass.php:358
+msgid "Private <span class=\"count\">(%s)</span>"
+msgid_plural "Private <span class=\"count\">(%s)</span>"
+msgstr[0] "Личные <span class=\"count\">(%s)</span>"
+msgstr[1] "Личные <span class=\"count\">(%s)</span>"
+msgstr[2] "Личные <span class=\"count\">(%s)</span>"
+
+#: inc/class.admin.mass.php:338
+msgid "Published <span class=\"count\">(%s)</span>"
+msgid_plural "Published <span class=\"count\">(%s)</span>"
+msgstr[0] "Опубликованные <span class=\"count\">(%s)</span>"
+msgstr[1] "Опубликованные <span class=\"count\">(%s)</span>"
+msgstr[2] "Опубликованные <span class=\"count\">(%s)</span>"
+
+#: inc/class-tag-table.php:42 inc/class.widgets.php:240 inc/tag-clouds.php:435
+#: inc/taxonomies.php:376 inc/terms-table.php:113 inc/terms-table.php:619
+msgid "Slug"
+msgstr "Ярлык"
+
+#: inc/class.client.related_posts.php:426
+msgid "There is no excerpt because this is a protected post."
+msgstr "Отрывка нет, потому что запись защищена."
+
+#: inc/autoterms-logs-table.php:172 inc/class.admin.mass.php:225
+#: inc/terms-table.php:222
+msgid "Filter"
+msgstr "Фильтр"
+
+#: inc/class.admin.manage.php:254
+msgid "Rename"
+msgstr "Переименовать"
+
+#: inc/related-posts.php:635
+msgid "Inverse Alphabetical"
+msgstr "Алфавит в обратном порядке"
+
+#: inc/class.admin.clickterms.php:76 inc/class.widgets.php:246
+#: inc/related-posts.php:640 inc/suggestterms.php:495 inc/tag-clouds.php:437
+#: inc/tag-clouds.php:472
+msgid "Random"
+msgstr "Случайно"
+
+#: inc/autolinks.php:315 inc/autoterms.php:412 inc/post-tags.php:298
+#: inc/related-posts.php:290
+msgid "Options"
+msgstr "Настройки"
+
+#: views/admin/page-settings.php:37
+msgid "Update options &raquo;"
+msgstr "Обновить настройки &raquo;"
+
+#: inc/class.admin.manage.php:247
+msgid "New term name(s):"
+msgstr "Новое название термина:"
+
+#: inc/class.admin.manage.php:239
+msgid "Term(s) to rename:"
+msgstr "Термины для переименования:"
+
+#: inc/class.admin.manage.php:61 inc/class.admin.manage.php:132
+#: inc/functions.inc.php:410
+msgid "Manage Terms"
+msgstr "Управление терминами"
+
+#: inc/class.admin.clickterms.php:269 inc/class.admin.suggest.php:351
+msgid "No results from your WordPress database."
+msgstr "Нет результатов из вашей базы данных WordPress."
+
+#: inc/class.admin.clickterms.php:221 inc/class.admin.suggest.php:334
+msgid "No terms in your WordPress database."
+msgstr "Нет терминов в вашей базе данных WordPress."
+
+#: inc/ajax-request.php:89
+msgid "All done! %s terms added."
+msgstr "Все готово! %s термины созданы."
+
+#: inc/autoterms.php:172 inc/autoterms.php:233 inc/autoterms.php:345
+msgid "Auto Terms List"
+msgstr "Список авто терминов"
+
+#: inc/autoterms.php:74 inc/autoterms.php:75 inc/functions.inc.php:392
+msgid "Auto Terms"
+msgstr "Авто термины"
+
+#: inc/class.admin.autocomplete.php:124
+msgid "Separate tags with commas"
+msgstr "Метки разделяются запятыми"

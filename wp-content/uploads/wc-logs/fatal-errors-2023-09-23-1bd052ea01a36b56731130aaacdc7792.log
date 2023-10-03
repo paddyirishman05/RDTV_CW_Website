@@ -1,0 +1,17 @@
+2023-09-23T14:59:32+00:00 CRITICAL Uncaught TypeError: Argument 2 passed to WC_Stripe_API::detach_payment_method_from_customer() must be of the type string, null given, called in /home/1104851.cloudwaysapps.com/utztkqraym/public_html/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-stripe-customer.php on line 472 and defined in /home/1104851.cloudwaysapps.com/utztkqraym/public_html/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-stripe-api.php:327
+Stack trace:
+#0 /home/1104851.cloudwaysapps.com/utztkqraym/public_html/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-stripe-customer.php(472): WC_Stripe_API::detach_payment_method_from_customer()
+#1 /home/1104851.cloudwaysapps.com/utztkqraym/public_html/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-stripe-intent-controller.php(132): WC_Stripe_Customer->delete_source()
+#2 /home/1104851.cloudwaysapps.com/utztkqraym/public_html/wp-includes/class-wp-hook.php(310): WC_Stripe_Intent_Controller->verify_intent()
+#3 /home/1104851.cloudwaysapps in /home/1104851.cloudwaysapps.com/utztkqraym/public_html/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-stripe-api.php on line 327
+
+2023-09-23T18:08:31+00:00 CRITICAL Uncaught Error: Call to a member function enqueue_styles() on null in /home/1104851.cloudwaysapps.com/utztkqraym/public_html/wp-content/plugins/header-footer-elementor/inc/class-header-footer-elementor.php:385
+Stack trace:
+#0 /home/1104851.cloudwaysapps.com/utztkqraym/public_html/wp-includes/class-wp-hook.php(310): Header_Footer_Elementor->enqueue_scripts()
+#1 /home/1104851.cloudwaysapps.com/utztkqraym/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#2 /home/1104851.cloudwaysapps.com/utztkqraym/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /home/1104851.cloudwaysapps.com/utztkqraym/public_html/wp-includes/script-loader.php(2225): do_action()
+#4 /home/1104851.cloudwaysapps.com/utztkqraym/public_html/wp-includes/class-wp-customize-manager.php(457): wp_enqueue_scripts()
+#5 /home/1104851.cloudwaysapps.com/utztkqraym/public_html/wp-includes/class-wp-customize-manager.php(554): WP_Customize_Manager->wp_die()
+#6 /home/1104851.cloudwaysapps.com/utztkqraym/public_html/wp-inc in /home/1104851.cloudwaysapps.com/utztkqraym/public_html/wp-content/plugins/header-footer-elementor/inc/class-header-footer-elementor.php on line 385
+

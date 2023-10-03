@@ -1,0 +1,41 @@
+# Translation of Themes - General News in Italian
+# This file is distributed under the same license as the Themes - General News package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-06-05 21:00:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: it\n"
+"Project-Id-Version: Themes - General News\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "General News is a high-quality WordPress theme designed for news, blog, and magazine websites. The theme includes several free demo sites that can be imported with a single click to build a wonderful news portal. The theme is entirely widgetized, allowing users to manage site content through the use of 9+ custom widgets and widget sections. It also has a variety of main banner choices, as well as a light and dark site mode for reading articles and blog entries in style. It also comes with a number of essential customizer options for constructing a visually appealing news site. You can configure it as you see fit before publishing any changes with the live customizer. The RTL supported theme is compatible with Elementor, Gutenberg blocks, and the WooCommerce plugin, allowing you to combine an online store with our newspaper theme. The theme is suitable for use on a news, journal, magazine, publication, or review website, as well as for blogging. It's well-designed to help the website rank better in search engines, and visitors will receive fantastic support from the team if they have any problems utilizing it. Find all demos and documentaion at https://afthemes.com/products/generalnews/"
+msgstr "General News è un tema WordPress di alta qualità, progettato per siti web di notizie, blog e riviste. Il tema include diversi siti demo gratuiti, che puoi importare con un solo clic, pensati per costruire un meraviglioso portale di notizie. Il tema è interamente widgetizzato e ti consente di gestire i contenuti del sito attraverso l'uso di oltre 9 widget personalizzati e sezioni di widget. Il tema offre anche molti tipi di banner principali, nonché una modalità di sito chiara e scura per leggere gli articoli e gli articoli del blog con stile. È inoltre dotato di una serie di opzioni di personalizzazione essenziali per realizzare un sito di notizie visivamente accattivante. Puoi configurarlo come preferisci prima di pubblicare qualsiasi modifica con il personalizzatore in tempo reale. Il tema supporta RTL, è compatibile con Elementor, con i blocchi Gutenberg e con il plugin WooCommerce, per aggiungere un negozio online del tema magazine. Il tema è adatto per l'uso su siti web di notizie, riviste, magazine, pubblicazioni o recensioni, oltre che per il blogging. È ben progettato per aiutare il sito a posizionarsi meglio sui motori di ricerca e un fantastico team di assistenza in caso di problemi nell'utilizzo. Trovi tutte le demo e la documentazione su https://afthemes.com/products/generalnews/"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "General News"
+msgstr "General News"
+
+#: functions.php:41
+msgid "Watch Videos"
+msgstr "Guarda i video"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://afthemes.com/"
+msgstr "https://afthemes.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "AF themes"
+msgstr "AF themes"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://afthemes.com/products/generalnews/"
+msgstr "https://afthemes.com/products/generalnews/"

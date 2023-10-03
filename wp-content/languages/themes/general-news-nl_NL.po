@@ -1,0 +1,41 @@
+# Translation of Themes - General News in Dutch
+# This file is distributed under the same license as the Themes - General News package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-04-05 13:45:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: nl\n"
+"Project-Id-Version: Themes - General News\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "General News is a high-quality WordPress theme designed for news, blog, and magazine websites. The theme includes several free demo sites that can be imported with a single click to build a wonderful news portal. The theme is entirely widgetized, allowing users to manage site content through the use of 9+ custom widgets and widget sections. It also has a variety of main banner choices, as well as a light and dark site mode for reading articles and blog entries in style. It also comes with a number of essential customizer options for constructing a visually appealing news site. You can configure it as you see fit before publishing any changes with the live customizer. The RTL supported theme is compatible with Elementor, Gutenberg blocks, and the WooCommerce plugin, allowing you to combine an online store with our newspaper theme. The theme is suitable for use on a news, journal, magazine, publication, or review website, as well as for blogging. It's well-designed to help the website rank better in search engines, and visitors will receive fantastic support from the team if they have any problems utilizing it. Find all demos and documentaion at https://afthemes.com/products/generalnews/"
+msgstr "Algemeen nieuws is een hoogwaardig WordPress thema ontworpen voor nieuws, blog en tijdschrift sites. Het thema bevat verschillende gratis demosites die met één klik kunnen worden geïmporteerd om een prachtig nieuws portaal te bouwen. Het thema is volledig gewidgetiseerd, waardoor gebruikers de inhoud van de site kunnen beheren door het gebruik van 9+ aangepaste widgets en widget secties. Het heeft ook een verscheidenheid aan hoofd banner keuzes, evenals een lichte en donkere site modus voor het lezen van artikelen en blog items in stijl. Het komt ook met enkele essentiële customizer opties voor het bouwen van een visueel aantrekkelijke nieuws site. Je kunt het naar eigen inzicht configureren voordat je wijzigingen publiceert met de live customizer. Het RTL ondersteunde thema is compatibel met Elementor, Gutenberg blokken en de WooCommerce plugin, waardoor je een online winkel kunt combineren met ons kranten thema. Het thema is geschikt voor gebruik op een nieuws, tijdschrift, tijdschrift, publicatie of beoordeling site, maar ook voor bloggen. Het is goed ontworpen om de site beter te laten scoren in zoekmachines, en bezoekers krijgen fantastische ondersteuning van het team als ze problemen hebben met het gebruik ervan. Vind alle demo's en documentatie op https://afthemes.com/products/generalnews/"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "General News"
+msgstr "General News"
+
+#: functions.php:41
+msgid "Watch Videos"
+msgstr "Video's bekijken"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://afthemes.com/"
+msgstr "https://afthemes.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "AF themes"
+msgstr "AF themes"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://afthemes.com/products/generalnews/"
+msgstr "https://afthemes.com/products/generalnews/"
